@@ -1,13 +1,8 @@
 """Sanity tests for the assessment item schema -- no API calls, just validation logic."""
-import sys
-from pathlib import Path
-
 import pytest
 from pydantic import ValidationError
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
-
-from afrilearner360_llm.item_generation.schema import (  # noqa: E402
+from afrilearner360_llm.item_generation.schema import (
     AssessmentItem,
     AssessmentOption,
     ItemGenerationResponse,
@@ -21,16 +16,16 @@ def _valid_item(**overrides):
         topic="fractions",
         grade_band="P3",
         locale="rwanda",
-        language="kinyarwanda",
+        language="english",
         point_budget=10,
-        scenario_text="Umwarimu arigisha ku bice bya fraction...",
+        scenario_text="Your class is learning how a whole is divided into equal parts...",
         options=[
-            AssessmentOption(trait=Trait.VISUAL, text="Reba amashusho y'ibice by'igikoni"),
-            AssessmentOption(trait=Trait.GAME, text="Kina umukino wo gutandukanya ibice"),
-            AssessmentOption(trait=Trait.STRUCTURED, text="Kurikira intambwe zigaragaza ibice"),
-            AssessmentOption(trait=Trait.STORY, text="Umva inkuru y'umuhinzi ugabanya umusaruro"),
+            AssessmentOption(trait=Trait.VISUAL, text="Look at the patterns on an Imigongo painting"),
+            AssessmentOption(trait=Trait.GAME, text="Play a game splitting Igisoro seeds into groups"),
+            AssessmentOption(trait=Trait.STRUCTURED, text="Follow the steps to divide a shape evenly"),
+            AssessmentOption(trait=Trait.STORY, text="Listen to a story about a farmer sharing a harvest"),
         ],
-        cultural_anchors_used=["local farming reference"],
+        cultural_anchors_used=["Imigongo", "Igisoro"],
         reviewer_notes="no concerns",
     )
     base.update(overrides)
@@ -62,6 +57,14 @@ def test_rejects_wrong_option_count():
     ]
     with pytest.raises(ValidationError):
         _valid_item(options=options)
+
+
+def test_translation_fields_default_to_unstamped():
+    # The model never fills these in -- generator.py stamps them after parsing, so a freshly
+    # parsed item must look "not yet stamped" rather than "no translation needed".
+    item = _valid_item()
+    assert item.delivery_language is None
+    assert item.needs_translation is False
 
 
 def test_generation_response_wraps_items():

@@ -16,9 +16,40 @@ trait_definitions:
 # Assessment item-generation settings.
 assessment:
   point_budget: 10          # points a student splits across the 4 options per item
+
+  # Number of items in one student's assessment. Every student in a class answers the SAME items:
+  # sampling different items per student would make k-means cluster partly on which items a
+  # student happened to get rather than on their traits (the differential-item-functioning risk
+  # in DESIGN.md §4.3).
+  #
+  # 10 chosen for resolution: each item allocates `point_budget` points, so N items give 10N total
+  # and one point moves a trait proportion by 10/N percentage points. At 10 items that is 1.0pp,
+  # which sits comfortably under the 12pp balanced / 15pp secondary thresholds the profiler uses.
+  # At 3 items it would be 3.3pp and profiles would be too coarse for those thresholds to mean
+  # much.
+  items_per_assessment: 10
+
   knowledge_base_path: "data/cultural_knowledge_base/rwanda.md"
-  language_by_grade_band:
-    lower_primary: kinyarwanda   # P1-P3 -- ~90% of students can't read grade-level English text
+
+  # The LLM always drafts items in this language, regardless of grade band. Free-tier models
+  # produce structurally correct but linguistically broken Kinyarwanda (real example in
+  # DESIGN.md §7: a model redefined "amashirahamwe" -- associations/cooperatives -- to mean
+  # "patterns"), so Kinyarwanda is produced by a human translator inside the review gate rather
+  # than by the model.
+  generation_language: english
+
+  # Language each grade band's items must be DELIVERED to students in. Where this differs from
+  # generation_language, a human translation step is required before the item can go live.
+  #
+  # Both bands are English for MVP. Lower primary was originally kinyarwanda -- only 38% of
+  # lower-primary students read grade-level English -- but that required a human translation pass
+  # per item, which blocked P1-P3 entirely (no free model writes usable Kinyarwanda; DESIGN.md §7).
+  #
+  # This is only sound if P1-P3 items are ADMINISTERED ORALLY, with the teacher rendering them in
+  # Kinyarwanda as they read. Handed to a 7-year-old as text, it measures English reading ability
+  # rather than engagement preference. See DESIGN.md §4.1 and §6.
+  delivery_language_by_grade_band:
+    lower_primary: english       # P1-P3 -- assumes teacher-mediated oral administration
     upper_primary: english       # P4-P6
 
 # Recommendation-generation context (feeds the LLM prompt at the recommendation stage).

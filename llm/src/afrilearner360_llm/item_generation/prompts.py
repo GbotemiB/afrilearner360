@@ -40,8 +40,11 @@ and a CULTURAL KNOWLEDGE BASE excerpt. Follow these rules exactly:
 5. Do not include real named individuals, brand names, frightening or violent content, or \
    anything that could read as mocking a group of people.
 6. Match reading level and sentence complexity to the stated grade band.
-7. Write in the specified language. If the language is Kinyarwanda, write it natively and \
-   naturally -- do not produce a literal word-for-word translation from English.
+7. Write in English, always. Some items will later be translated into another language by a \
+   human translator, so keep sentences short and plainly structured, and avoid idioms, puns, \
+   rhymes, and wordplay that would not survive translation. Cultural terms from the knowledge \
+   base (names of games, crafts, foods, practices) should be kept in their original form rather \
+   than translated into English.
 8. For every item, list the specific cultural references you drew from the knowledge base in \
    `cultural_anchors_used` (for human-reviewer traceability), and add a short `reviewer_notes` \
    flagging anything a local reviewer should double-check (or state "no concerns" if none).
@@ -54,7 +57,8 @@ def build_user_prompt(
     topic: str,
     grade_band: str,
     locale: str,
-    language: str,
+    generation_language: str,
+    delivery_language: str,
     point_budget: int,
     num_items: int,
     knowledge_base_excerpt: str,
@@ -65,13 +69,22 @@ def build_user_prompt(
     model (MiniMax M3) has a 1M token context window, so the full locale knowledge base file
     comfortably fits alongside the template and schema without needing a retrieval step.
     """
+    translation_note = (
+        f"These items will be translated into {delivery_language} by a human translator before "
+        f"reaching students, so favor short, plainly structured sentences that translate cleanly."
+        if delivery_language != generation_language
+        else f"These items will be shown to students in {delivery_language} as written."
+    )
+
     return f"""\
 Generate {num_items} assessment item(s) with the following parameters:
 
 Topic: {topic}
 Grade band: {grade_band}
 Locale: {locale}
-Language: {language}
+Write in: {generation_language}
+Delivery language: {delivery_language}. {translation_note}
+Set each item's `language` field to "{generation_language}" (the language you are writing in).
 Point budget per item: {point_budget} (students will split this many points across the four options)
 
 CULTURAL KNOWLEDGE BASE (use only this material as your source of cultural grounding):

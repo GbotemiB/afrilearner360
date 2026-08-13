@@ -13,7 +13,7 @@ from typing import Optional
 from openai import OpenAI
 
 from ..common.config import DEFAULT_MODEL, OPENROUTER_BASE_URL, require_api_key
-from ..common.locale_config import LocaleConfig, language_for_grade_band
+from ..common.locale_config import LocaleConfig, delivery_language_for_grade_band
 from .prompts import SYSTEM_PROMPT, build_user_prompt
 from .schema import ItemGenerationResponse
 
@@ -31,22 +31,31 @@ def generate_items(
     grade_band: str,
     num_items: int = 3,
     model: str = DEFAULT_MODEL,
-    language: Optional[str] = None,
+    delivery_language: Optional[str] = None,
 ) -> ItemGenerationResponse:
     """Generate `num_items` draft assessment items for one topic/grade band.
+
+    Items are always drafted in `locale_config.generation_language` (English). Where the grade
+    band's delivery language differs, the returned items are flagged `needs_translation` -- a
+    human translator handles that inside the review gate, because free-tier models produce
+    unusable Kinyarwanda (see DESIGN.md §7).
 
     Raises pydantic.ValidationError if the model's output doesn't match the schema (e.g. wrong
     number of options) -- caller should treat that as "retry or escalate to a human", not silently
     swallow it, since a malformed item must never reach students.
     """
-    language = language or language_for_grade_band(locale_config, grade_band)
+    generation_language = locale_config.generation_language
+    delivery_language = delivery_language or delivery_language_for_grade_band(
+        locale_config, grade_band
+    )
     point_budget = locale_config.point_budget
 
     user_prompt = build_user_prompt(
         topic=topic,
         grade_band=grade_band,
         locale=locale_config.locale,
-        language=language,
+        generation_language=generation_language,
+        delivery_language=delivery_language,
         point_budget=point_budget,
         num_items=num_items,
         knowledge_base_excerpt=locale_config.knowledge_base_text,
@@ -71,7 +80,30 @@ def generate_items(
     )
 
     raw_content = response.choices[0].message.content
-    return _parse_response(raw_content)
+    parsed = _parse_response(raw_content)
+    return _stamp_translation_status(parsed, delivery_language=delivery_language)
+
+
+def _stamp_translation_status(
+    parsed: ItemGenerationResponse, *, delivery_language: str
+) -> ItemGenerationResponse:
+    """Record each item's delivery language and whether a human translation pass is still owed.
+
+    Done here rather than asked of the model: the model only ever writes English and knows nothing
+    about the locale's delivery-language policy, so letting it self-report would just invite it to
+    guess.
+    """
+    for item in parsed.items:
+        item.delivery_language = delivery_language
+        item.needs_translation = item.language.strip().lower() != delivery_language.strip().lower()
+        if item.needs_translation:
+            logger.info(
+                "item %s drafted in %s, needs translation to %s before going live",
+                item.id,
+                item.language,
+                delivery_language,
+            )
+    return parsed
 
 
 def _parse_response(raw_content: str) -> ItemGenerationResponse:
