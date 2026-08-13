@@ -1,0 +1,34 @@
+# Locale configuration for Rwanda (public primary school pilot context).
+# Referenced by both the assessment item-generation pipeline and the recommendation-generation
+# pipeline so both stages stay consistent for a given deployment. See
+# data/cultural_knowledge_base/rwanda.md for the source material this is built from.
+
+locale: rwanda
+display_name: "Rwanda (public primary school)"
+
+# Trait definitions shown to the LLM so it understands what each mode measures.
+trait_definitions:
+  visual: "Learning through pictures, diagrams, colors, patterns, and visual demonstration"
+  game: "Learning through play, competition, challenges, and interactive activities"
+  structured: "Learning through clear steps, rules, sequences, and organized procedures"
+  story: "Learning through narrative, characters, and storytelling"
+
+# Assessment item-generation settings.
+assessment:
+  point_budget: 10          # points a student splits across the 4 options per item
+  knowledge_base_path: "data/cultural_knowledge_base/rwanda.md"
+  language_by_grade_band:
+    lower_primary: kinyarwanda   # P1-P3 -- ~90% of students can't read grade-level English text
+    upper_primary: english       # P4-P6
+
+# Recommendation-generation context (feeds the LLM prompt at the recommendation stage).
+recommendation_context:
+  pupil_teacher_ratio: "44:1 nationally (2021), up to 120:1 in some areas; P1-P2 classes reach 73:1-78:1"
+  double_shift_schools_pct: 64
+  instructional_hours_per_week: "~22 in double-shift schools vs. ~42 in single-shift schools"
+  ict_assumption: "assume low/no per-student device access; design around chalkboard + shared textbooks"
+  pedagogical_norms: "more communal/group-oriented instructional norms than individualized-learner framing; cluster-level recommendations fit naturally"
+  language_note: "~90% of primary students can't read grade-level English text despite English being the nominal instructional language since 2008 -- prefer Kinyarwanda for lower-primary communication"
+
+# Known limitation: this file is built from internet research, not live local teacher/student
+# interviews. A local-teacher review pass is recommended before real deployment.
