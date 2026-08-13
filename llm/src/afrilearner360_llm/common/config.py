@@ -14,10 +14,13 @@ load_dotenv(Path(__file__).resolve().parents[3] / ".env")
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
 OPENROUTER_BASE_URL = os.environ.get("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
 
-# Default model for item/recommendation generation. Chosen for its 1M token context window (fits
-# the whole locale knowledge base as grounding) and low cost -- see project notes. Swappable via
-# env var without code changes, since we go through OpenRouter's OpenAI-compatible API.
-DEFAULT_MODEL = os.environ.get("AFRILEARNER_LLM_MODEL", "minimax/minimax-m3")
+# Default model for item/recommendation generation. A free-tier model, since the project has no
+# API credits. Chosen because it is one of the few free models on OpenRouter that supports
+# `structured_outputs` (server-side JSON schema enforcement, which generator.py depends on) and
+# because Google's Gemma line has broader multilingual coverage than the other free options --
+# relevant for Kinyarwanda item text. See DESIGN.md §7. Swappable via env var without code
+# changes, since we go through OpenRouter's OpenAI-compatible API.
+DEFAULT_MODEL = os.environ.get("AFRILEARNER_LLM_MODEL", "google/gemma-4-26b-a4b-it:free")
 
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
 

@@ -1,0 +1,3236 @@
+{
+  "class_id": "P5A",
+  "grade_band": "P5",
+  "students": [
+    {
+      "student_id": "v0",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 4,
+            "game": 3,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 9,
+            "game": 0,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 4,
+            "game": 3,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 6,
+            "game": 1,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 0,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 8,
+            "game": 2,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 4,
+            "game": 1,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 8,
+            "game": 2,
+            "structured": 0,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "v1",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 6,
+            "game": 0,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 5,
+            "game": 2,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 7,
+            "game": 1,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 7,
+            "game": 1,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 5,
+            "game": 3,
+            "structured": 0,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 4,
+            "game": 4,
+            "structured": 0,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 3,
+            "game": 3,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 4,
+            "game": 4,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 6,
+            "game": 3,
+            "structured": 1,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "v2",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 6,
+            "game": 3,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 5,
+            "game": 1,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 8,
+            "game": 1,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 8,
+            "game": 1,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 5,
+            "game": 3,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 5,
+            "game": 5,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 5,
+            "game": 2,
+            "structured": 0,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 2,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "v3",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 4,
+            "game": 1,
+            "structured": 2,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 5,
+            "game": 3,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 6,
+            "game": 0,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 7,
+            "game": 1,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 7,
+            "game": 1,
+            "structured": 0,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 5,
+            "game": 2,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 7,
+            "game": 3,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 9,
+            "game": 1,
+            "structured": 0,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "v4",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 3,
+            "game": 3,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 6,
+            "game": 1,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 5,
+            "game": 3,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 7,
+            "game": 0,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 3,
+            "game": 2,
+            "structured": 4,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 2,
+            "game": 4,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 6,
+            "game": 4,
+            "structured": 0,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "v5",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 5,
+            "game": 3,
+            "structured": 0,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 5,
+            "game": 4,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 6,
+            "game": 1,
+            "structured": 0,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 7,
+            "game": 1,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 5,
+            "game": 1,
+            "structured": 0,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 4,
+            "game": 3,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 9,
+            "game": 1,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 1,
+            "story": 2
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "v6",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 6,
+            "game": 3,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 7,
+            "game": 1,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 6,
+            "game": 3,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 5,
+            "game": 2,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 7,
+            "game": 3,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 7,
+            "game": 3,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 5,
+            "game": 1,
+            "structured": 1,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 8,
+            "game": 0,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 2,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "v7",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 4,
+            "game": 5,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 5,
+            "game": 4,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 2,
+            "structured": 5,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 8,
+            "game": 1,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 8,
+            "game": 1,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 6,
+            "game": 0,
+            "structured": 1,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 7,
+            "game": 1,
+            "structured": 1,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "v8",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 6,
+            "game": 3,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 7,
+            "game": 1,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 6,
+            "game": 1,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 8,
+            "game": 2,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 7,
+            "game": 2,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 6,
+            "game": 3,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 6,
+            "game": 2,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 8,
+            "game": 1,
+            "structured": 0,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g0",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 8,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 6,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 0,
+            "game": 7,
+            "structured": 0,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 6,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 6,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 0,
+            "game": 10,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 8,
+            "structured": 0,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g1",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 4,
+            "structured": 4,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 2,
+            "game": 7,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 0,
+            "game": 5,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 2,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g2",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 8,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 2,
+            "game": 6,
+            "structured": 0,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 1,
+            "game": 7,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 0,
+            "game": 8,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 5,
+            "structured": 4,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 1,
+            "game": 7,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 2,
+            "game": 6,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 8,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 3,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g3",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 2,
+            "game": 6,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 2,
+            "game": 7,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 0,
+            "game": 6,
+            "structured": 4,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 9,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 7,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 0,
+            "game": 5,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 2,
+            "game": 8,
+            "structured": 0,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g4",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 7,
+            "structured": 3,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 2,
+            "game": 6,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 6,
+            "structured": 1,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 2,
+            "game": 8,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 9,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 3,
+            "game": 5,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 1,
+            "game": 8,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 0,
+            "game": 7,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 8,
+            "structured": 0,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g5",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 8,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 0,
+            "game": 6,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 9,
+            "structured": 1,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 2,
+            "game": 6,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 4,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 5,
+            "structured": 5,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 1,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 2,
+            "game": 6,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 0,
+            "game": 6,
+            "structured": 3,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g6",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 8,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 9,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 7,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 2,
+            "game": 4,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 0,
+            "game": 3,
+            "structured": 5,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 7,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 8,
+            "structured": 1,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g7",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 6,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 0,
+            "game": 7,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 8,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 0,
+            "game": 8,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 9,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 4,
+            "structured": 3,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 0,
+            "game": 5,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 1,
+            "game": 4,
+            "structured": 4,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 4,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 5,
+            "structured": 3,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "g8",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 7,
+            "structured": 2,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 9,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 0,
+            "game": 8,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 0,
+            "game": 7,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 6,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 1,
+            "game": 8,
+            "structured": 0,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 0,
+            "game": 7,
+            "structured": 3,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 2,
+            "game": 4,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 7,
+            "structured": 0,
+            "story": 2
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s0",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 6,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 2,
+            "structured": 6,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 6,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 6,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 2,
+            "game": 2,
+            "structured": 6,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 2,
+            "structured": 5,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 5,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 2,
+            "game": 2,
+            "structured": 4,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 5,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 9,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s1",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 3,
+            "game": 0,
+            "structured": 6,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 2,
+            "game": 0,
+            "structured": 7,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 9,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 2,
+            "game": 0,
+            "structured": 7,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 6,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 3,
+            "game": 0,
+            "structured": 5,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 0,
+            "structured": 6,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 1,
+            "game": 2,
+            "structured": 6,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 0,
+            "game": 2,
+            "structured": 6,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 5,
+            "story": 3
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s2",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 2,
+            "structured": 8,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 8,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 8,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 2,
+            "structured": 6,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 1,
+            "game": 2,
+            "structured": 5,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 6,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 8,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 6,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 7,
+            "story": 2
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s3",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 8,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 3,
+            "structured": 3,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 3,
+            "game": 0,
+            "structured": 4,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 2,
+            "structured": 7,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 7,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 3,
+            "story": 6
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 3,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 4,
+            "game": 0,
+            "structured": 4,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 0,
+            "game": 2,
+            "structured": 7,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s4",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 8,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 9,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 6,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 8,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 3,
+            "story": 5
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 3,
+            "structured": 4,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 3,
+            "structured": 4,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 6,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 5,
+            "story": 3
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s5",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 2,
+            "game": 2,
+            "structured": 6,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 7,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 8,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 0,
+            "game": 2,
+            "structured": 4,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 6,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 2,
+            "game": 0,
+            "structured": 8,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 7,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 5,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 4,
+            "story": 4
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s6",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 5,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 2,
+            "structured": 5,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 7,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 8,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 5,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 7,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 6,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 8,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s7",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 5,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 9,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 4,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 5,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 9,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 9,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 7,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 9,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 6,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 7,
+            "story": 2
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "s8",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 2,
+            "game": 0,
+            "structured": 7,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 1,
+            "game": 3,
+            "structured": 4,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 1,
+            "game": 0,
+            "structured": 7,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 0,
+            "game": 0,
+            "structured": 8,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 6,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 6,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 4,
+            "game": 0,
+            "structured": 5,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "b0",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 3,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 0,
+            "game": 3,
+            "structured": 5,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 3,
+            "game": 1,
+            "structured": 3,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 1,
+            "game": 3,
+            "structured": 4,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 2,
+            "story": 5
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 4,
+            "game": 1,
+            "structured": 2,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 1,
+            "game": 2,
+            "structured": 4,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 4,
+            "story": 0
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "b1",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 2,
+            "game": 2,
+            "structured": 3,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 6,
+            "game": 1,
+            "structured": 0,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 2,
+            "game": 3,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 2,
+            "game": 3,
+            "structured": 2,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 3,
+            "game": 2,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 3,
+            "game": 2,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 4,
+            "game": 1,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 5,
+            "game": 1,
+            "structured": 1,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 6,
+            "game": 1,
+            "structured": 1,
+            "story": 2
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "b2",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 4,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 3,
+            "game": 3,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 2,
+            "game": 4,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 1,
+            "story": 6
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 3,
+            "story": 6
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 3,
+            "game": 2,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 2,
+            "game": 4,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 4,
+            "game": 3,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 2,
+            "game": 3,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 2,
+            "game": 3,
+            "structured": 3,
+            "story": 2
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "b3",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 5,
+            "game": 1,
+            "structured": 3,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 3,
+            "game": 2,
+            "structured": 3,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 6,
+            "game": 1,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 0,
+            "game": 1,
+            "structured": 5,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 3,
+            "game": 3,
+            "structured": 4,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 3,
+            "structured": 3,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 3,
+            "game": 5,
+            "structured": 1,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 2,
+            "story": 2
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "b4",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 3,
+            "game": 2,
+            "structured": 2,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 3,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 3,
+            "game": 1,
+            "structured": 3,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 2,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 2,
+            "game": 2,
+            "structured": 5,
+            "story": 1
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 0,
+            "game": 4,
+            "structured": 3,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 0,
+            "game": 5,
+            "structured": 2,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 4,
+            "game": 2,
+            "structured": 1,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 2,
+            "game": 6,
+            "structured": 0,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 4,
+            "game": 1,
+            "structured": 3,
+            "story": 2
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "b5",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 5,
+            "game": 1,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 1,
+            "game": 1,
+            "structured": 3,
+            "story": 5
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 2,
+            "game": 1,
+            "structured": 5,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 3,
+            "game": 1,
+            "structured": 2,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 4,
+            "game": 3,
+            "structured": 3,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 3,
+            "game": 1,
+            "structured": 2,
+            "story": 4
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 4,
+            "game": 1,
+            "structured": 0,
+            "story": 5
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 2,
+            "game": 5,
+            "structured": 2,
+            "story": 1
+          }
+        }
+      ]
+    },
+    {
+      "student_id": "b6",
+      "responses": [
+        {
+          "item_id": "rw-p5-everyday-learning-01",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 3,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-02",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-03",
+          "allocations": {
+            "visual": 5,
+            "game": 1,
+            "structured": 1,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-04",
+          "allocations": {
+            "visual": 1,
+            "game": 6,
+            "structured": 1,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-05",
+          "allocations": {
+            "visual": 3,
+            "game": 0,
+            "structured": 1,
+            "story": 6
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-06",
+          "allocations": {
+            "visual": 2,
+            "game": 3,
+            "structured": 2,
+            "story": 3
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-07",
+          "allocations": {
+            "visual": 3,
+            "game": 3,
+            "structured": 2,
+            "story": 2
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-08",
+          "allocations": {
+            "visual": 3,
+            "game": 4,
+            "structured": 3,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-09",
+          "allocations": {
+            "visual": 4,
+            "game": 6,
+            "structured": 0,
+            "story": 0
+          }
+        },
+        {
+          "item_id": "rw-p5-everyday-learning-10",
+          "allocations": {
+            "visual": 2,
+            "game": 4,
+            "structured": 2,
+            "story": 2
+          }
+        }
+      ]
+    }
+  ]
+}

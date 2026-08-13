@@ -1,0 +1,334 @@
+{
+  "items": [
+    {
+      "id": "rw-p5-everyday-learning-01",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "You are learning about fables in class today. How would you like to learn about the characters in the stories?",
+      "options": [
+        {
+          "trait": "story",
+          "text": "Listen to a tale about a clever animal"
+        },
+        {
+          "trait": "visual",
+          "text": "Look at colorful diagrams of animals"
+        },
+        {
+          "trait": "game",
+          "text": "Play a competition to solve a riddle"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps to analyze a moral"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigani"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-02",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Your teacher shows you Imigongo art. Which way of learning about these patterns sounds most interesting?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "See bright geometric patterns"
+        },
+        {
+          "trait": "story",
+          "text": "Hear a story about these patterns"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the rules of making them"
+        },
+        {
+          "trait": "game",
+          "text": "Win a challenge to design one"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-03",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "You are playing the Igisoro board game during a break. How do you prefer to learn the rules?",
+      "options": [
+        {
+          "trait": "game",
+          "text": "Play a matching game with stones"
+        },
+        {
+          "trait": "visual",
+          "text": "Study the board patterns and colors"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the sequence of the turns"
+        },
+        {
+          "trait": "story",
+          "text": "Learn the history of the game"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-04",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Your class is learning about Agaseke baskets. What sounds most fun to you?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Watch someone weave a basket"
+        },
+        {
+          "trait": "story",
+          "text": "Listen to why baskets are gifts"
+        },
+        {
+          "trait": "structured",
+          "text": "Complete the steps of weaving"
+        },
+        {
+          "trait": "game",
+          "text": "Race to see who weaves fastest"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-05",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Your teacher talks about Umuganda community work. How would you like to learn about it?",
+      "options": [
+        {
+          "trait": "structured",
+          "text": "Work together on a task"
+        },
+        {
+          "trait": "visual",
+          "text": "See photos of community work"
+        },
+        {
+          "trait": "story",
+          "text": "Hear stories of community help"
+        },
+        {
+          "trait": "game",
+          "text": "Join a team challenge to clean"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-06",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Your class is practicing Ibisakuzo riddles. How do you prefer to practice them?",
+      "options": [
+        {
+          "trait": "game",
+          "text": "Solve a group riddle contest"
+        },
+        {
+          "trait": "story",
+          "text": "Hear a riddle told by a teacher"
+        },
+        {
+          "trait": "visual",
+          "text": "See a picture of the riddle"
+        },
+        {
+          "trait": "structured",
+          "text": "Learn the logic behind the answer"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Ibisakuzo"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-07",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "You are learning about traditional games like Guhana Ubute. Which way do you learn best?",
+      "options": [
+        {
+          "trait": "game",
+          "text": "Play a tag game with friends"
+        },
+        {
+          "trait": "visual",
+          "text": "Watch a demonstration of the game"
+        },
+        {
+          "trait": "story",
+          "text": "Listen to how the game is played"
+        },
+        {
+          "trait": "structured",
+          "text": "Learn the rules of the tag game"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Guhana Ubute"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-08",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "You are learning proverbs (Imigani Migufi) in school. How would you like to learn them?",
+      "options": [
+        {
+          "trait": "structured",
+          "text": "Read short proverbs"
+        },
+        {
+          "trait": "story",
+          "text": "Hear a wise old person speak"
+        },
+        {
+          "trait": "visual",
+          "text": "Draw a picture of a proverb"
+        },
+        {
+          "trait": "game",
+          "text": "Play a game with proverbs"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigani Migufi"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-09",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Your teacher brings wire to class to make toy cars. How do you want to learn the technique?",
+      "options": [
+        {
+          "trait": "structured",
+          "text": "Follow steps to make a wire car"
+        },
+        {
+          "trait": "visual",
+          "text": "Look at beautiful wire shapes"
+        },
+        {
+          "trait": "game",
+          "text": "Make a toy to play with friends"
+        },
+        {
+          "trait": "story",
+          "text": "Hear the story of the toy maker"
+        }
+      ],
+      "cultural_anchors_used": [
+        "wire toys"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    },
+    {
+      "id": "rw-p5-everyday-learning-10",
+      "topic": "everyday learning at school",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "You are learning about Sebutimbiri jumping in PE. How do you prefer to learn?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "See a diagram of the bars"
+        },
+        {
+          "trait": "game",
+          "text": "Compete to jump the highest"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the pattern of the jumps"
+        },
+        {
+          "trait": "story",
+          "text": "Learn about the history of jumping"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Sebutimbiri"
+      ],
+      "reviewer_notes": "no concerns",
+      "delivery_language": "english",
+      "needs_translation": false
+    }
+  ]
+}

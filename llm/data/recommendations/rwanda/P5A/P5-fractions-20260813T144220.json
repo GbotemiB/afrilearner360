@@ -1,0 +1,107 @@
+{
+  "locale": "rwanda",
+  "class_id": "P5A",
+  "grade_band": "P5",
+  "topic": "fractions",
+  "mode": "whole_class",
+  "model": "google/gemma-4-26b-a4b-it:free",
+  "generated_at": "2026-08-13T14:42:20.094740",
+  "cluster_sizes": {
+    "0": 9,
+    "1": 9,
+    "2": 9,
+    "3": 7
+  },
+  "class_overview": "Your class of 34 is quite varied. One-quarter of your students prefer highly structured, step-by-step learning (Cluster 0), while another quarter thrives on game-based mechanics (Cluster 1). You have a large group that processes best through visual patterns (Cluster 2), and a smaller, balanced group (Cluster 3) that can adapt to any method.",
+  "running_the_class": [
+    "Start the lesson with a whole-class demonstration on the chalkboard to establish the concept of a fraction.",
+    "Divide the 34 students into their pre-set clusters.",
+    "Assign the 'Structured' group (Cluster 0) a specific set of textbook problems to work through independently.",
+    "Assign the 'Visual' group (Cluster 2) a drawing task in their books based on the chalkboard pattern.",
+    "Move between the 'Game' and 'Balanced' groups to facilitate their more interactive activities.",
+    "Use a timer or a signal (like a clap) to rotate the teacher's focus, ensuring each group gets direct instruction time while others work on their specific mode-aligned task."
+  ],
+  "cluster_recommendations": [
+    {
+      "cluster_id": 0,
+      "group_label": "Group 1 - Structured-leaning",
+      "teaching_strategies": [
+        "Use 'Umuganda' as a metaphor: explain that solving a fraction requires specific community steps in a set order.",
+        "Provide clear, numbered checklists for converting improper fractions to mixed numbers.",
+        "Use chalkboard diagrams that follow a strict vertical sequence to show part-to-whole relationships.",
+        "Use controlled, predictable drills to build confidence in identifying denominators."
+      ],
+      "classroom_activity": "Have students follow a step-by-step 'construction plan' on the chalkboard to build a fraction from a whole unit, checking off each part as they complete it.",
+      "materials_needed": [
+        "Chalkboard",
+        "Chalk"
+      ],
+      "watch_out_for": "This approach can lose pace if the sequence of steps is overly long or if instructions are not clearly numbered."
+    },
+    {
+      "cluster_id": 1,
+      "group_label": "Group 2 - Game-leaning",
+      "teaching_strategies": [
+        "Use the mechanics of 'Igisoro' to explain dividing a set of seeds into equal groups.",
+        "Implement rapid-fire oral fraction identification challenges.",
+        "Use competitive team-based challenges involving comparing fraction sizes.",
+        "Introduce 'passing the token' mechanics (like Guhana Ubute) to move between solving problems."
+      ],
+      "classroom_activity": "A seed-counting challenge where students 'capture' fractions of a set of stones, mirroring the movement in a board game.",
+      "materials_needed": [
+        "Small stones or seeds",
+        "Chalkboard"
+      ],
+      "watch_out_for": "The excitement of the game mechanics can occasionally distract from the precision of the mathematical concept."
+    },
+    {
+      "cluster_id": 2,
+      "group_label": "Group 3 - Visual-leaning",
+      "teaching_strategies": [
+        "Draw Imigongo-style geometric patterns on the chalkboard and ask students to identify the fractional parts of a shape.",
+        "Use the spiral patterns found in Agaseke baskets to demonstrate repeating fractional sequences.",
+        "Use color-coded chalkboard drawings to differentiate numerators and denominators.",
+        "Have students draw their own shaded geometric shapes in their notebooks to represent fractions."
+      ],
+      "classroom_activity": "Drawing Imigongo patterns on the chalkboard and having students identify which 'colors' or segments represent 1/4 or 1/2 of the shape.",
+      "materials_needed": [
+        "Chalkboard",
+        "Chalk",
+        "Student exercise books"
+      ],
+      "watch_out_for": "This approach can lose time if the drawings become too complex and move away from the math."
+    },
+    {
+      "cluster_id": 3,
+      "group_label": "Group 4 - Balanced",
+      "teaching_strategies": [
+        "Use Imigani (folktales) involving sharing food to provide context for fraction problems.",
+        "Combine visual drawings with verbal riddles (Ibisakuzo) about parts of a whole.",
+        "Use a mix of hands-on counting and storytelling to explain mathematical concepts.",
+        "Provide varied tasks that switch between drawing, playing, and following steps."
+      ],
+      "classroom_activity": "An oral storytelling session where a character must divide a resource equally among friends, requiring the class to solve the fraction mid-story.",
+      "materials_needed": [
+        "Chalkboard"
+      ],
+      "watch_out_for": "The teacher must ensure the transition between different modes (story to math) is seamless."
+    }
+  ],
+  "constraints_addressed": [
+    "No ICT/devices used",
+    "No printing/worksheets",
+    "No expensive materials (uses stones/chalk)",
+    "Manages large class size (34) via group rotation",
+    "Accounts for potential language barriers by suggesting Kinyarwanda for complex instruction"
+  ],
+  "cultural_anchors_used": [
+    "Umuganda",
+    "Igisoro",
+    "Imigongo",
+    "Agaseke",
+    "Imigani",
+    "Ibisakuzo",
+    "Guhana Ubute"
+  ],
+  "reviewer_notes": null
+}

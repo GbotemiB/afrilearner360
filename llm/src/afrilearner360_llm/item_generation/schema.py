@@ -29,7 +29,7 @@ class AssessmentItem(BaseModel):
     topic: str = Field(..., description="Curriculum topic this item is themed around")
     grade_band: str = Field(..., description="Target grade band, e.g. 'P3'")
     locale: str = Field(..., description="Locale key, e.g. 'rwanda'")
-    language: str = Field(..., description="Language the scenario/options are written in")
+    language: str = Field(..., description="Language the scenario/options are actually written in")
     point_budget: int = Field(..., description="Total points the student splits across the 4 options")
     scenario_text: str = Field(..., description="The short scenario/prompt shown before the options")
     options: List[AssessmentOption] = Field(..., description="Exactly 4 options, one per trait")
@@ -40,6 +40,18 @@ class AssessmentItem(BaseModel):
     reviewer_notes: Optional[str] = Field(
         None,
         description="Model's own flags for a human reviewer: uncertainty, possible stereotyping, or content to double-check",
+    )
+
+    # The two fields below are stamped by the pipeline after generation (see generator.py), NOT
+    # filled in by the model -- the model only ever writes English and has no knowledge of the
+    # locale's delivery-language policy.
+    delivery_language: Optional[str] = Field(
+        None,
+        description="Language this item must be delivered to students in; set by the pipeline, not the model",
+    )
+    needs_translation: bool = Field(
+        False,
+        description="True when delivery_language differs from `language` -- a human must translate the item before it goes live",
     )
 
     @field_validator("options")
