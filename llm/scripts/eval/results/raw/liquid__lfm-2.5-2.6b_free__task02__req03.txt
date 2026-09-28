@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P2-fractions-01",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In a math lesson about fractions, students examine a colorful Imigongo artwork to understand how to divide things into equal parts.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "The Imigongo painting shows a big circle split into 4 equal parts - each part is 1/4 of the whole."
+        },
+        {
+          "trait": "game",
+          "text": "Just like the Igisoro game where players carefully count seeds and take turns, imagine you have 8 seeds and you give 3 to your friend - what fraction did you give away?"
+        },
+        {
+          "trait": "structured",
+          "text": "During Umuganda, the village divides cleaning duties into 6 equal groups - if one group finishes early, what fraction of the work is still left?"
+        },
+        {
+          "trait": "story",
+          "text": "A folktale character finds 12 beads and decides to share them equally among 4 friends - how many beads does each friend receive?"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "Verify that fraction terminology (1/4, etc.) matches standard primary-level math vocabulary in Rwanda. Ensure no cultural bias is introduced through the scenarios."
+    },
+    {
+      "id": "rwanda-P2-fractions-02",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Learning about dividing quantities through everyday activities in Rwanda.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "When preparing food for the community meal during Umuganda, the cook needs half of 16 cups of water - how many cups is that?"
+        },
+        {
+          "trait": "game",
+          "text": "In the Igisoro game, after counting 12 cookies and eating 4 of them, what fraction of the cookies did you eat?"
+        },
+        {
+          "trait": "structured",
+          "text": "The school has 24 students and organizes them into 8 equal teams for a math challenge - how many students are on each team?"
+        },
+        {
+          "trait": "story",
+          "text": "A young girl helps her family bake bread and needs to cut 15 pieces of dough into 5 equal portions - how many pieces does she get per portion?"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda",
+        "Igisoro",
+        "school organization",
+        "Imigani"
+      ],
+      "reviewer_notes": "Confirm that the fraction calculations (6/12=1/2, 4/12=1/3, 15/5=3) are correct and clearly presented."
+    },
+    {
+      "id": "rwanda-P2-fractions-03",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Understanding fractions through a story about sharing resources.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Looking at an Imigongo drawing of a tree, the leaves are grouped into 3 equal clusters - each cluster represents 1/3 of the leaves."
+        },
+        {
+          "trait": "game",
+          "text": "In the Igisoro game, players take turns collecting seeds - if there are 12 seeds and each player collects 3, what fraction of the seeds did one player collect?"
+        },
+        {
+          "trait": "structured",
+          "text": "During Umuganda, the community builds 18 mud walls - if 6 people each build 3 walls, what fraction of the walls were built by one person?"
+        },
+        {
+          "trait": "story",
+          "text": "A folktale about a clever rabbit who shares 20 berries with 5 friends - how many berries does each friend get?"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "Ensure the berry-sharing scenario doesn't imply gender roles. Verify all four options are culturally neutral and appropriate for P2 students."
+    }
+  ]
+}

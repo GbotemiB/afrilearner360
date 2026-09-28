@@ -1,0 +1,103 @@
+```json
+[
+  {
+    "id": "rwanda-P3-everyday-learning-at-school-01",
+    "topic": "everyday learning at school",
+    "grade_band": "P3",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your teacher wants the class to learn a new topic today. She is asking how you would like to start. Which way sounds best to you?",
+    "options": [
+      {
+        "trait": "visual",
+        "text": "You watch a colorful picture on the board. The teacher points to a drawing with spirals and bright shapes, like the patterns on an agaseke basket, so you can see how the topic looks."
+      },
+      {
+        "trait": "game",
+        "text": "You and a classmate play a quick game together to learn. You take turns, count, and try to win, the way you might play igisoro at break time."
+      },
+      {
+        "trait": "structured",
+        "text": "The teacher writes numbered steps on the board. You follow step 1, then step 2, then step 3, the same order every time, so you know exactly what to do next."
+      },
+      {
+        "trait": "story",
+        "text": "The teacher tells you a short imigani story about animal characters. You listen to what happens first, then what happens next, and at the end you talk about what the story teaches."
+      }
+    ],
+    "cultural_anchors_used": [
+      "agaseke basket patterns (visual art reference)",
+      "igisoro (traditional board game)",
+      "imigani (oral folktales)"
+    ],
+    "reviewer_notes": "Item references agaseke, igisoro, and imigani in passing. Igisoro is described as two-player; the option says 'you and a classmate' which keeps it school-appropriate. No gender restriction. Reading level seems right for P3 in English, though some lower-primary P3 students may read better in Kinyarwanda — confirm with local reviewer."
+  },
+  {
+    "id": "rwanda-P3-everyday-learning-at-school-02",
+    "topic": "everyday learning at school",
+    "grade_band": "P3",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "options": [
+      {
+        "trait": "visual",
+        "text": "You look at a colorful chart full of shapes and colors. Each shape stands for one idea, so you can see how the ideas connect, the way imigongo art uses bold spirals and triangles to make a picture."
+      },
+      {
+        "trait": "game",
+        "text": "You join a class challenge where you jump over low bars one after another, like sebutimbiri. You try to beat your own score while the class cheers you on."
+      },
+      {
+        "trait": "structured",
+        "text": "Your class follows the same routine you know from the last Saturday of the month: first everyone does a task, then you all sit together and the teacher talks through the next steps in order."
+      },
+      {
+        "trait": "story",
+        "text": "You listen while the teacher reads an ibisakuzo — a short riddle told like a little story. You think about it, guess the answer, and then hear the full tale behind it."
+      }
+    ],
+    "cultural_anchors_used": [
+      "imigongo geometric art (visual reference)",
+      "sebutimbiri (jumping game)",
+      "umuganda community work day structure",
+      "ibisakuzo riddles"
+    ],
+    "reviewer_notes": "The 'structured' option frames the routine through umuganda, which most Rwandan children experience directly. Sebutimbiri is described as individual; the option still works because it is a class challenge around the same mechanic. Ibisakuzo is correctly framed as a riddle with a story-like quality. Confirm sebutimbiri bar height is described loosely ('low bars') since the knowledge base gives ~50cm as a reference but does not require precise recall."
+  },
+  {
+    "id": "rwanda-P3-everyday-learning-at-school-03",
+    "topic": "everyday learning at school",
+    "grade_band": "P3",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your teacher wants everyone in the class to remember what they learned this week. She gives the class a choice of four ways to practice. Which one do you pick?",
+    "options": [
+      {
+        "trait": "visual",
+        "text": "You make a bright drawing on paper. You use bold colors and repeating shapes, like the red, black, and white spirals on imigongo wall panels, to show what you remember."
+      },
+      {
+        "trait": "game",
+        "text": "You play a passing game with your friends, like guhana ubute. Someone runs and tags the next person, and you all keep going until the music stops."
+      },
+      {
+        "trait": "structured",
+        "text": "You sit at your desk and work through a list. The teacher writes the steps on the board and you tick each one as you finish, one after another, in the right order."
+      },
+      {
+        "trait": "story",
+        "text": "You and a partner make up a short story together using the things you learned. One of you starts the story, the other adds what happens next, and then you tell it to the class."
+      }
+    ],
+    "cultural_anchors_used": [
+      "imigongo art colors and patterns (red/black/white spirals)",
+      "guhana ubute (passing/tag game)",
+      "imigani storytelling (narrative framing, though the option is original student-made story, not a folktale)"
+    ],
+    "reviewer_notes": "Imigongo color palette is stated as black/white/terracotta-red in the knowledge base; option uses 'red, black, and white' which is close enough. Guhana ubute is a tag/chase game with a token; the option simplifies to a passing/tag game which matches the mechanic. The story option asks students to make up their own short story rather than reciting an imigani, so it stays open-ended and not gender-restricted. No real names or brands used."
+  }
+]
+```

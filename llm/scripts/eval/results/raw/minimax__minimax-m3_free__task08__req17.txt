@@ -1,0 +1,107 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P5-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher asks the class to show how rain forms, falls, and flows back to the lake. Each student will share their work with the rest of P5. How would you like to show what you have learned?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Make a colorful poster with arrows and shapes that show rain falling, rivers flowing, and water rising back into the sky."
+        },
+        {
+          "trait": "game",
+          "text": "Turn it into a short challenge with the class. You give a card showing a step, and classmates race to put the steps in the right order, like counting seeds in igisoro."
+        },
+        {
+          "trait": "structured",
+          "text": "Write the steps in a list, one after another, with a short rule for each step, the way tasks are listed for umuganda community work."
+        },
+        {
+          "trait": "story",
+          "text": "Tell a short tale, like an imigani story, about a raindrop that travels from the sky down a river and back up again, meeting other drops along the way."
+        }
+      ],
+      "cultural_anchors_used": [
+        "igisoro (seed-counting, turn-by-turn gameplay as a flavor for ordering steps)",
+        "umuganda (monthly community work with a clear ordered list of tasks)",
+        "imigani (folktales with characters on a journey)"
+      ],
+      "reviewer_notes": "Reviewer should confirm that framing umuganda as a 'list of tasks' is accurate enough for P5 students and does not misrepresent the day. The igisoro reference is kept generic (counting seeds, taking turns) so it does not teach wrong game rules."
+    },
+    {
+      "id": "rwanda-P5-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your group is going to teach younger students how water moves from the ground to the sky and back again. How would your group like to teach it?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw big pictures on a wall, with spirals and curves like imigongo art, showing the path of water from ground to cloud and back."
+        },
+        {
+          "trait": "game",
+          "text": "Play a tag-style game like guhana ubute, where a 'water' token is passed when a student says the next step of the cycle."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow a fixed plan, step by step, the way an umuganda day has set tasks in order, with a short talk at the end."
+        },
+        {
+          "trait": "story",
+          "text": "Make up a short story, like an imigani tale, about a river and a cloud who trade places, so the younger students follow their journey."
+        }
+      ],
+      "cultural_anchors_used": [
+        "imigongo (bold geometric patterns in spirals and curves used as visual flavor)",
+        "guhana ubute (tag/chase game with passing a token)",
+        "umuganda (set tasks in order, followed by a meeting/talk)",
+        "imigani (folktale format with characters on a journey)"
+      ],
+      "reviewer_notes": "Reviewer should check that describing guhana ubute as 'tag-style' with a passing token matches local play, and that imigongo is not misattributed to a region outside its eastern Rwanda roots in any adapted version."
+    },
+    {
+      "id": "rwanda-P5-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "At the end of the topic, your teacher wants each P5 student to share one thing about the water cycle. You can pick the way you share. What sounds most like you?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Show a small drawing with patterns like those on an agaseke basket, using shapes to show where water collects and where it goes."
+        },
+        {
+          "trait": "game",
+          "text": "Set up a short game where classmates take turns, like in igisoro, and each turn they name the next stage of the water cycle."
+        },
+        {
+          "trait": "structured",
+          "text": "Read out the stages in a clear order, with a short reason, the way you would explain the steps of an umuganda task from start to finish."
+        },
+        {
+          "trait": "story",
+          "text": "Tell it as a short story, in the style of imigani, about a drop of water that goes on a long journey and learns something at the end."
+        }
+      ],
+      "cultural_anchors_used": [
+        "agaseke (intricate basket patterns used as visual flavor, not as a claim about the basket itself)",
+        "igisoro (turn-based play used as a structural flavor)",
+        "umuganda (clear step-by-step task framing)",
+        "imigani (folktale format with a journey and a moral/lesson)"
+      ],
+      "reviewer_notes": "Reviewer should confirm that linking agaseke patterns to a learning poster is appropriate and not misleading. No concerns about igisoro or umuganda framing beyond standard accuracy checks."
+    }
+  ]
+}
+```

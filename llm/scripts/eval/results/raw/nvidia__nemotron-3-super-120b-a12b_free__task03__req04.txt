@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P3-counting-and-numbers-01",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "The teacher places several objects on the desk and asks the class to count them.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at an Imigongo design on the wall and count how many red triangles you see."
+        },
+        {
+          "trait": "game",
+          "text": "Play a round of Igisoro and count how many seeds are in your hand before you move."
+        },
+        {
+          "trait": "structured",
+          "text": "Help with Umuganda by picking up litter and counting each piece you put in the bag, following the step‑by‑step cleaning plan."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani story about a clever rabbit who counts the carrots in the garden to outwit a fox."
+        }
+      ],
+      "cultural_anchors_used": ["Imigongo", "Igisoro", "Umuganda", "Imigani"],
+      "reviewer_notes": "Check that mention of cow dung in Imigongo is acceptable for young learners."
+    },
+    {
+      "id": "rwanda-P3-counting-and-numbers-02",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During recess, friends want to keep score while playing a jumping game.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Watch a Sebutimbiri jumping line and count how many low bars each friend clears."
+        },
+        {
+          "trait": "game",
+          "text": "Play Guhana Ubute and count how many times you pass the token before someone is left holding it."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the teacher’s step‑by‑step instructions to build a wire toy car, counting each wire piece as you add it."
+        },
+        {
+          "trait": "story",
+          "text": "Hear an Ibisakuzo riddle that asks you to count the number of animals hiding in a picture before you answer."
+        }
+      ],
+      "cultural_anchors_used": ["Sebutimbiri", "Guhana Ubute", "wire toy cars", "Ibisakuzo"],
+      "reviewer_notes": "No concerns."
+    },
+    {
+      "id": "rwanda-P3-counting-and-numbers-03",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "The class is making Agaseke baskets and needs to count the strips of fiber.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at the finished Agaseke basket and count how many white spirals you see on its side."
+        },
+        {
+          "trait": "game",
+          "text": "Play a quick round of Gusimbuka umugozi (rope jumping) and count how many jumps each friend makes before stopping."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the numbered steps to weave the basket: first count 10 strips, then 10 more, and so on until the basket is complete."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani tale about a weaver who counts each strand of sisal to make a basket that brings peace to the village."
+        }
+      ],
+      "cultural_anchors_used": ["Agaseke", "Gusimbuka umugozi", "Imigani"],
+      "reviewer_notes": "No concerns."
+    }
+  ]
+}

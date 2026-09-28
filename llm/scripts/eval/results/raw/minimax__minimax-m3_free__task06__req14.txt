@@ -1,0 +1,70 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P4-shapes-and-patterns-01",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher asks the class to explore shapes and patterns today. You can choose how you would like to start learning about them.",
+      "options": {
+        "visual": "Look closely at the bold spirals, curves, and triangles painted on an Imigongo panel. Try to name each shape you see and copy the pattern on your own paper.",
+        "game": "Play a round of Igisoro with a classmate. Watch how the seeds line up in even rows on the board and notice the repeating groups as you take your turns.",
+        "structured": "Follow a step-by-step list to draw a geometric pattern: first pick a shape, then repeat it in a row, then add a second row in the same order.",
+        "story": "Listen to an Imigani story about a clever animal who arranges stones into a pattern to solve a problem. Afterwards, draw the pattern from the story."
+      },
+      "cultural_anchors_used": [
+        "Imigongo (bold geometric art with spirals, triangles, curves)",
+        "Igisoro (board game with seeds arranged in rows)",
+        "Imigani (folktales with animal characters)"
+      ],
+      "reviewer_notes": "Imigongo geometric motifs are well-documented. Igisoro is used here for its visual rows of seeds, which fits the patterns theme without needing the full rules. Confirm that framing Igisoro in a primary classroom setting is appropriate for P4."
+    },
+    {
+      "id": "rwanda-P4-shapes-and-patterns-02",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "During lesson time, your teacher wants to show the class how shapes can repeat to make a pattern. There are four ways she could set up the activity. Which one sounds most like how you would like to learn?",
+      "options": {
+        "visual": "Look at photos of Agaseke baskets and study the spiral and geometric patterns woven into them. Then try drawing your own woven pattern using triangles and lines.",
+        "game": "Join a Sebutimbiri challenge where you jump over a line of low bars set in a repeating pattern of heights. Count the bars and notice the pattern as you go.",
+        "structured": "Work through a written checklist of pattern rules: choose a shape, repeat it three times, then change one part. Follow each step in order.",
+        "story": "Hear a short tale about a basket weaver who uses repeating patterns to send a message. Talk about which shapes appear in the story and where."
+      },
+      "cultural_anchors_used": [
+        "Agaseke (woven baskets with spiral and geometric designs)",
+        "Sebutimbiri (jumping over a sequence of low bars)",
+        "Imigani/folktale framing with a basket weaver character"
+      ],
+      "reviewer_notes": "Agaseke geometric patterns are documented. Sebutimbiri's repeating low-bar sequence is a natural fit for a 'repeating pattern' lesson. Reviewer should confirm that the storyteller framing of a basket weaver is appropriate and not misrepresenting the craft tradition."
+    },
+    {
+      "id": "rwanda-P4-shapes-and-patterns-03",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Tomorrow the class will make something that uses shapes and patterns. Your teacher lets you pick the activity. Which would you choose?",
+      "options": {
+        "visual": "Decorate a small paper panel with bold black, white, and red shapes, copying the spiral and triangle look of Imigongo art.",
+        "game": "Play a wire-toy-car building game with classmates. Bend the wire into wheels, frames, and shapes, and see whose car has the most repeated pattern.",
+        "structured": "Help arrange chairs and tables in Umuganda order before the activity: line them up evenly, group by group, then check the pattern of rows is correct.",
+        "story": "Make up a short Imigani-style story where a character uses a repeating shape pattern on the path to find the way home. Draw the path as you tell it."
+      },
+      "cultural_anchors_used": [
+        "Imigongo (black, white, and red geometric art)",
+        "Children making wire toy cars (rural play practice)",
+        "Umuganda (community work day with assigned, ordered tasks)",
+        "Imigani (folktale storytelling form)"
+      ],
+      "reviewer_notes": "Using Umuganda for the structured option leans on its 'everyone has a role, steps happen in order' framing rather than the actual monthly event, which keeps it classroom-appropriate. The wire-toy-car reference matches the knowledge base entry on rural children shaping wire. Reviewer should check that the Umuganda framing here does not misrepresent the community practice."
+    }
+  ]
+}
+```

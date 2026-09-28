@@ -1,0 +1,103 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P3-counting-and-numbers-01",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "You want to get better at counting by groups of ten. Which way would you like to practice?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at a picture chart that shows groups of ten stones in colorful circles, and count them together."
+        },
+        {
+          "trait": "game",
+          "text": "Play a counting game where you roll a die, collect that many seeds, and try to fill a row of ten."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow step-by-step rules: write the numbers 10, 20, 30, 40 in order on lined paper, one step at a time."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a short tale about a child who gathers ten cowrie shells each day and counts them before bedtime."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Seeds (as in Igisoro) used as a counting object",
+        "Cowrie shells as a familiar counting item in the cultural context"
+      ],
+      "reviewer_notes": "Cowrie shells were not explicitly mentioned in the knowledge base as a counting object, though seeds were. A local reviewer should confirm that cowrie shells are a familiar and non-controversial counting reference for P3 students in Rwanda, or suggest a replacement (e.g., seeds or stones)."
+    },
+    {
+      "id": "rwanda-P3-counting-and-numbers-02",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher asks the class to practice counting forward and backward from different numbers. How would you like to do it?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Watch a colorful Imigongo-style pattern on the wall where each spiral shape has a number inside, and count around it."
+        },
+        {
+          "trait": "game",
+          "text": "Play Sebutimbiri, where you jump over a bar for each count and see how high you can count while jumping."
+        },
+        {
+          "trait": "structured",
+          "text": "Work through a step-by-step list: start at 5, count up to 15, then count back down to 5, and write each number."
+        },
+        {
+          "trait": "story",
+          "text": "Hear an Imigani folktale about a clever rabbit who counts the stones on a path to solve a problem."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo geometric art (spirals, triangles, curves in patterns)",
+        "Sebutimbiri jumping game",
+        "Imigani folktales with animal characters"
+      ],
+      "reviewer_notes": "The Imigongo reference describes the art as being on wood panels/house walls; using it as a classroom wall chart is a small extension. Confirm with a reviewer that the pattern-as-counting-aid framing is reasonable for P3."
+    },
+    {
+      "id": "rwanda-P3-counting-and-numbers-03",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "You need to learn to count the seeds in each pit on an Igisoro board. How would you like to learn this?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look closely at a drawn picture of the Igisoro board with each pit filled in a different color, and count the seeds in each one."
+        },
+        {
+          "trait": "game",
+          "text": "Play a short Igisoro match with a partner, counting seeds as you place them into the pits."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow clear rules: count the seeds in pit 1, write the number, then move to pit 2, and keep going in order."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a story about two players who count their seeds carefully at the Igisoro board to win the game."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro board game with 32 pits and 64 seeds/stones",
+        "Counting seeds in pits as part of gameplay"
+      ],
+      "reviewer_notes": "All four options directly reference Igisoro mechanics in the knowledge base. No concerns."
+    }
+  ]
+}
+```

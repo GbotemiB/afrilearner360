@@ -1,0 +1,97 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P2-plants-and-animals-01",
+      "language": "english",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "point_budget": 10,
+      "scenario": "Your class is learning about how plants grow and how animals live near your home. The teacher says there are four fun ways to explore this topic. Which way would you like to try first?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw a big colorful picture of a plant and an animal you have seen near your home. Use your favorite colors to show the leaves, the petals, the fur, and the eyes."
+        },
+        {
+          "trait": "game",
+          "text": "Play a guessing game with your friends. One person acts like a plant or animal, and the others try to guess which one it is. Take turns and see who guesses right."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps on a simple chart. First, watch a plant. Second, write down what you see. Third, watch an animal. Fourth, write down what it does. Finish all four steps."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a short folktale about a clever animal and a tall plant who become friends. After the story, tell your neighbor what happened at the beginning, middle, and end."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigani (folktales with animal characters)"
+      ],
+      "reviewer_notes": "The story option uses a generic animal/plant folktale framing tied to Imigani. Reviewer should confirm that referencing Imigani-style animal tales at P2 reading level is appropriate."
+    },
+    {
+      "id": "rwanda-P2-plants-and-animals-02",
+      "language": "english",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "point_budget": 10,
+      "scenario": "Today your teacher wants you to learn about the banana tree and the goats that live near it. How would you like to learn?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at bright pictures of banana trees and goats. Match each picture to its name and notice the colors of the fruit and the goat's coat."
+        },
+        {
+          "trait": "game",
+          "text": "Play Igisoro with a friend, but use small stones that stand for banana trees and goats. Take turns and follow the rules to capture the stones."
+        },
+        {
+          "trait": "structured",
+          "text": "Make a list with two columns. In one column, write what a banana tree needs. In the other column, write what a goat needs. Then read your list to a partner."
+        },
+        {
+          "trait": "story",
+          "text": "Hear a short tale about a baby goat who plays under a big banana tree. Tell back what the goat did and what the tree did in the story."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro (two-player board strategy game with seeds/stones)"
+      ],
+      "reviewer_notes": "The game option adapts Igisoro mechanics by substituting stones for plant/animal tokens; reviewer should confirm this is a fair use without misrepresenting the traditional game."
+    },
+    {
+      "id": "rwanda-P2-plants-and-animals-03",
+      "language": "english",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "point_budget": 10,
+      "scenario": "Your class is going to learn about beans that grow on farms and the chickens that walk around the village. You can choose how to start.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Paint a picture of bean plants in a row and chickens nearby. Show the shapes of the leaves and the feathers using colors you like."
+        },
+        {
+          "trait": "game",
+          "text": "Play a chasing game outside. When your teacher says \"bean,\" hop in place. When she says \"chicken,\" flap your arms and move. Try not to mix them up."
+        },
+        {
+          "trait": "structured",
+          "text": "Join your class for Umuganda at the school garden. Pull weeds in order, then water the bean rows one by one, and finally visit the chicken area to check the feed."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a short riddle (Ibisakuzo) about a plant and an animal. Think about the clues, then share your answer with the class."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda (monthly community work day with ordered tasks)",
+        "Ibisakuzo (riddles posed in group settings)"
+      ],
+      "reviewer_notes": "Reviewer should confirm that framing Umuganda as a school-garden learning activity is a reasonable classroom adaptation and that Ibisakuzo is age-appropriate for P2 riddle use."
+    }
+  ]
+}
+```

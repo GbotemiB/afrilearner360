@@ -1,0 +1,111 @@
+{
+
+
+  
+  "items": [
+    {
+      "cultural_anchors_used": [
+        "Igisoro",
+        "Imigongo",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P2",
+      "id": "rwanda-P2-fractions-01",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to draw pictures of the seed groups using imigongo designs.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play a game like Igisoro to find equal shares.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the steps of Umuganda to divide the seeds.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to hear an imigani story about sharing seeds.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "Check if linking Umuganda steps to dividing seeds is appropriate for local context.",
+      "scenario_text": "Your teacher gives you a pile of Igisoro seeds and asks you to group them into equal parts.",
+      "topic": "fractions"
+    },
+    {
+      "cultural_anchors_used": [
+        "Agaseke",
+        "beadwork",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P2",
+      "id": "rwanda-P2-fractions-02",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to draw pictures of the baskets using beadwork designs.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play a game like Igisoro to learn about fractions.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the steps of Umuganda to solve the fraction problem.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to hear an imigani story about sharing baskets.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "Check if beadwork designs are appropriate for visual option.",
+      "scenario_text": "Your teacher gives you three agaseke baskets and asks you to find the fraction of the total size.",
+      "topic": "fractions"
+    },
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "pottery",
+        "Intembe",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P2",
+      "id": "rwanda-P2-fractions-03",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to draw pictures of fractions using pottery designs.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play a game like Intembe to learn about fractions.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the steps of Umuganda to solve the fraction problem.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to hear an imigani story about dividing land.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "Check if Intembe is appropriate for fractions context.",
+      "scenario_text": "Your teacher asks you to color parts of an imigongo panel to show fractions.",
+      "topic": "fractions"
+    }
+  ]
+}

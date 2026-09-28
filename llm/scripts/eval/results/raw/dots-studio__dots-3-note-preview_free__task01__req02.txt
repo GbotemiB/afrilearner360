@@ -1,0 +1,108 @@
+{
+
+
+  "items": [
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P2",
+      "id": "rwanda-P2-plants-and-animals-01",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "You will draw a plant and add Imigongo patterns.",
+          "trait": "visual"
+        },
+        {
+          "text": "You will play Igisoro with seeds to show plant growth.",
+          "trait": "game"
+        },
+        {
+          "text": "You will follow the steps of Umuganda to prepare the garden.",
+          "trait": "structured"
+        },
+        {
+          "text": "You will listen to an Imigani about a clever animal that helps a seed.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "Your class is starting a school garden. You will learn about plants and animals.",
+      "topic": "plants and animals"
+    },
+    {
+      "cultural_anchors_used": [
+        "beadwork",
+        "Guhana Ubute",
+        "Igisoro",
+        "Imigani"
+      ],
+      "grade_band": "P2",
+      "id": "rwanda-P2-plants-and-animals-02",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "You will sketch a butterfly and color it with beadwork designs.",
+          "trait": "visual"
+        },
+        {
+          "text": "You will play Guhana Ubute to find hidden animal pictures.",
+          "trait": "game"
+        },
+        {
+          "text": "You will follow the rules of Igisoro to learn about plants.",
+          "trait": "structured"
+        },
+        {
+          "text": "You will listen to an Imigani about a rabbit that helps a plant.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "Your class is going on a nature walk to see plants and animals.",
+      "topic": "plants and animals"
+    },
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Intembe",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P2",
+      "id": "rwanda-P2-plants-and-animals-03",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "You will draw a plant using bold Imigongo patterns.",
+          "trait": "visual"
+        },
+        {
+          "text": "You will play Intembe to aim at plant pictures.",
+          "trait": "game"
+        },
+        {
+          "text": "You will follow the steps of Umuganda to care for the plant.",
+          "trait": "structured"
+        },
+        {
+          "text": "You will listen to an Imigani about a bird that helps a plant.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "Your class is growing a small plant in a pot. You will learn how plants and animals live together.",
+      "topic": "plants and animals"
+    }
+  ]
+}

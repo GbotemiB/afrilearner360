@@ -16,3 +16,23 @@ build/
 
 # OS
 .DS_Store
+# Resource-fork junk created when macOS extracts a zip. 81 files / 11 MB in this repo alone.
+__MACOSX/
+._*
+
+# LaTeX build artifacts (the camera-ready source lives in this repo; the PDF is a build output)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.toc
+
+# Local-only paper drafts, deliberately not published with the artifact:
+# paper/ is a superseded September draft under a different title, paper-cr/ is working notes.
+paper/
+paper-cr/

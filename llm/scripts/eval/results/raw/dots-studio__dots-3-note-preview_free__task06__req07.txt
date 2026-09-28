@@ -1,0 +1,108 @@
+{
+
+
+ "items": [
+  {
+   "cultural_anchors_used": [
+    "Imigongo",
+    "Igisoro",
+    "Umuganda",
+    "Imigani"
+   ],
+   "grade_band": "P4",
+   "id": "rwanda-P4-shapes-and-patterns-01",
+   "language": "english",
+   "locale": "rwanda",
+   "options": [
+    {
+     "text": "I would like to learn by drawing shapes and patterns, like the geometric designs in Imigongo art.",
+     "trait": "visual"
+    },
+    {
+     "text": "I would like to learn by playing a game like Igisoro to explore shapes and patterns.",
+     "trait": "game"
+    },
+    {
+     "text": "I would like to learn by following steps like Umuganda to create shapes and patterns.",
+     "trait": "structured"
+    },
+    {
+     "text": "I would like to learn by listening to a story like Imigani about shapes and patterns.",
+     "trait": "story"
+    }
+   ],
+   "point_budget": 10,
+   "reviewer_notes": "no concerns",
+   "scenario_text": "Your teacher asks you to work on a shapes and patterns activity. How would you like to learn?",
+   "topic": "shapes and patterns"
+  },
+  {
+   "cultural_anchors_used": [
+    "Agaseke",
+    "Guhana Ubute",
+    "Igisoro",
+    "Imigani"
+   ],
+   "grade_band": "P4",
+   "id": "rwanda-P4-shapes-and-patterns-02",
+   "language": "english",
+   "locale": "rwanda",
+   "options": [
+    {
+     "text": "I would like to learn by coloring patterns like the designs on Agaseke baskets.",
+     "trait": "visual"
+    },
+    {
+     "text": "I would like to learn by playing a game like Guhana Ubute to explore shapes and patterns.",
+     "trait": "game"
+    },
+    {
+     "text": "I would like to learn by following the rules of Igisoro to create shapes and patterns.",
+     "trait": "structured"
+    },
+    {
+     "text": "I would like to learn by listening to a story like Imigani about shapes and patterns.",
+     "trait": "story"
+    }
+   ],
+   "point_budget": 10,
+   "reviewer_notes": "no concerns",
+   "scenario_text": "Your class is working on a shapes and patterns task. How would you like to do it?",
+   "topic": "shapes and patterns"
+  },
+  {
+   "cultural_anchors_used": [
+    "beadwork",
+    "Gusimbuka umugozi",
+    "Umuganda",
+    "Imigani"
+   ],
+   "grade_band": "P4",
+   "id": "rwanda-P4-shapes-and-patterns-03",
+   "language": "english",
+   "locale": "rwanda",
+   "options": [
+    {
+     "text": "I would like to learn by drawing patterns like the beadwork designs.",
+     "trait": "visual"
+    },
+    {
+     "text": "I would like to learn by playing a game like Gusimbuka umugozi to explore shapes and patterns.",
+     "trait": "game"
+    },
+    {
+     "text": "I would like to learn by following steps like Umuganda to create shapes and patterns.",
+     "trait": "structured"
+    },
+    {
+     "text": "I would like to learn by listening to a story like Imigani about shapes and patterns.",
+     "trait": "story"
+    }
+   ],
+   "point_budget": 10,
+   "reviewer_notes": "no concerns",
+   "scenario_text": "You need to create a pattern during community activity. How would you like to do it?",
+   "topic": "shapes and patterns"
+  }
+ ]
+}

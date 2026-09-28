@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P4-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Students are studying the water cycle and want to understand how water travels from the sky to the ground during the rainy season in Rwanda.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "The picture shows dark blue lines showing water falling from white clouds onto the green hills below."
+        },
+        {
+          "trait": "game",
+          "text": "Our class plays a water cycle game where we move cards to show water going up, turning into clouds, and coming back down as rain."
+        },
+        {
+          "trait": "structured",
+          "text": "We start by watching the sun warm the lake (evaporation), then we wait for clouds to form (condensation), and finally we see rain fall (precipitation)."
+        },
+        {
+          "trait": "story",
+          "text": "A curious monkey saw a puddle grow after the rain and told his friends how the water traveled from the sky to the river."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "Verify that the Imigongo reference accurately describes its geometric patterns (spirals, triangles, curves) and that the Igisoro game analogy aligns with the described seed-counting mechanics."
+    },
+    {
+      "id": "rwanda-P4-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During Umuganda, students help clean their village. They notice that after heavy rains, the rivers become full and the fields get wet. How does this connect to the water cycle?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "The photo shows a clean village after Umuganda with a small stream flowing near the houses."
+        },
+        {
+          "trait": "game",
+          "text": "Like the Igisoro game where players take turns capturing seeds, imagine the water cycle as a team game with different roles."
+        },
+        {
+          "trait": "structured",
+          "text": "We follow the steps: first the sun heats the water in lakes (evaporation), then the water rises as clouds (condensation), and finally falls as rain (precipitation)."
+        },
+        {
+          "trait": "story",
+          "text": "One day, the children helped clean their neighborhood during Umuganda, and they discovered that when it rains, the water flows down the hills just like the paths they walked together."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "Ensure the Umuganda reference reflects the described monthly community work day and that the Igisoro analogy is clearly explained as a structural comparison."
+    },
+    {
+      "id": "rwanda-P4-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "A student is walking through a forest in Rwanda and notices that after the morning dew disappears, the leaves start to glisten. What might be happening in the water cycle?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "The image shows dewdrops on grass blades early in the morning."
+        },
+        {
+          "trait": "game",
+          "text": "Imagine a treasure hunt where the 'treasure' is water moving from the sky to the ground - find the hidden drops!"
+        },
+        {
+          "trait": "structured",
+          "text": "We track the water cycle by asking: Where does it go? How does it change? Where does it return?"
+        },
+        {
+          "trait": "story",
+          "text": "An old tree told a young bird that when the sun shines on the forest floor, invisible water vapor rises up and becomes clouds."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Imigani"
+      ],
+      "reviewer_notes": "Confirm that the Imigongo reference correctly describes its artistic features (geometric patterns, black/white/terracotta-red) and that the story element aligns with Imigani folktales featuring animal characters."
+    }
+  ]
+}

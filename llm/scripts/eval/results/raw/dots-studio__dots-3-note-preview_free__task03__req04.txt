@@ -1,0 +1,102 @@
+{
+
+
+  "items": [
+    {
+      "cultural_anchors_used": [
+        "Igisoro"
+      ],
+      "delivery_language": "english",
+      "grade_band": "P3",
+      "id": "rwanda-P3-counting-and-numbers-01",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I will draw the board and count the seeds.",
+          "trait": "visual"
+        },
+        {
+          "text": "I will play a counting game with the seeds.",
+          "trait": "game"
+        },
+        {
+          "text": "I will count the seeds step by step.",
+          "trait": "structured"
+        },
+        {
+          "text": "I will hear a story about counting seeds.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "Your teacher shows you an Igisoro board with many seeds. You need to count how many seeds are in each pit.",
+      "topic": "counting and numbers"
+    },
+    {
+      "cultural_anchors_used": [
+        "Imigongo"
+      ],
+      "delivery_language": "english",
+      "grade_band": "P3",
+      "id": "rwanda-P3-counting-and-numbers-02",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I will look at the design and count the triangles.",
+          "trait": "visual"
+        },
+        {
+          "text": "I will play a game of finding and counting shapes.",
+          "trait": "game"
+        },
+        {
+          "text": "I will count the triangles one by one.",
+          "trait": "structured"
+        },
+        {
+          "text": "I will hear a story about counting shapes.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "Your class is making Imigongo designs. You need to count the number of triangles.",
+      "topic": "counting and numbers"
+    },
+    {
+      "cultural_anchors_used": [
+        "Agaseke"
+      ],
+      "delivery_language": "english",
+      "grade_band": "P3",
+      "id": "rwanda-P3-counting-and-numbers-03",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I will draw the baskets and count them.",
+          "trait": "visual"
+        },
+        {
+          "text": "I will play a counting game with the baskets.",
+          "trait": "game"
+        },
+        {
+          "text": "I will count the baskets in order.",
+          "trait": "structured"
+        },
+        {
+          "text": "I will hear a story about counting baskets.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "During a school activity, you see several Agaseke baskets. You need to count them.",
+      "topic": "counting and numbers"
+    }
+  ]
+}

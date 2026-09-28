@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P3-counting-and-numbers-01",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During Igisoro, a traditional Rwandan board game, two friends are playing. One friend has 16 seeds and needs to count them carefully while taking turns.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "I see 16 seeds arranged in rows on the Igisoro board and want to count them using my fingers."
+        },
+        {
+          "trait": "game",
+          "text": "We play Igisoro together and take turns counting seeds to move our stones."
+        },
+        {
+          "trait": "structured",
+          "text": "First we count the total seeds, then we follow the turn order rules of Igisoro."
+        },
+        {
+          "trait": "story",
+          "text": "In the story of Igisoro, the wise elder teaches children to count seeds carefully before each move."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro",
+        "32-pit wooden board",
+        "64 seeds/stones",
+        "counting seeds",
+        "strict turn rules"
+      ],
+      "reviewer_notes": "Verify Igisoro details match KB: 32-pit wooden board, 64 seeds, counting seeds, turn rules for capturing opponent's seeds."
+    },
+    {
+      "id": "rwanda-P3-counting-and-numbers-02",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Umuganda is the community work day. Students are told to help clean the playground and paint the fence. There are numbered stations with different tasks.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "I look at the poster showing the numbered stations for cleaning and painting."
+        },
+        {
+          "trait": "game",
+          "text": "We play a counting relay race where everyone runs to grab number cards in order."
+        },
+        {
+          "trait": "structured",
+          "text": "First we check the list of tasks, then we assign ourselves to each station in order."
+        },
+        {
+          "trait": "story",
+          "text": "Grandma tells us about the old days when families worked together during Umuganda to build a new home."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda",
+        "numbered task stations",
+        "community work day",
+        "grandmother storytelling"
+      ],
+      "reviewer_notes": "Verify Umuganda description matches KB: monthly community work day, last Saturday, assigned tasks, community meeting."
+    },
+    {
+      "id": "rwanda-P3-counting-and-numbers-03",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In Igisoro, players must count seeds before making a move. The game has a special rule about capturing opponent's seeds after counting.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "I watch the game and count the seeds on the board before deciding who wins."
+        },
+        {
+          "trait": "game",
+          "text": "We play Igisoro and try to capture the opponent's seeds by correctly counting first."
+        },
+        {
+          "trait": "structured",
+          "text": "The game follows a strict sequence: count seeds → take turns → capture opponent."
+        },
+        {
+          "trait": "story",
+          "text": "Once upon a time, a clever child learned to count seeds quickly and won the Igisoro tournament."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro",
+        "seed counting",
+        "capturing opponent's seeds",
+        "winning through quick counting"
+      ],
+      "reviewer_notes": "Ensure Igisoro's capture condition (capture opponent's seeds after counting) aligns with KB description."
+    }
+  ]
+}

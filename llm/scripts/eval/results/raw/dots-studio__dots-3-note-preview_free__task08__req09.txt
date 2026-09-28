@@ -1,0 +1,108 @@
+{
+
+
+  "items": [
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Guhana Ubute",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P5",
+      "id": "rwanda-P5-the-water-cycle-01",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Draw a diagram of the water cycle using bold geometric shapes like Imigongo.",
+          "trait": "visual"
+        },
+        {
+          "text": "Play Guhana Ubute, passing a token that represents a water drop.",
+          "trait": "game"
+        },
+        {
+          "text": "Arrange the stages of the water cycle in order, like the steps of Umuganda.",
+          "trait": "structured"
+        },
+        {
+          "text": "Listen to an Imigani story about a raindrop's journey.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns; all references are from the knowledge base.",
+      "scenario_text": "Your teacher is talking about the water cycle. You can choose one activity to learn more.",
+      "topic": "the water cycle"
+    },
+    {
+      "cultural_anchors_used": [
+        "Agaseke",
+        "Gusimbuka umugozi",
+        "Igisoro",
+        "Ibisakuzo"
+      ],
+      "grade_band": "P5",
+      "id": "rwanda-P5-the-water-cycle-02",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Create a poster of the water cycle using geometric patterns like Agaseke.",
+          "trait": "visual"
+        },
+        {
+          "text": "Play Gusimbuka umugozi, jumping rope while naming the stages of the water cycle.",
+          "trait": "game"
+        },
+        {
+          "text": "Arrange the stages of the water cycle in order, following the strict rules of Igisoro.",
+          "trait": "structured"
+        },
+        {
+          "text": "Solve an Ibisakuzo riddle about the water cycle.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns; all references are from the knowledge base.",
+      "scenario_text": "Your science teacher is explaining the water cycle. You can pick one activity to help you understand it.",
+      "topic": "the water cycle"
+    },
+    {
+      "cultural_anchors_used": [
+        "beadwork",
+        "Sebutimbiri",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P5",
+      "id": "rwanda-P5-the-water-cycle-03",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Draw the water cycle using bright symmetric patterns like beadwork.",
+          "trait": "visual"
+        },
+        {
+          "text": "Play Sebutimbiri, jumping over bars while calling out the stages of the water cycle.",
+          "trait": "game"
+        },
+        {
+          "text": "List the stages of the water cycle in order, like the steps of Umuganda.",
+          "trait": "structured"
+        },
+        {
+          "text": "Listen to a story told in Imigani style about a water drop's journey.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns; all references are from the knowledge base.",
+      "scenario_text": "Your class is learning about how water moves. You can choose one way to learn about it.",
+      "topic": "the water cycle"
+    }
+  ]
+}

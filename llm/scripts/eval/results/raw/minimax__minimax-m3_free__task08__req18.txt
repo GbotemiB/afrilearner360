@@ -1,0 +1,102 @@
+```json
+[
+  {
+    "id": "rwanda-P5-the-water-cycle-01",
+    "topic": "the water cycle",
+    "grade_band": "P5",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your class is starting a new topic about where rain comes from and where puddles go after the sun comes out. The teacher asks the class how they would like to explore the steps of the water cycle first. Which way sounds most interesting to you?",
+    "options": [
+      {
+        "trait": "visual",
+        "text": "Look at a big colorful diagram on the wall showing the water cycle, with arrows in different colors for evaporation, condensation, and precipitation."
+      },
+      {
+        "trait": "game",
+        "text": "Play a team game where you answer questions to move a raindrop around a board, step by step through each stage of the water cycle."
+      },
+      {
+        "trait": "structured",
+        "text": "Follow a clear written list of steps about the water cycle, fill in the blanks in order, and check each answer before moving to the next stage."
+      },
+      {
+        "trait": "story",
+        "text": "Listen to a short story about a water drop called Uruyange who leaves the lake, rises into the sky, and falls back down as rain to learn the cycle."
+      }
+    ],
+    "cultural_anchors_used": [
+      "Public primary school classroom context (teacher-led lesson, P5 grade level)",
+      "Story mode uses a Kinyarwanda-style personal name (Uruyange) consistent with Rwandan oral storytelling tradition"
+    ],
+    "reviewer_notes": "Uruyange is a plausible Kinyarwanda name meaning 'small/little water'; no other cultural detail invented. No concerns."
+  },
+  {
+    "id": "rwanda-P5-the-water-cycle-02",
+    "topic": "the water cycle",
+    "grade_band": "P5",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your school is planning an activity to help P5 students understand how water moves from the ground to the sky and back again. The teacher asks everyone to choose how they want to learn about it. Pick the one you would enjoy most.",
+    "options": [
+      {
+        "trait": "visual",
+        "text": "Look at pictures of Imigongo patterns that show water moving in spirals and curves, and match each pattern to a stage of the water cycle."
+      },
+      {
+        "trait": "game",
+        "text": "Play a game like Igisoro where you move pieces by counting, but each turn you must name a stage of the water cycle to keep your piece on the board."
+      },
+      {
+        "trait": "structured",
+        "text": "Join an Umuganda-style group activity at school where the class works through the water cycle in a set order, with each student taking a clear role at each step."
+      },
+      {
+        "trait": "story",
+        "text": "Hear an Imigani folktale about a clever raindrop who journeys past a cloud, a mountain, and a river, and discuss the moral at the end."
+      }
+    ],
+    "cultural_anchors_used": [
+      "Imigongo (bold geometric visual art from Rwanda's eastern region)",
+      "Igisoro (traditional two-player strategy board game)",
+      "Umuganda (monthly community work day with assigned roles and ordered tasks)",
+      "Imigani (Rwandan folktales with moral themes)"
+    ],
+    "reviewer_notes": "Imigongo is described in the knowledge base as geometric art made from cow dung; items reference the spiral/curve patterns, not the medium, to keep it child-appropriate. Igisoro framing uses 'like Igisoro' so mechanics are adapted rather than describing a full igisoro match, which would be too complex for a 4-option preference prompt. Umuganda framing as a school activity mirrors its structured 'everyone has a role, steps happen in order' character. Reviewer may want to confirm 'Imigani folktale about a raindrop' feels natural, since the knowledge base describes imigani as featuring animal characters, mythical beings, or ordinary people — a raindrop as the main character is a light extension but not strictly out of genre. Flag for review."
+  },
+  {
+    "id": "rwanda-P5-the-water-cycle-03",
+    "topic": "the water cycle",
+    "grade_band": "P5",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "During a lesson, the teacher writes the word 'water cycle' on the board and asks the class how they would like to investigate what it means. Which way would you pick?",
+    "options": [
+      {
+        "trait": "visual",
+        "text": "Watch the teacher draw a labeled picture on the board showing a lake, arrows going up to clouds, and rain falling back down."
+      },
+      {
+        "trait": "game",
+        "text": "Play Guhana Ubute in a water-cycle version, where passing the token means you must quickly name what happens to water next."
+      },
+      {
+        "trait": "structured",
+        "text": "Work through a step-by-step worksheet: first label evaporation, then condensation, then precipitation, in that exact order."
+      },
+      {
+        "trait": "story",
+        "text": "Sit in a circle while a student tells an Imigani-style story about a village that runs out of water, and the cloud that decides to help."
+      }
+    ],
+    "cultural_anchors_used": [
+      "Guhana Ubute (passing/token tag game with good-natured teasing when stuck holding the token)",
+      "Imigani (folktale tradition with moral themes, traditionally shared in group/family settings)"
+    ],
+    "reviewer_notes": "Guhana Ubute is described in the knowledge base as a chase/tag game with a token; framing it as a 'water-cycle version' adapts the mechanic to curriculum without inventing new cultural content. The 'teased good-naturedly' consequence from the source is not included to keep tone neutral for assessment. Imigani framing with a village/cloud narrative extends the genre slightly but stays within the knowledge base's description of ordinary people or beings in extraordinary situations. Flag for reviewer."
+  }
+]
+```

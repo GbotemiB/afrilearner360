@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P2-plants-and-animals-01",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In class, the teacher wants to learn about different leaves and animal footprints.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "You can draw the leaves and footprints using the bold spiral and triangle patterns of Imigongo art."
+        },
+        {
+          "trait": "game",
+          "text": "You can play a version of Igisoro where you move seeds to match each leaf with its animal footprint."
+        },
+        {
+          "trait": "structured",
+          "text": "You can follow clear steps like Umuganda: first look closely, then draw what you see, then share with the group."
+        },
+        {
+          "trait": "story",
+          "text": "You can listen to an Imigani folktale about a clever rabbit who uses leaves to hide from a predator."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "No concerns"
+    },
+    {
+      "id": "rwanda-P2-plants-and-animals-02",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "The class is studying how plants grow and where animals live.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "You can look at the woven patterns of Agaseke baskets to see the parts of a plant: roots, stem, leaves."
+        },
+        {
+          "trait": "game",
+          "text": "You can play Guhana Ubute, passing a token each time you find a picture that matches a plant part or animal home."
+        },
+        {
+          "trait": "structured",
+          "text": "You can follow the clear steps of Igisoro: count the parts, label them, then draw a simple diagram."
+        },
+        {
+          "trait": "story",
+          "text": "You can hear an Ibisakuzo riddle that describes a plant or an animal and you guess what it is."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke",
+        "Guhana Ubute",
+        "Igisoro",
+        "Ibisakuzo"
+      ],
+      "reviewer_notes": "No concerns"
+    },
+    {
+      "id": "rwanda-P2-plants-and-animals-03",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "The lesson is about how animals change as they grow, like from egg to adult.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "You can study the bright symmetric beadwork designs that show each stage of an animal's life."
+        },
+        {
+          "trait": "game",
+          "text": "You can play Gusimbuka Urukiramende, making a high jump for each life stage you learn about."
+        },
+        {
+          "trait": "structured",
+          "text": "You can follow the orderly steps of Umuganda: first observe the egg, then watch the hatchling, then see the growing animal, then the adult."
+        },
+        {
+          "trait": "story",
+          "text": "You can listen to an Imigani story about a chameleon that changes color to stay safe in the forest."
+        }
+      ],
+      "cultural_anchors_used": [
+        "beadwork",
+        "Gusimbuka Urukiramende",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "No concerns"
+    }
+  ]
+}

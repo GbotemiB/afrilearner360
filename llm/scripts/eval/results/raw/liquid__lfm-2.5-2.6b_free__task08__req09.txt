@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P5-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Your class is studying the water cycle. You find a small stream near your home and want to show your friends how water moves through nature.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw a picture showing water turning into vapor from a hot pond, then becoming clouds, then falling as rain, and finally flowing back into a river (using simple geometric shapes like spirals and lines)"
+        },
+        {
+          "trait": "game",
+          "text": "Play a quick card-matching game where you match 'sun' with 'evaporation', 'cloud' with 'condensation', 'rain' with 'precipitation', and 'river' with 'collection'"
+        },
+        {
+          "trait": "structured",
+          "text": "Explain the water cycle in four steps: 1) Water heats up and becomes invisible vapor, 2) Vapor rises and cools to form clouds, 3) Clouds release water as rain, 4) Water gathers in rivers and lakes"
+        },
+        {
+          "trait": "story",
+          "text": "Tell a short story about a water drop that starts as rain, travels through the air, falls into a lake, and returns to the ocean to begin its journey again (like Imigani fables with animal characters)"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Imigani",
+        "Umuganda"
+      ],
+      "reviewer_notes": "Ensure Imigongo description mentions spirals, triangles, and curves. Verify story uses a neutral character and does not imply gender or harmful stereotypes. Card game terms should be age-appropriate for P5."
+    },
+    {
+      "id": "rwanda-P5-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During a science project, you and your classmates are collecting data about weather in your village. One day, you notice the sky is very dry and there is no rain.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Create a poster showing the water cycle with colorful illustrations of the sun, clouds, and rain, using bright colors like red and white (similar to Imigongo's terracotta-red accents)"
+        },
+        {
+          "trait": "game",
+          "text": "In a team challenge, compare two containers of water—one shallow like a small pit and one deep—to see which evaporates faster (like the Igisoro game's seed-pit size comparison)"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the daily routine of the water cycle: morning - evaporation happens when the sun shines, afternoon - clouds form, evening - rain falls, night - water collects in rivers"
+        },
+        {
+          "trait": "story",
+          "text": "Imagine you are a little water drop living inside a cloud. Describe what you feel and see as you fall down to the ground and join a river"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Imigani",
+        "Umuganda"
+      ],
+      "reviewer_notes": "Check that the shallow/deep container comparison is clear and non-violent. Story should not blame any group. Ensure all cultural references align with the knowledge base."
+    },
+    {
+      "id": "rwanda-P5-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Your teacher asks you to help plan a simple experiment to show how water moves. You decide to watch a small container of water and see what happens when it gets warm.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Sketch a labeled diagram of a pot of water heating up, showing the steam rising (evaporation), then condensing on the lid (condensation), and finally falling back as droplets (precipitation)"
+        },
+        {
+          "trait": "game",
+          "text": "Use a timer to track how long it takes for water to evaporate from a shallow dish versus a deep bowl (like comparing Igisoro pits of different sizes)"
+        },
+        {
+          "trait": "structured",
+          "text": "List the three main parts of the water cycle in order: 1) Evaporation, 2) Condensation, 3) Precipitation, and explain where each part happens"
+        },
+        {
+          "trait": "story",
+          "text": "A young farmer in Rwanda watches his rice paddies during the rainy season and explains how the water cycle helps his crops grow"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Imigani",
+        "Umuganda"
+      ],
+      "reviewer_notes": "Diagram should be simple and scientifically accurate. Experiment description must be safe and non-threatening. Story should reflect a positive agricultural context without stereotyping."
+    }
+  ]
+}

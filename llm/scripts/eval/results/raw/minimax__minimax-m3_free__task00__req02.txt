@@ -1,0 +1,57 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-01",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "After reading time, your teacher wants everyone to learn new spelling words. She asks the class how they would like to practice them next.",
+      "options": {
+        "visual": "Look at the words written in big, bright letters on the board and copy each one into a notebook with colored pencils.",
+        "game": "Play a word game where you and a partner race to say each word out loud when the teacher points to it.",
+        "structured": "Follow a clear list: first say the word, then write it, then use it in one short sentence, then move to the next word.",
+        "story": "Pretend the spelling words are names of animals on a trip, and make up a little story using each word in order."
+      },
+      "cultural_anchors_used": [],
+      "reviewer_notes": "Scenario uses general school setting only; no specific cultural reference required for this item. Reading level kept short for P1."
+    },
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-02",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your class is learning how to count groups of objects. The teacher asks each child to choose one way to practice counting during the lesson.",
+      "options": {
+        "visual": "Look at a poster with rows of colorful shapes and count them by pointing to each row.",
+        "game": "Play a counting game like Igisoro with a friend, moving seeds into the small holes on the wooden board.",
+        "structured": "Follow the same steps every time: count from 1, say the total out loud, then write the number in your book.",
+        "story": "Pretend you are counting baskets like the woven Agaseke baskets, picking them up one by one as you walk to market."
+      },
+      "cultural_anchors_used": ["Igisoro", "Agaseke"],
+      "reviewer_notes": "Igisoro mention kept generic (seeds and wooden board) without introducing rules a P1 may not know. Agaseke referenced lightly as 'woven baskets.' Local reviewer should confirm P1 familiarity with these terms."
+    },
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-03",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "At the end of the day, your class wants to remember what they learned. The teacher asks how the children would like to share it with their families.",
+      "options": {
+        "visual": "Draw a picture with patterns like Imigongo art, using bold shapes and colors to show what you learned.",
+        "game": "Play Guhana Ubute with your family, where you say one thing you learned each time you tag someone.",
+        "structured": "Use a simple checklist: first name the topic, then tell one fact, then tell why it matters, then you are finished.",
+        "story": "Tell your family a short Imigani-style story with a small animal who learns the same thing you learned at school."
+      },
+      "cultural_anchors_used": ["Imigongo", "Guhana Ubute", "Imigani"],
+      "reviewer_notes": "Guhana Ubute reframed gently so P1 understands the tag mechanic. Imigongo referenced as 'patterns like Imigongo art.' Imigani framed as 'a short story with a small animal.' Local reviewer should confirm Imigongo is recognizable to P1 students."
+    }
+  ]
+}
+```

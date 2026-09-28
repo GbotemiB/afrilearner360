@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "id": "rwanda-P5-counting-and-numbers-01",
+    "language": "english",
+    "topic": "counting and numbers",
+    "grade_band": "P5",
+    "point_budget": 10,
+    "scenario": "Your class is learning how to count larger groups of objects quickly. The teacher asks everyone to try a new way of practicing counting this week. Which activity would make you want to start right away?",
+    "options": {
+      "visual": "Look at a colourful chart showing Imigongo patterns made of spirals and triangles. You count the spirals in each row and write the total next to the picture, building up to bigger numbers row by row.",
+      "game": "Play a counting round of Igisoro with a partner. Before the game, you count out 64 seeds into piles, then during the game you keep track of how many seeds move into each pit.",
+      "structured": "Follow a step-by-step counting worksheet. It tells you exactly what to do: first count by 2s, then by 5s, then by 10s, and check your answer at each step before moving on.",
+      "story": "Listen to an Imigani folktale about a clever character who wins a challenge by counting all the animals in the village one by one. Afterwards, you help count the animals mentioned in the story."
+    },
+    "cultural_anchors_used": [
+      "Imigongo (bold geometric art with spirals and triangles)",
+      "Igisoro (32-pit board, 64 seeds, counting seeds during play)",
+      "Imigani (folktales with animal characters and moral themes)"
+    ],
+    "reviewer_notes": "Confirm that a P5 student in Rwanda would likely be familiar with Igisoro seed counting at this level; the cultural knowledge base lists 64 seeds explicitly, which is used here."
+  },
+  {
+    "id": "rwanda-P5-counting-and-numbers-02",
+    "language": "english",
+    "topic": "counting and numbers",
+    "grade_band": "P5",
+    "point_budget": 10,
+    "scenario": "Your teacher wants each student to practice skip-counting at home and bring back what they did. Which way of practicing fits you best?",
+    "options": {
+      "visual": "Draw your own Agaseke basket pattern on paper, using rows of shapes. Then count how many shapes you drew in each row and add them all up at the end.",
+      "game": "Play Sebutimbiri at break time: count how many low bars you jump over in a row without stopping, and try to beat your own score each round.",
+      "structured": "Follow a clear home practice plan. Each day has a set task: Monday count by 2s, Tuesday count by 5s, Wednesday count by 10s, with a checkbox to mark when you finish.",
+      "story": "Make up a short story about a market day in your village. A trader counts oranges, then bananas, then mangoes, and you write down the running total as the story goes on."
+    },
+    "cultural_anchors_used": [
+      "Agaseke (intricate geometric/spiral woven basket patterns)",
+      "Sebutimbiri (jumping over a sequence of low bars consecutively)",
+      "Market day (general Rwandan village life, not specified in KB but implicit; flag for review)"
+    ],
+    "reviewer_notes": "Market/trader reference is generic and not pulled from a specific KB line. Reviewer should confirm this is acceptable everyday context for a P5 student in Rwanda, or replace with a KB-anchored scene."
+  },
+  {
+    "id": "rwanda-P5-counting-and-numbers-03",
+    "language": "english",
+    "topic": "counting and numbers",
+    "grade_band": "P5",
+    "point_budget": 10,
+    "scenario": "Your school is preparing a class display about numbers in everyday life. The teacher says each student can choose how to contribute one piece. Which contribution would you enjoy making the most?",
+    "options": {
+      "visual": "Create a bright poster of an Agaseke basket covered in repeating patterns, and label each section with the number of shapes inside it so visitors can practice counting.",
+      "game": "Set up a small Igisoro board at the display and teach visitors how to count and move the 64 seeds, so they can try a counting game themselves.",
+      "structured": "Make a neat 'How We Count' guide with clear steps: Step 1 gather objects, Step 2 group them in tens, Step 3 write the total, Step 4 check with a partner.",
+      "story": "Write a short Imigani-style tale about a village child who uses counting to solve a problem, and put it on the display board for others to read."
+    },
+    "cultural_anchors_used": [
+      "Agaseke (geometric/spiral basket patterns)",
+      "Igisoro (64 seeds, counting and moving seeds)",
+      "Imigani (folktales with moral themes, shared in schools and families)"
+    ],
+    "reviewer_notes": "No concerns. All references are directly grounded in the cultural knowledge base and reading level matches P5."
+  }
+]
+```

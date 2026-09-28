@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Agaseke",
+        "Imigani"
+      ],
+      "grade_band": "P1",
+      "id": "rwanda-P1-everyday-learning-at-school-01",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Draw an imigongo pattern on paper.",
+          "trait": "visual"
+        },
+        {
+          "text": "Play a game of Igisoro with a classmate.",
+          "trait": "game"
+        },
+        {
+          "text": "Make a small agaseke basket step by step.",
+          "trait": "structured"
+        },
+        {
+          "text": "Listen to an imigani story about a clever animal.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "In art class, you can choose one activity to learn about traditional art.",
+      "topic": "everyday learning at school"
+    },
+    {
+      "cultural_anchors_used": [
+        "Gusimbuka umugozi",
+        "Guhana Ubute",
+        "Igisoro",
+        "Imigani"
+      ],
+      "grade_band": "P1",
+      "id": "rwanda-P1-everyday-learning-at-school-02",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Draw a picture of children playing Gusimbuka umugozi.",
+          "trait": "visual"
+        },
+        {
+          "text": "Play a game of Guhana Ubute with your friends.",
+          "trait": "game"
+        },
+        {
+          "text": "Learn the rules of Igisoro step by step.",
+          "trait": "structured"
+        },
+        {
+          "text": "Listen to an imigani story about a wrestling match.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "During play time, your teacher lets you choose one traditional game activity.",
+      "topic": "everyday learning at school"
+    },
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Gusimbuka umugozi",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P1",
+      "id": "rwanda-P1-everyday-learning-at-school-03",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Draw an imigongo pattern on a poster about the community.",
+          "trait": "visual"
+        },
+        {
+          "text": "Play a game of Gusimbuka umugozi with your classmates.",
+          "trait": "game"
+        },
+        {
+          "text": "Follow the steps of Umuganda work in your group.",
+          "trait": "structured"
+        },
+        {
+          "text": "Listen to an imigani story about a helpful child.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "Your school is preparing for the monthly community work day. You can choose how to take part.",
+      "topic": "everyday learning at school"
+    }
+  ]
+}

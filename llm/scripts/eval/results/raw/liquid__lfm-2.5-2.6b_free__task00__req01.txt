@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-01",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Every morning when you arrive at school, you know exactly what happens next. You sit down, listen to the teacher explain the day's plan, then you join your friends for a quick game before starting your lessons.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw a picture showing your favorite part of the school day (3 points)"
+        },
+        {
+          "trait": "game",
+          "text": "Play a simple game like Igisoro with your friends during free time (3 points)"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the step-by-step schedule of the day from start to finish (2 points)"
+        },
+        {
+          "trait": "story",
+          "text": "Think about a story the teacher told you about being helpful in school (2 points)"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro"
+      ],
+      "reviewer_notes": "Ensure the scenario reflects typical P1 classroom routines. Verify that Igisoro is correctly described as a board game with seeds/stones."
+    },
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-02",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During recess, you and your friends decide together what to build using the materials you find. Everyone takes turns adding pieces until the project is finished.",
+      "options": [
+        {
+          "trait": "game",
+          "text": "Compete in a tag game like Guhana Ubute to see who can catch the most tokens (3 points)"
+        },
+        {
+          "trait": "story",
+          "text": "Share a folktale called Imigani with your friends and explain why the hero was brave (3 points)"
+        },
+        {
+          "trait": "structured",
+          "text": "Organize a clean-up task after class, assigning roles like cleaning desks or picking up papers (2 points)"
+        },
+        {
+          "trait": "visual",
+          "text": "Create a colorful poster about what you learned during math lesson today (2 points)"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Guhana Ubute",
+        "Imigani",
+        "Umuganda"
+      ],
+      "reviewer_notes": "Check that the tag game description matches the KB definition. Confirm Imigani is a folktale tradition and Umuganda relates to structured community work."
+    },
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-03",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "After learning about shapes, your class makes paper models of circles and squares. You help each other cut and fold the paper carefully.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw a diagram showing different shapes you created in class (3 points)"
+        },
+        {
+          "trait": "game",
+          "text": "Play a cooperative game where you work together to solve puzzles (3 points)"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the recipe for making a simple craft like weaving small baskets (2 points)"
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a proverb about kindness and tell the class why it matters (2 points)"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Agaseke",
+        "Ibisakuzo"
+      ],
+      "reviewer_notes": "Verify Imigongo is described as geometric art with spirals/triangles. Ensure Agaseke refers to woven baskets. Check Ibisakuzo is riddles for critical thinking."
+    }
+  ]
+}

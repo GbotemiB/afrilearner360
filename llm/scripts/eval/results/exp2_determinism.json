@@ -1,0 +1,939 @@
+{
+  "experiment": "exp2_scorer_determinism",
+  "generated_at": "2026-09-06T08:00:08.550028+00:00",
+  "python": "3.11.9",
+  "parent_pythonhashseed": "<unset>",
+  "scorer_module": "afrilearner360_llm.profiling.scorer",
+  "float_format": "{:.10f}",
+  "n_fixtures": 25,
+  "n_ok_fixtures": 17,
+  "n_raising_fixtures": 8,
+  "within_process": {
+    "repeats_per_fixture": 10,
+    "fixtures": 25,
+    "total_scorings": 250,
+    "exact_match_rate_result": 1.0,
+    "exact_match_rate_message": 1.0,
+    "per_fixture": [
+      {
+        "fixture": "single_trait_visual",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "6c38ea77418da122713bb8d53aeda90095aef68e476406426ba571ef7ac36863",
+        "message_hash": "6c38ea77418da122713bb8d53aeda90095aef68e476406426ba571ef7ac36863",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "6c38ea77418da122713bb8d53aeda90095aef68e476406426ba571ef7ac36863"
+        ],
+        "distinct_message_hashes": [
+          "6c38ea77418da122713bb8d53aeda90095aef68e476406426ba571ef7ac36863"
+        ]
+      },
+      {
+        "fixture": "single_trait_game",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "4a9e72d527e5b839a3cf4dbffe712c3b0bf9aecbc5b822857a191790a6c9f931",
+        "message_hash": "4a9e72d527e5b839a3cf4dbffe712c3b0bf9aecbc5b822857a191790a6c9f931",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "4a9e72d527e5b839a3cf4dbffe712c3b0bf9aecbc5b822857a191790a6c9f931"
+        ],
+        "distinct_message_hashes": [
+          "4a9e72d527e5b839a3cf4dbffe712c3b0bf9aecbc5b822857a191790a6c9f931"
+        ]
+      },
+      {
+        "fixture": "single_trait_structured",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "44825d6e9d2d78fc22c43ccbbf4cf549e21b05328aec948597fe6b75bd63cf60",
+        "message_hash": "44825d6e9d2d78fc22c43ccbbf4cf549e21b05328aec948597fe6b75bd63cf60",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "44825d6e9d2d78fc22c43ccbbf4cf549e21b05328aec948597fe6b75bd63cf60"
+        ],
+        "distinct_message_hashes": [
+          "44825d6e9d2d78fc22c43ccbbf4cf549e21b05328aec948597fe6b75bd63cf60"
+        ]
+      },
+      {
+        "fixture": "single_trait_story",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "32a79ec50a9d3c4adcf2ddc62f47a99e207a1d982b9d5f45de6d752eeed43f56",
+        "message_hash": "32a79ec50a9d3c4adcf2ddc62f47a99e207a1d982b9d5f45de6d752eeed43f56",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "32a79ec50a9d3c4adcf2ddc62f47a99e207a1d982b9d5f45de6d752eeed43f56"
+        ],
+        "distinct_message_hashes": [
+          "32a79ec50a9d3c4adcf2ddc62f47a99e207a1d982b9d5f45de6d752eeed43f56"
+        ]
+      },
+      {
+        "fixture": "four_way_exact_tie_across_items",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "878b7a60d477a4f093f4667eac9de883c4007b24ed95ad0d56056d1f45b00308",
+        "message_hash": "878b7a60d477a4f093f4667eac9de883c4007b24ed95ad0d56056d1f45b00308",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "878b7a60d477a4f093f4667eac9de883c4007b24ed95ad0d56056d1f45b00308"
+        ],
+        "distinct_message_hashes": [
+          "878b7a60d477a4f093f4667eac9de883c4007b24ed95ad0d56056d1f45b00308"
+        ]
+      },
+      {
+        "fixture": "four_way_exact_tie_within_items",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "34703425f8ad71db3f150a56b8c6e8f402a298fe18be97feda8843c03b4207b6",
+        "message_hash": "34703425f8ad71db3f150a56b8c6e8f402a298fe18be97feda8843c03b4207b6",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "34703425f8ad71db3f150a56b8c6e8f402a298fe18be97feda8843c03b4207b6"
+        ],
+        "distinct_message_hashes": [
+          "34703425f8ad71db3f150a56b8c6e8f402a298fe18be97feda8843c03b4207b6"
+        ]
+      },
+      {
+        "fixture": "two_way_tie_visual_game",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "c4baebd577a39c9891e05f66ff31fac4cef56cbc2c596a31f00bab67ace23c53",
+        "message_hash": "c4baebd577a39c9891e05f66ff31fac4cef56cbc2c596a31f00bab67ace23c53",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "c4baebd577a39c9891e05f66ff31fac4cef56cbc2c596a31f00bab67ace23c53"
+        ],
+        "distinct_message_hashes": [
+          "c4baebd577a39c9891e05f66ff31fac4cef56cbc2c596a31f00bab67ace23c53"
+        ]
+      },
+      {
+        "fixture": "two_way_tie_structured_story",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "8ccb8e8c34f8510caf9d1071bfa43bfe31bb9aa3ae777c527ac62ef3e1f3fb3e",
+        "message_hash": "8ccb8e8c34f8510caf9d1071bfa43bfe31bb9aa3ae777c527ac62ef3e1f3fb3e",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "8ccb8e8c34f8510caf9d1071bfa43bfe31bb9aa3ae777c527ac62ef3e1f3fb3e"
+        ],
+        "distinct_message_hashes": [
+          "8ccb8e8c34f8510caf9d1071bfa43bfe31bb9aa3ae777c527ac62ef3e1f3fb3e"
+        ]
+      },
+      {
+        "fixture": "three_way_tie",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "59d917a94b396088155981b4d89f56adfb07eec49cb84fa0596f6acc3548e14a",
+        "message_hash": "59d917a94b396088155981b4d89f56adfb07eec49cb84fa0596f6acc3548e14a",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "59d917a94b396088155981b4d89f56adfb07eec49cb84fa0596f6acc3548e14a"
+        ],
+        "distinct_message_hashes": [
+          "59d917a94b396088155981b4d89f56adfb07eec49cb84fa0596f6acc3548e14a"
+        ]
+      },
+      {
+        "fixture": "near_balanced_under_threshold",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "44374dc659f126371739ad501aa168e2cf7a9e425678422933ac52a540720724",
+        "message_hash": "44374dc659f126371739ad501aa168e2cf7a9e425678422933ac52a540720724",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "44374dc659f126371739ad501aa168e2cf7a9e425678422933ac52a540720724"
+        ],
+        "distinct_message_hashes": [
+          "44374dc659f126371739ad501aa168e2cf7a9e425678422933ac52a540720724"
+        ]
+      },
+      {
+        "fixture": "boundary_balanced_spread_exactly_12",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "c9efcca8f035ba948ab23a137a021c1fb60423519a95c55613ba9e99b947704d",
+        "message_hash": "c9efcca8f035ba948ab23a137a021c1fb60423519a95c55613ba9e99b947704d",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "c9efcca8f035ba948ab23a137a021c1fb60423519a95c55613ba9e99b947704d"
+        ],
+        "distinct_message_hashes": [
+          "c9efcca8f035ba948ab23a137a021c1fb60423519a95c55613ba9e99b947704d"
+        ]
+      },
+      {
+        "fixture": "boundary_secondary_gap_exactly_15",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "72ef7340918633135e30e5b6c21f58daaf5f5f961792ce46dea06587dcd7327d",
+        "message_hash": "72ef7340918633135e30e5b6c21f58daaf5f5f961792ce46dea06587dcd7327d",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "72ef7340918633135e30e5b6c21f58daaf5f5f961792ce46dea06587dcd7327d"
+        ],
+        "distinct_message_hashes": [
+          "72ef7340918633135e30e5b6c21f58daaf5f5f961792ce46dea06587dcd7327d"
+        ]
+      },
+      {
+        "fixture": "min_length_single_item",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "feae4d09d452c41b75b01dc2ed3992afc8a3a6c593376a18ad4b74da4c03cd0e",
+        "message_hash": "feae4d09d452c41b75b01dc2ed3992afc8a3a6c593376a18ad4b74da4c03cd0e",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "feae4d09d452c41b75b01dc2ed3992afc8a3a6c593376a18ad4b74da4c03cd0e"
+        ],
+        "distinct_message_hashes": [
+          "feae4d09d452c41b75b01dc2ed3992afc8a3a6c593376a18ad4b74da4c03cd0e"
+        ]
+      },
+      {
+        "fixture": "max_length_ten_items",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "bcc2818ebcb7fdba39fee22815fbb3dafea6cd09196d8f5c0fc8209cd09931dc",
+        "message_hash": "bcc2818ebcb7fdba39fee22815fbb3dafea6cd09196d8f5c0fc8209cd09931dc",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "bcc2818ebcb7fdba39fee22815fbb3dafea6cd09196d8f5c0fc8209cd09931dc"
+        ],
+        "distinct_message_hashes": [
+          "bcc2818ebcb7fdba39fee22815fbb3dafea6cd09196d8f5c0fc8209cd09931dc"
+        ]
+      },
+      {
+        "fixture": "max_length_with_budget_enforced",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "25882bfbbaae5c9fd05f40061ec80cca04c9c561919532eb446f652deabd2536",
+        "message_hash": "25882bfbbaae5c9fd05f40061ec80cca04c9c561919532eb446f652deabd2536",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "25882bfbbaae5c9fd05f40061ec80cca04c9c561919532eb446f652deabd2536"
+        ],
+        "distinct_message_hashes": [
+          "25882bfbbaae5c9fd05f40061ec80cca04c9c561919532eb446f652deabd2536"
+        ]
+      },
+      {
+        "fixture": "with_known_item_ids_all_present",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "c8ff14c6dada15d51e4a065fe841df69c421bd52ff6ea9b552a9ae2135d221ed",
+        "message_hash": "c8ff14c6dada15d51e4a065fe841df69c421bd52ff6ea9b552a9ae2135d221ed",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "c8ff14c6dada15d51e4a065fe841df69c421bd52ff6ea9b552a9ae2135d221ed"
+        ],
+        "distinct_message_hashes": [
+          "c8ff14c6dada15d51e4a065fe841df69c421bd52ff6ea9b552a9ae2135d221ed"
+        ]
+      },
+      {
+        "fixture": "custom_thresholds",
+        "status": "ok",
+        "repeats": 10,
+        "result_hash": "7bf535603db22d253e29e62fdfb7447db74136319a396382f97b1c1c28e7a270",
+        "message_hash": "7bf535603db22d253e29e62fdfb7447db74136319a396382f97b1c1c28e7a270",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "7bf535603db22d253e29e62fdfb7447db74136319a396382f97b1c1c28e7a270"
+        ],
+        "distinct_message_hashes": [
+          "7bf535603db22d253e29e62fdfb7447db74136319a396382f97b1c1c28e7a270"
+        ]
+      },
+      {
+        "fixture": "err_empty_response_set",
+        "status": "raised",
+        "repeats": 10,
+        "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+        "message_hash": "b54a6e3ba18baad35ad77da16cf028f3a51319a2352a41c10de5663f24b59f78",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "b54a6e3ba18baad35ad77da16cf028f3a51319a2352a41c10de5663f24b59f78"
+        ]
+      },
+      {
+        "fixture": "err_all_zero_allocations",
+        "status": "raised",
+        "repeats": 10,
+        "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+        "message_hash": "c73757f79656273bec85e646d761f1bb54bb414f06401b65c2097c4c9f77c7d0",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "c73757f79656273bec85e646d761f1bb54bb414f06401b65c2097c4c9f77c7d0"
+        ]
+      },
+      {
+        "fixture": "err_duplicate_item",
+        "status": "raised",
+        "repeats": 10,
+        "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+        "message_hash": "5b582dc4db37ae6ff64542644b58927e09b63a64f12ced140b65f5ec79d33c6a",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "5b582dc4db37ae6ff64542644b58927e09b63a64f12ced140b65f5ec79d33c6a"
+        ]
+      },
+      {
+        "fixture": "err_unknown_item",
+        "status": "raised",
+        "repeats": 10,
+        "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+        "message_hash": "39f4b210cb9b6217addac9b4e66f887da1eb274298a8ede7b8c6018f074a46ae",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "39f4b210cb9b6217addac9b4e66f887da1eb274298a8ede7b8c6018f074a46ae"
+        ]
+      },
+      {
+        "fixture": "err_budget_mismatch",
+        "status": "raised",
+        "repeats": 10,
+        "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+        "message_hash": "ad785d76bf0a0a04b8da2b28165f17ef71b30c0cced97ae6399135214a0133a9",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "ad785d76bf0a0a04b8da2b28165f17ef71b30c0cced97ae6399135214a0133a9"
+        ]
+      },
+      {
+        "fixture": "err_missing_trait_key",
+        "status": "raised",
+        "repeats": 10,
+        "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+        "message_hash": "49437cc742f88e40601461d84611619c681d374ecaeea60df4fb5b0c5693fe85",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312"
+        ],
+        "distinct_message_hashes": [
+          "49437cc742f88e40601461d84611619c681d374ecaeea60df4fb5b0c5693fe85"
+        ]
+      },
+      {
+        "fixture": "err_negative_allocation",
+        "status": "raised",
+        "repeats": 10,
+        "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+        "message_hash": "f9ae8c77b7bcfe930348ba5f2a3fd040e4307f197e9d0977c90c652f81874944",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312"
+        ],
+        "distinct_message_hashes": [
+          "f9ae8c77b7bcfe930348ba5f2a3fd040e4307f197e9d0977c90c652f81874944"
+        ]
+      },
+      {
+        "fixture": "err_unknown_trait_key",
+        "status": "raised",
+        "repeats": 10,
+        "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+        "message_hash": "8f6acb6006e43ad0f4c805a43fa492cb835ad96a5b6caea6112634933ebbc923",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312"
+        ],
+        "distinct_message_hashes": [
+          "8f6acb6006e43ad0f4c805a43fa492cb835ad96a5b6caea6112634933ebbc923"
+        ]
+      }
+    ]
+  },
+  "across_processes": {
+    "hash_seeds": [
+      "0",
+      "1",
+      "42"
+    ],
+    "processes": 3,
+    "subprocess_failures": [],
+    "fixtures": 25,
+    "exact_match_rate_result": 1.0,
+    "exact_match_rate_message": 0.96,
+    "per_fixture": [
+      {
+        "fixture": "single_trait_visual",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "6c38ea77418da122713bb8d53aeda90095aef68e476406426ba571ef7ac36863"
+        ],
+        "distinct_message_hashes": [
+          "6c38ea77418da122713bb8d53aeda90095aef68e476406426ba571ef7ac36863"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "single_trait_game",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "4a9e72d527e5b839a3cf4dbffe712c3b0bf9aecbc5b822857a191790a6c9f931"
+        ],
+        "distinct_message_hashes": [
+          "4a9e72d527e5b839a3cf4dbffe712c3b0bf9aecbc5b822857a191790a6c9f931"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "single_trait_structured",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "44825d6e9d2d78fc22c43ccbbf4cf549e21b05328aec948597fe6b75bd63cf60"
+        ],
+        "distinct_message_hashes": [
+          "44825d6e9d2d78fc22c43ccbbf4cf549e21b05328aec948597fe6b75bd63cf60"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "single_trait_story",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "32a79ec50a9d3c4adcf2ddc62f47a99e207a1d982b9d5f45de6d752eeed43f56"
+        ],
+        "distinct_message_hashes": [
+          "32a79ec50a9d3c4adcf2ddc62f47a99e207a1d982b9d5f45de6d752eeed43f56"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "four_way_exact_tie_across_items",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "878b7a60d477a4f093f4667eac9de883c4007b24ed95ad0d56056d1f45b00308"
+        ],
+        "distinct_message_hashes": [
+          "878b7a60d477a4f093f4667eac9de883c4007b24ed95ad0d56056d1f45b00308"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "four_way_exact_tie_within_items",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "34703425f8ad71db3f150a56b8c6e8f402a298fe18be97feda8843c03b4207b6"
+        ],
+        "distinct_message_hashes": [
+          "34703425f8ad71db3f150a56b8c6e8f402a298fe18be97feda8843c03b4207b6"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "two_way_tie_visual_game",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "c4baebd577a39c9891e05f66ff31fac4cef56cbc2c596a31f00bab67ace23c53"
+        ],
+        "distinct_message_hashes": [
+          "c4baebd577a39c9891e05f66ff31fac4cef56cbc2c596a31f00bab67ace23c53"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "two_way_tie_structured_story",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "8ccb8e8c34f8510caf9d1071bfa43bfe31bb9aa3ae777c527ac62ef3e1f3fb3e"
+        ],
+        "distinct_message_hashes": [
+          "8ccb8e8c34f8510caf9d1071bfa43bfe31bb9aa3ae777c527ac62ef3e1f3fb3e"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "three_way_tie",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "59d917a94b396088155981b4d89f56adfb07eec49cb84fa0596f6acc3548e14a"
+        ],
+        "distinct_message_hashes": [
+          "59d917a94b396088155981b4d89f56adfb07eec49cb84fa0596f6acc3548e14a"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "near_balanced_under_threshold",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "44374dc659f126371739ad501aa168e2cf7a9e425678422933ac52a540720724"
+        ],
+        "distinct_message_hashes": [
+          "44374dc659f126371739ad501aa168e2cf7a9e425678422933ac52a540720724"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "boundary_balanced_spread_exactly_12",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "c9efcca8f035ba948ab23a137a021c1fb60423519a95c55613ba9e99b947704d"
+        ],
+        "distinct_message_hashes": [
+          "c9efcca8f035ba948ab23a137a021c1fb60423519a95c55613ba9e99b947704d"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "boundary_secondary_gap_exactly_15",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "72ef7340918633135e30e5b6c21f58daaf5f5f961792ce46dea06587dcd7327d"
+        ],
+        "distinct_message_hashes": [
+          "72ef7340918633135e30e5b6c21f58daaf5f5f961792ce46dea06587dcd7327d"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "min_length_single_item",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "feae4d09d452c41b75b01dc2ed3992afc8a3a6c593376a18ad4b74da4c03cd0e"
+        ],
+        "distinct_message_hashes": [
+          "feae4d09d452c41b75b01dc2ed3992afc8a3a6c593376a18ad4b74da4c03cd0e"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "max_length_ten_items",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "bcc2818ebcb7fdba39fee22815fbb3dafea6cd09196d8f5c0fc8209cd09931dc"
+        ],
+        "distinct_message_hashes": [
+          "bcc2818ebcb7fdba39fee22815fbb3dafea6cd09196d8f5c0fc8209cd09931dc"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "max_length_with_budget_enforced",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "25882bfbbaae5c9fd05f40061ec80cca04c9c561919532eb446f652deabd2536"
+        ],
+        "distinct_message_hashes": [
+          "25882bfbbaae5c9fd05f40061ec80cca04c9c561919532eb446f652deabd2536"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "with_known_item_ids_all_present",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "c8ff14c6dada15d51e4a065fe841df69c421bd52ff6ea9b552a9ae2135d221ed"
+        ],
+        "distinct_message_hashes": [
+          "c8ff14c6dada15d51e4a065fe841df69c421bd52ff6ea9b552a9ae2135d221ed"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "custom_thresholds",
+        "status": "ok",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "7bf535603db22d253e29e62fdfb7447db74136319a396382f97b1c1c28e7a270"
+        ],
+        "distinct_message_hashes": [
+          "7bf535603db22d253e29e62fdfb7447db74136319a396382f97b1c1c28e7a270"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "err_empty_response_set",
+        "status": "raised",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "b54a6e3ba18baad35ad77da16cf028f3a51319a2352a41c10de5663f24b59f78"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "err_all_zero_allocations",
+        "status": "raised",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "c73757f79656273bec85e646d761f1bb54bb414f06401b65c2097c4c9f77c7d0"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "err_duplicate_item",
+        "status": "raised",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "5b582dc4db37ae6ff64542644b58927e09b63a64f12ced140b65f5ec79d33c6a"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "err_unknown_item",
+        "status": "raised",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "39f4b210cb9b6217addac9b4e66f887da1eb274298a8ede7b8c6018f074a46ae"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "err_budget_mismatch",
+        "status": "raised",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71"
+        ],
+        "distinct_message_hashes": [
+          "ad785d76bf0a0a04b8da2b28165f17ef71b30c0cced97ae6399135214a0133a9"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "err_missing_trait_key",
+        "status": "raised",
+        "result_stable": true,
+        "message_stable": false,
+        "distinct_result_hashes": [
+          "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312"
+        ],
+        "distinct_message_hashes": [
+          "195ce12bec6f3e03f9a4b8cdfdac29562869d9b7891043df995510549749b3f4",
+          "49437cc742f88e40601461d84611619c681d374ecaeea60df4fb5b0c5693fe85",
+          "62772acff8731e82322ec07bdbb5a05e55fe27635b39b61ced1e100414fcbcf0",
+          "a33c022f346432cbc24cd041ece83ce9017bcd3bf1aaf16865a7c139f2988bdd"
+        ],
+        "divergences": [
+          {
+            "pythonhashseed": "0",
+            "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+            "message_hash": "195ce12bec6f3e03f9a4b8cdfdac29562869d9b7891043df995510549749b3f4",
+            "result_differs": false,
+            "baseline_canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations\\n  Value error, expected an allocation for every trait {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>, <Trait.STRUCTURED: 'structured'>}, got {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>} [type=value_error, input_value={'visual': 5, 'game': 3, 'story': 2}, input_type=dict]\\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}",
+            "observed_canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations\\n  Value error, expected an allocation for every trait {<Trait.VISUAL: 'visual'>, <Trait.STORY: 'story'>, <Trait.GAME: 'game'>, <Trait.STRUCTURED: 'structured'>}, got {<Trait.VISUAL: 'visual'>, <Trait.STORY: 'story'>, <Trait.GAME: 'game'>} [type=value_error, input_value={'visual': 5, 'game': 3, 'story': 2}, input_type=dict]\\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}"
+          },
+          {
+            "pythonhashseed": "1",
+            "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+            "message_hash": "62772acff8731e82322ec07bdbb5a05e55fe27635b39b61ced1e100414fcbcf0",
+            "result_differs": false,
+            "baseline_canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations\\n  Value error, expected an allocation for every trait {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>, <Trait.STRUCTURED: 'structured'>}, got {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>} [type=value_error, input_value={'visual': 5, 'game': 3, 'story': 2}, input_type=dict]\\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}",
+            "observed_canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations\\n  Value error, expected an allocation for every trait {<Trait.VISUAL: 'visual'>, <Trait.STORY: 'story'>, <Trait.STRUCTURED: 'structured'>, <Trait.GAME: 'game'>}, got {<Trait.VISUAL: 'visual'>, <Trait.STORY: 'story'>, <Trait.GAME: 'game'>} [type=value_error, input_value={'visual': 5, 'game': 3, 'story': 2}, input_type=dict]\\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}"
+          },
+          {
+            "pythonhashseed": "42",
+            "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+            "message_hash": "a33c022f346432cbc24cd041ece83ce9017bcd3bf1aaf16865a7c139f2988bdd",
+            "result_differs": false,
+            "baseline_canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations\\n  Value error, expected an allocation for every trait {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>, <Trait.STRUCTURED: 'structured'>}, got {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>} [type=value_error, input_value={'visual': 5, 'game': 3, 'story': 2}, input_type=dict]\\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}",
+            "observed_canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations\\n  Value error, expected an allocation for every trait {<Trait.GAME: 'game'>, <Trait.STRUCTURED: 'structured'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>}, got {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>} [type=value_error, input_value={'visual': 5, 'game': 3, 'story': 2}, input_type=dict]\\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}"
+          }
+        ]
+      },
+      {
+        "fixture": "err_negative_allocation",
+        "status": "raised",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312"
+        ],
+        "distinct_message_hashes": [
+          "f9ae8c77b7bcfe930348ba5f2a3fd040e4307f197e9d0977c90c652f81874944"
+        ],
+        "divergences": []
+      },
+      {
+        "fixture": "err_unknown_trait_key",
+        "status": "raised",
+        "result_stable": true,
+        "message_stable": true,
+        "distinct_result_hashes": [
+          "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312"
+        ],
+        "distinct_message_hashes": [
+          "8f6acb6006e43ad0f4c805a43fa492cb835ad96a5b6caea6112634933ebbc923"
+        ],
+        "divergences": []
+      }
+    ]
+  },
+  "baseline": [
+    {
+      "fixture": "single_trait_visual",
+      "status": "ok",
+      "result_hash": "6c38ea77418da122713bb8d53aeda90095aef68e476406426ba571ef7ac36863",
+      "message_hash": "6c38ea77418da122713bb8d53aeda90095aef68e476406426ba571ef7ac36863",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":3,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"0.0000000000\",\"story\":\"0.0000000000\",\"structured\":\"0.0000000000\",\"visual\":\"100.0000000000\"},\"raw_points\":{\"game\":0,\"story\":0,\"structured\":0,\"visual\":30},\"secondary_trait\":null,\"student_id\":\"fx-single-visual\",\"total_points\":30},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "single_trait_game",
+      "status": "ok",
+      "result_hash": "4a9e72d527e5b839a3cf4dbffe712c3b0bf9aecbc5b822857a191790a6c9f931",
+      "message_hash": "4a9e72d527e5b839a3cf4dbffe712c3b0bf9aecbc5b822857a191790a6c9f931",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":3,\"primary_trait\":\"game\",\"proportions\":{\"game\":\"100.0000000000\",\"story\":\"0.0000000000\",\"structured\":\"0.0000000000\",\"visual\":\"0.0000000000\"},\"raw_points\":{\"game\":30,\"story\":0,\"structured\":0,\"visual\":0},\"secondary_trait\":null,\"student_id\":\"fx-single-game\",\"total_points\":30},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "single_trait_structured",
+      "status": "ok",
+      "result_hash": "44825d6e9d2d78fc22c43ccbbf4cf549e21b05328aec948597fe6b75bd63cf60",
+      "message_hash": "44825d6e9d2d78fc22c43ccbbf4cf549e21b05328aec948597fe6b75bd63cf60",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":3,\"primary_trait\":\"structured\",\"proportions\":{\"game\":\"0.0000000000\",\"story\":\"0.0000000000\",\"structured\":\"100.0000000000\",\"visual\":\"0.0000000000\"},\"raw_points\":{\"game\":0,\"story\":0,\"structured\":30,\"visual\":0},\"secondary_trait\":null,\"student_id\":\"fx-single-structured\",\"total_points\":30},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "single_trait_story",
+      "status": "ok",
+      "result_hash": "32a79ec50a9d3c4adcf2ddc62f47a99e207a1d982b9d5f45de6d752eeed43f56",
+      "message_hash": "32a79ec50a9d3c4adcf2ddc62f47a99e207a1d982b9d5f45de6d752eeed43f56",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":3,\"primary_trait\":\"story\",\"proportions\":{\"game\":\"0.0000000000\",\"story\":\"100.0000000000\",\"structured\":\"0.0000000000\",\"visual\":\"0.0000000000\"},\"raw_points\":{\"game\":0,\"story\":30,\"structured\":0,\"visual\":0},\"secondary_trait\":null,\"student_id\":\"fx-single-story\",\"total_points\":30},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "four_way_exact_tie_across_items",
+      "status": "ok",
+      "result_hash": "878b7a60d477a4f093f4667eac9de883c4007b24ed95ad0d56056d1f45b00308",
+      "message_hash": "878b7a60d477a4f093f4667eac9de883c4007b24ed95ad0d56056d1f45b00308",
+      "canonical": "{\"profile\":{\"is_balanced\":true,\"items_answered\":4,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"25.0000000000\",\"story\":\"25.0000000000\",\"structured\":\"25.0000000000\",\"visual\":\"25.0000000000\"},\"raw_points\":{\"game\":10,\"story\":10,\"structured\":10,\"visual\":10},\"secondary_trait\":null,\"student_id\":\"fx-tie4-across\",\"total_points\":40},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "four_way_exact_tie_within_items",
+      "status": "ok",
+      "result_hash": "34703425f8ad71db3f150a56b8c6e8f402a298fe18be97feda8843c03b4207b6",
+      "message_hash": "34703425f8ad71db3f150a56b8c6e8f402a298fe18be97feda8843c03b4207b6",
+      "canonical": "{\"profile\":{\"is_balanced\":true,\"items_answered\":2,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"25.0000000000\",\"story\":\"25.0000000000\",\"structured\":\"25.0000000000\",\"visual\":\"25.0000000000\"},\"raw_points\":{\"game\":5,\"story\":5,\"structured\":5,\"visual\":5},\"secondary_trait\":null,\"student_id\":\"fx-tie4-within\",\"total_points\":20},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "two_way_tie_visual_game",
+      "status": "ok",
+      "result_hash": "c4baebd577a39c9891e05f66ff31fac4cef56cbc2c596a31f00bab67ace23c53",
+      "message_hash": "c4baebd577a39c9891e05f66ff31fac4cef56cbc2c596a31f00bab67ace23c53",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":3,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"37.5000000000\",\"story\":\"0.0000000000\",\"structured\":\"25.0000000000\",\"visual\":\"37.5000000000\"},\"raw_points\":{\"game\":15,\"story\":0,\"structured\":10,\"visual\":15},\"secondary_trait\":\"game\",\"student_id\":\"fx-tie2-vg\",\"total_points\":40},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "two_way_tie_structured_story",
+      "status": "ok",
+      "result_hash": "8ccb8e8c34f8510caf9d1071bfa43bfe31bb9aa3ae777c527ac62ef3e1f3fb3e",
+      "message_hash": "8ccb8e8c34f8510caf9d1071bfa43bfe31bb9aa3ae777c527ac62ef3e1f3fb3e",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":3,\"primary_trait\":\"structured\",\"proportions\":{\"game\":\"0.0000000000\",\"story\":\"37.5000000000\",\"structured\":\"37.5000000000\",\"visual\":\"25.0000000000\"},\"raw_points\":{\"game\":0,\"story\":15,\"structured\":15,\"visual\":10},\"secondary_trait\":\"story\",\"student_id\":\"fx-tie2-ss\",\"total_points\":40},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "three_way_tie",
+      "status": "ok",
+      "result_hash": "59d917a94b396088155981b4d89f56adfb07eec49cb84fa0596f6acc3548e14a",
+      "message_hash": "59d917a94b396088155981b4d89f56adfb07eec49cb84fa0596f6acc3548e14a",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":3,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"33.3333333333\",\"story\":\"0.0000000000\",\"structured\":\"33.3333333333\",\"visual\":\"33.3333333333\"},\"raw_points\":{\"game\":10,\"story\":0,\"structured\":10,\"visual\":10},\"secondary_trait\":\"game\",\"student_id\":\"fx-tie3\",\"total_points\":30},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "near_balanced_under_threshold",
+      "status": "ok",
+      "result_hash": "44374dc659f126371739ad501aa168e2cf7a9e425678422933ac52a540720724",
+      "message_hash": "44374dc659f126371739ad501aa168e2cf7a9e425678422933ac52a540720724",
+      "canonical": "{\"profile\":{\"is_balanced\":true,\"items_answered\":4,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"25.0000000000\",\"story\":\"22.5000000000\",\"structured\":\"25.0000000000\",\"visual\":\"27.5000000000\"},\"raw_points\":{\"game\":10,\"story\":9,\"structured\":10,\"visual\":11},\"secondary_trait\":null,\"student_id\":\"fx-near-balanced\",\"total_points\":40},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "boundary_balanced_spread_exactly_12",
+      "status": "ok",
+      "result_hash": "c9efcca8f035ba948ab23a137a021c1fb60423519a95c55613ba9e99b947704d",
+      "message_hash": "c9efcca8f035ba948ab23a137a021c1fb60423519a95c55613ba9e99b947704d",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":10,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"24.0000000000\",\"story\":\"21.0000000000\",\"structured\":\"22.0000000000\",\"visual\":\"33.0000000000\"},\"raw_points\":{\"game\":24,\"story\":21,\"structured\":22,\"visual\":33},\"secondary_trait\":\"game\",\"student_id\":\"fx-boundary-spread\",\"total_points\":100},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "boundary_secondary_gap_exactly_15",
+      "status": "ok",
+      "result_hash": "72ef7340918633135e30e5b6c21f58daaf5f5f961792ce46dea06587dcd7327d",
+      "message_hash": "72ef7340918633135e30e5b6c21f58daaf5f5f961792ce46dea06587dcd7327d",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":10,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"25.0000000000\",\"story\":\"15.0000000000\",\"structured\":\"20.0000000000\",\"visual\":\"40.0000000000\"},\"raw_points\":{\"game\":25,\"story\":15,\"structured\":20,\"visual\":40},\"secondary_trait\":\"game\",\"student_id\":\"fx-boundary-gap\",\"total_points\":100},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "min_length_single_item",
+      "status": "ok",
+      "result_hash": "feae4d09d452c41b75b01dc2ed3992afc8a3a6c593376a18ad4b74da4c03cd0e",
+      "message_hash": "feae4d09d452c41b75b01dc2ed3992afc8a3a6c593376a18ad4b74da4c03cd0e",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":1,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"30.0000000000\",\"story\":\"10.0000000000\",\"structured\":\"20.0000000000\",\"visual\":\"40.0000000000\"},\"raw_points\":{\"game\":3,\"story\":1,\"structured\":2,\"visual\":4},\"secondary_trait\":\"game\",\"student_id\":\"fx-min-len\",\"total_points\":10},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "max_length_ten_items",
+      "status": "ok",
+      "result_hash": "bcc2818ebcb7fdba39fee22815fbb3dafea6cd09196d8f5c0fc8209cd09931dc",
+      "message_hash": "bcc2818ebcb7fdba39fee22815fbb3dafea6cd09196d8f5c0fc8209cd09931dc",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":10,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"23.0000000000\",\"story\":\"11.0000000000\",\"structured\":\"17.0000000000\",\"visual\":\"49.0000000000\"},\"raw_points\":{\"game\":23,\"story\":11,\"structured\":17,\"visual\":49},\"secondary_trait\":null,\"student_id\":\"fx-max-len\",\"total_points\":100},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "max_length_with_budget_enforced",
+      "status": "ok",
+      "result_hash": "25882bfbbaae5c9fd05f40061ec80cca04c9c561919532eb446f652deabd2536",
+      "message_hash": "25882bfbbaae5c9fd05f40061ec80cca04c9c561919532eb446f652deabd2536",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":10,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"23.0000000000\",\"story\":\"11.0000000000\",\"structured\":\"17.0000000000\",\"visual\":\"49.0000000000\"},\"raw_points\":{\"game\":23,\"story\":11,\"structured\":17,\"visual\":49},\"secondary_trait\":null,\"student_id\":\"fx-max-budget\",\"total_points\":100},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "with_known_item_ids_all_present",
+      "status": "ok",
+      "result_hash": "c8ff14c6dada15d51e4a065fe841df69c421bd52ff6ea9b552a9ae2135d221ed",
+      "message_hash": "c8ff14c6dada15d51e4a065fe841df69c421bd52ff6ea9b552a9ae2135d221ed",
+      "canonical": "{\"profile\":{\"is_balanced\":false,\"items_answered\":3,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"20.0000000000\",\"story\":\"23.3333333333\",\"structured\":\"23.3333333333\",\"visual\":\"33.3333333333\"},\"raw_points\":{\"game\":6,\"story\":7,\"structured\":7,\"visual\":10},\"secondary_trait\":\"structured\",\"student_id\":\"fx-known-ok\",\"total_points\":30},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "custom_thresholds",
+      "status": "ok",
+      "result_hash": "7bf535603db22d253e29e62fdfb7447db74136319a396382f97b1c1c28e7a270",
+      "message_hash": "7bf535603db22d253e29e62fdfb7447db74136319a396382f97b1c1c28e7a270",
+      "canonical": "{\"profile\":{\"is_balanced\":true,\"items_answered\":2,\"primary_trait\":\"visual\",\"proportions\":{\"game\":\"30.0000000000\",\"story\":\"15.0000000000\",\"structured\":\"20.0000000000\",\"visual\":\"35.0000000000\"},\"raw_points\":{\"game\":6,\"story\":3,\"structured\":4,\"visual\":7},\"secondary_trait\":null,\"student_id\":\"fx-custom-thresh\",\"total_points\":20},\"status\":\"ok\"}"
+    },
+    {
+      "fixture": "err_empty_response_set",
+      "status": "raised",
+      "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+      "message_hash": "b54a6e3ba18baad35ad77da16cf028f3a51319a2352a41c10de5663f24b59f78",
+      "canonical": "{\"error_message\":\"no responses supplied for student 'fx-err-empty'\",\"error_type\":\"ValueError\",\"status\":\"raised\"}"
+    },
+    {
+      "fixture": "err_all_zero_allocations",
+      "status": "raised",
+      "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+      "message_hash": "c73757f79656273bec85e646d761f1bb54bb414f06401b65c2097c4c9f77c7d0",
+      "canonical": "{\"error_message\":\"student 'fx-err-zero' allocated 0 points across all responses\",\"error_type\":\"ValueError\",\"status\":\"raised\"}"
+    },
+    {
+      "fixture": "err_duplicate_item",
+      "status": "raised",
+      "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+      "message_hash": "5b582dc4db37ae6ff64542644b58927e09b63a64f12ced140b65f5ec79d33c6a",
+      "canonical": "{\"error_message\":\"student 'fx-err-dup' has more than one response for item(s) ['dup-01']\",\"error_type\":\"ValueError\",\"status\":\"raised\"}"
+    },
+    {
+      "fixture": "err_unknown_item",
+      "status": "raised",
+      "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+      "message_hash": "39f4b210cb9b6217addac9b4e66f887da1eb274298a8ede7b8c6018f074a46ae",
+      "canonical": "{\"error_message\":\"student 'fx-err-unknown' has responses for item(s) not in the approved assessment: ['uk-99']\",\"error_type\":\"ValueError\",\"status\":\"raised\"}"
+    },
+    {
+      "fixture": "err_budget_mismatch",
+      "status": "raised",
+      "result_hash": "b9aa3bae48afde4fe530e5fc912bac259bbb1dd44dc8fa0915e766054cd55b71",
+      "message_hash": "ad785d76bf0a0a04b8da2b28165f17ef71b30c0cced97ae6399135214a0133a9",
+      "canonical": "{\"error_message\":\"item 'bm-01' for student 'fx-err-budget' allocates 9 points, expected 10\",\"error_type\":\"ValueError\",\"status\":\"raised\"}"
+    },
+    {
+      "fixture": "err_missing_trait_key",
+      "status": "raised",
+      "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+      "message_hash": "49437cc742f88e40601461d84611619c681d374ecaeea60df4fb5b0c5693fe85",
+      "canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations\\n  Value error, expected an allocation for every trait {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>, <Trait.STRUCTURED: 'structured'>}, got {<Trait.GAME: 'game'>, <Trait.STORY: 'story'>, <Trait.VISUAL: 'visual'>} [type=value_error, input_value={'visual': 5, 'game': 3, 'story': 2}, input_type=dict]\\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}"
+    },
+    {
+      "fixture": "err_negative_allocation",
+      "status": "raised",
+      "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+      "message_hash": "f9ae8c77b7bcfe930348ba5f2a3fd040e4307f197e9d0977c90c652f81874944",
+      "canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations\\n  Value error, point allocations must be non-negative, got negative for [<Trait.VISUAL: 'visual'>] [type=value_error, input_value={'visual': -1, 'game': 5,...uctured': 3, 'story': 3}, input_type=dict]\\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}"
+    },
+    {
+      "fixture": "err_unknown_trait_key",
+      "status": "raised",
+      "result_hash": "6942efd1dd7b540331dc6c70b47b2ac5a0ed9105922ca3dc83a33c053b232312",
+      "message_hash": "8f6acb6006e43ad0f4c805a43fa492cb835ad96a5b6caea6112634933ebbc923",
+      "canonical": "{\"error_message\":\"1 validation error for ItemResponse\\nallocations.kinetic.[key]\\n  Input should be 'visual', 'game', 'structured' or 'story' [type=enum, input_value='kinetic', input_type=str]\\n    For further information visit https://errors.pydantic.dev/2.13/v/enum\",\"error_type\":\"ValidationError\",\"status\":\"raised\"}"
+    }
+  ]
+}

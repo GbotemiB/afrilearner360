@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P4-shapes-and-patterns-01",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In class, pupils look at a wall decorated with Imigongo designs and notice repeating triangles and spirals. They want to learn more about how these patterns are made.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "They could draw their own Imigongo‑style patterns using black, white, and red colors on paper."
+        },
+        {
+          "trait": "game",
+          "text": "They could play Igisoro and watch how the seeds form lines and circles as they move around the board."
+        },
+        {
+          "trait": "structured",
+          "text": "They could follow the step‑by‑step process used to make an Agaseke basket, starting with preparing sisal fibers, dyeing them, then weaving the base, sides, and rim in order."
+        },
+        {
+          "trait": "story",
+          "text": "They could listen to an Imigani folktale about a clever rabbit who uses repeating patterns of stones to outwit a hyena."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Agaseke",
+        "Igisoro",
+        "Imigani"
+      ],
+      "reviewer_notes": "All options are grounded in the knowledge base; the game option uses Igisoro’s inherent seed‑movement pattern."
+    },
+    {
+      "id": "rwanda-P4-shapes-and-patterns-02",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During a math lesson on patterns, the teacher shows a photo of a traditional Rwandan pottery piece with symmetric beadwork designs.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "They could trace the beadwork pattern onto grid paper and color it using bright colors like those seen in Rwandan beadwork."
+        },
+        {
+          "trait": "game",
+          "text": "They could play Gusimbuka Urukiramende and notice how the bar gets higher each round, forming a simple increasing pattern."
+        },
+        {
+          "trait": "structured",
+          "text": "They could follow the numbered steps to create a simple geometric pattern using stick‑and‑stone arrangements, similar to how Igisoro seeds are counted before each move."
+        },
+        {
+          "trait": "story",
+          "text": "They could hear an Ibisakuzo riddle that describes a shape that grows each time you go around it, like a spiral in Imigongo art."
+        }
+      ],
+      "cultural_anchors_used": [
+        "beadwork",
+        "Gusimbuka Urukiramende",
+        "Igisoro",
+        "Ibisakuzo"
+      ],
+      "reviewer_notes": "All options reference only the supplied cultural knowledge; the game option uses the built‑in progression of the high‑jump bar."
+    },
+    {
+      "id": "rwanda-P4-shapes-and-patterns-03",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Pupils are asked to decorate their notebook covers with patterns inspired by local crafts.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "They could copy the spiral motifs from Agaseke baskets onto their covers using black, brown, and white pencils."
+        },
+        {
+          "trait": "game",
+          "text": "They could play Guhana Ubute and track the sequence of who holds the token each round to see a pattern of turns."
+        },
+        {
+          "trait": "structured",
+          "text": "They could follow the Umuganda work‑day routine: first gather materials, then clean the surface, then apply the pattern in a set order, and finally review the result together."
+        },
+        {
+          "trait": "story",
+          "text": "They could listen to an Imigani tale about a warrior whose shield was covered in repeating triangles that gave him strength in battle."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke",
+        "Guhana Ubute",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "All options draw directly from the knowledge base; the game option uses the inherent turn‑passing sequence of Guhana Ubute."
+    }
+  ]
+}

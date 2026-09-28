@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P5-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In the morning, students see dew on the grass and wonder where the water goes when the sun rises.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at a diagram of the water cycle drawn in Imigongo style, with the sun, a lake, and clouds."
+        },
+        {
+          "trait": "game",
+          "text": "Play a version of Igisoro where moving the seeds shows water moving through evaporation, condensation, precipitation, and collection."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow these steps: put water in a dish, place it in the sun, watch it disappear, and note what you see each hour."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani folktale about a clever rabbit who teaches the sun how to lift water into the sky."
+        }
+      ],
+      "cultural_anchors_used": ["Imigongo", "Igisoro", "Imigani"],
+      "reviewer_notes": "no concerns"
+    },
+    {
+      "id": "rwanda-P5-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "After a rainstorm, students see puddles in the schoolyard and wonder where the water goes after the rain stops.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Examine Agaseke baskets woven with spiral patterns that show water droplets traveling from the ground to the sky."
+        },
+        {
+          "trait": "game",
+          "text": "Play Gusimbuka Urukiramende (high jump); each successful jump stands for a stage of the water cycle: evaporation rises, condensation forms a cloud, precipitation falls."
+        },
+        {
+          "trait": "structured",
+          "text": "Use an Umuganda‑style routine: first sweep the puddle, then measure any water left, then wait and observe, then record the results in a chart."
+        },
+        {
+          "trait": "story",
+          "text": "Hear an Ibisakuzo riddle that describes a water drop’s journey from the lake to the clouds and back to the earth."
+        }
+      ],
+      "cultural_anchors_used": ["Agaseke", "Gusimbuka Urukiramende", "Umuganda", "Ibisakuzo"],
+      "reviewer_notes": "no concerns"
+    },
+    {
+      "id": "rwanda-P5-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Students notice that the river near their village is lower in the dry season and wonder where the water went.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Create a beadwork bracelet using bright symmetric patterns: blue for lake, white for vapor, gray for cloud, and silver for rain."
+        },
+        {
+          "trait": "game",
+          "text": "Play Guhana Ubute (tag); when you are 'it' you are a water droplet moving from one stage to the next each time you tag someone."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps of making a wire toy car: gather materials (water source), assemble the frame (evaporation), test the wheels (condensation), then race it (precipitation)."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a proverb (Imigani Migufi) that says ‘Water that rises will return,’ and explains how the water cycle works."
+        }
+      ],
+      "cultural_anchors_used": ["beadwork", "Guhana Ubute", "wire toy cars", "Imigani Migufi"],
+      "reviewer_notes": "no concerns"
+    }
+  ]
+}

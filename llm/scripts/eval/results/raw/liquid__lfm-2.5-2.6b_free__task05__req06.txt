@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P3-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Your friend saw dark clouds in the sky and wanted to know why it rains. She asked her grandma about the water cycle.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "A colorful diagram showing how water evaporates, forms clouds, and falls as rain"
+        },
+        {
+          "trait": "game",
+          "text": "Playing Igisoro, a traditional Rwandan board game where players count seeds and move them between pits, similar to how water moves through the cycle"
+        },
+        {
+          "trait": "structured",
+          "text": "Helping during Umuganda to clean and protect the village water source"
+        },
+        {
+          "trait": "story",
+          "text": "Listening to an Imigoni (folktale) about a clever frog who discovers how rain comes from the sky"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigoni",
+        "Igisoro",
+        "Umuganda"
+      ],
+      "reviewer_notes": "Verify that Igisoro is correctly described as a 32-pit wooden board game with seeds/stones. Ensure Umuganda is referenced accurately as a monthly community work day."
+    },
+    {
+      "id": "rwanda-P3-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During the rainy season, your class went on a nature walk and noticed puddles appearing after heavy rain. You want to learn how the water cycle works.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Looking at photos of a river changing shape after rain"
+        },
+        {
+          "trait": "game",
+          "text": "Competing in a team game inspired by Guhana Ubute (tag) to simulate water droplets falling"
+        },
+        {
+          "trait": "structured",
+          "text": "Following step-by-step instructions for a simple science experiment about evaporation"
+        },
+        {
+          "trait": "story",
+          "text": "Hearing a proverb about how the sun gives water its power to fall as rain"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Guhana Ubute",
+        "proverbs",
+        "Umuganda"
+      ],
+      "reviewer_notes": "Ensure Guhana Ubute is correctly identified as a tag/chase game with passing tokens. Confirm the proverb reference aligns with the Imigani/Migufi category."
+    },
+    {
+      "id": "rwanda-P3-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "You are helping your family prepare for the next rainy season. What would you like to do?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Seeing a painting of Imigongo art with spirals representing water flowing"
+        },
+        {
+          "trait": "game",
+          "text": "Trying the high-jump game Gusimbuka Urukiramende to celebrate the cycle of renewal"
+        },
+        {
+          "trait": "structured",
+          "text": "Organizing a small group project about water conservation during Umuganda"
+        },
+        {
+          "trait": "story",
+          "text": "Learning a new Imigoni (folktale) about a monkey who travels through the sky to bring rain"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Gusimbuka Urukiramende",
+        "Umuganda",
+        "Imigoni"
+      ],
+      "reviewer_notes": "Ensure Gusimbuka Urukiramende is correctly identified as a high jump game over a rising crossbar. Verify Imigongo art description matches the KB (cow dung, wood panels, geometric patterns)."
+    }
+  ]
+}

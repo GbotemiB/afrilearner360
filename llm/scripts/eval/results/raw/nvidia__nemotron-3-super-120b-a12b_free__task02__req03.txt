@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P2-fractions-01",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In class, the teacher shows a small pile of seeds that are used in the Igisoro game and asks how to share them fairly among friends.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at the spirals and triangles in an Imigongo artwork and point out which part shows one half or one quarter of the design."
+        },
+        {
+          "trait": "game",
+          "text": "Play a round of Igisoro, count the seeds in each pit, and see how many seeds each player gets when they are split equally."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps of Umuganda: first count the total seeds, then divide them into two equal groups, then check that each group has the same number."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani folktale where two animal friends share a basket of seeds and learn how to make fair shares."
+        }
+      ],
+      "cultural_anchors_used": ["Igisoro", "Imigongo", "Umuganda", "Imigani"],
+      "reviewer_notes": "Confirm that seeds are used in Igisoro as described."
+    },
+    {
+      "id": "rwanda-P2-fractions-02",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "The teacher shows a picture of an Agaseke peace basket and asks how to split the basket's pattern into equal parts.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Trace the geometric spirals on the Agaseke basket and color one half red and the other half white to see fractions."
+        },
+        {
+          "trait": "game",
+          "text": "Play Guhana Ubute, passing a token, and count how many passes each player makes; then see what fraction of the total passes each player had."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps of Umuganda: first count the total number of spiral patterns on the basket, then divide them into two equal groups, then check that each group has the same number."
+        },
+        {
+          "trait": "story",
+          "text": "Hear an Imigani story about a weaver who divides her Agaseke basket into parts to give to friends, learning about halves and quarters."
+        }
+      ],
+      "cultural_anchors_used": ["Agaseke", "Guhana Ubute", "Umuganda", "Imigani"],
+      "reviewer_notes": "Verify that Agaseke baskets have geometric/spiral patterns and that Guhana Ubute involves passing a token."
+    },
+    {
+      "id": "rwanda-P2-fractions-03",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "The teacher draws a simple shape on the board and asks how to color part of it to show a fraction.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at the black, white, and terracotta-red colors in an Imigongo painting and pick one color to show one third of the whole picture."
+        },
+        {
+          "trait": "game",
+          "text": "Play Sebutimbiri, jumping over low bars, and count how many jumps you make in each try; then see what fraction of the total jumps each try represents."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the rule sequence of Igisoro: count the seeds before playing, take turns in order, and after each turn note what fraction of the seeds remain."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani tale where a clever hare shares a fruit with friends, learning how to split it into equal parts."
+        }
+      ],
+      "cultural_anchors_used": ["Imigongo", "Sebutimbiri", "Igisoro", "Imigani"],
+      "reviewer_notes": "Check that Imigongo uses black/white/terracotta-red, Sebutimbiri is jumping over low bars, and Igisoro has a rule sequence."
+    }
+  ]
+}
