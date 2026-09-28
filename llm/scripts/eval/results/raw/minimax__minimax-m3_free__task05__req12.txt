@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P3-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your class is starting a new topic about the water cycle — how rain falls, water flows into rivers, the sun heats it up, and clouds form again. There are four ways you can learn about it. Which way would you most enjoy?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "You could look at a big colorful poster showing the water cycle. It would have bright pictures of clouds, rain, a river in Rwanda, and the sun, all with arrows showing how water moves from one step to the next."
+        },
+        {
+          "trait": "game",
+          "text": "You could play a team game where your group pretends to be water drops. You move around the room like falling rain, running downhill like a river, rising up like vapor, and forming a cloud — the first team to finish the cycle wins."
+        },
+        {
+          "trait": "structured",
+          "text": "You could follow a clear step-by-step list, like a recipe. Step 1: water heats in the sun. Step 2: it rises as vapor. Step 3: clouds form. Step 4: rain falls. You tick each step as you learn it."
+        },
+        {
+          "trait": "story",
+          "text": "You could listen to a short story about a little water drop called Tomi. Tomi begins in a lake, gets warmed by the sun, floats up into a cloud, then falls as rain onto a hill in Rwanda and flows back to the lake — ready to begin again."
+        }
+      ],
+      "cultural_anchors_used": [
+        "reference to a river in Rwanda (general Rwandan landscape, no specific cultural detail invented)",
+        "Imigani-style storytelling framing with a named character carrying a simple journey narrative (kept light, not a full folktale)"
+      ],
+      "reviewer_notes": "The river reference is generic Rwanda landscape rather than a named feature like Nyabarongo — safe for P3 reading level. The story option uses a simple named character in the style of Imigani animal stories but does not invent a specific folktale. No concerns."
+    },
+    {
+      "id": "rwanda-P3-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher asks the class to explore how a puddle disappears on a sunny day and comes back as rain. There are four ways to explore this. Which way sounds best to you?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "You could draw and color your own water cycle picture on a sheet of paper, using blue for water, white for clouds, yellow for the sun, and arrows to show where the puddle's water goes."
+        },
+        {
+          "trait": "game",
+          "text": "You could play a board game like Igisoro, but with a water theme: when your seed lands on a 'cloud' square, you collect rain drops, and when it lands on 'sun' you give some back — the player with the most drops at the end wins."
+        },
+        {
+          "trait": "structured",
+          "text": "You could work through a short checklist in order: (1) watch the puddle, (2) feel the sun, (3) cover one puddle with a clear lid and one without, (4) check which puddle gets smaller, (5) record what you saw."
+        },
+        {
+          "trait": "story",
+          "text": "You could hear a folktale-style story about a thirsty village. A wise elder explains that the puddle by the gate will rise again as rain, because water travels in a great circle from earth to sky and back."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro (board game mechanic adapted with a water theme, per knowledge base)",
+        "Imigani-style moral folktale framing with a wise elder figure (general reference, not a specific named tale)"
+      ],
+      "reviewer_notes": "Igisoro is used only as a familiar board-game mechanic from the knowledge base — no invented cultural details added. The 'wise elder' is a generic folktale figure consistent with the Imigani tradition described. No concerns."
+    },
+    {
+      "id": "rwanda-P3-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "It is Umuganda day at school. Your teacher wants you to learn the water cycle while also thinking about clean water in your community. There are four ways to do this. Which would you choose?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "You could look at a big wall chart of the water cycle with strong colors and clear shapes, similar to the bold geometric Imigongo patterns — spirals for swirling water, triangles for falling rain, and curves for flowing rivers."
+        },
+        {
+          "trait": "game",
+          "text": "You could play a group challenge like Guhana Ubute: when the teacher calls out a stage of the water cycle (evaporation, condensation, precipitation), you must run to the matching picture on the wall before the token reaches you."
+        },
+        {
+          "trait": "structured",
+          "text": "You could follow the same clear Umuganda steps your school already uses: first gather as a class, then do the activity in order, then meet at the end to share what everyone learned about water."
+        },
+        {
+          "trait": "story",
+          "text": "You could listen to a story called an Imigani about a clever tortoise who follows a single raindrop from a cloud all the way down a mountain stream and back up again, learning the journey of water."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda (monthly community work structure used as the framing for the scenario)",
+        "Imigongo (geometric art referenced for visual-pattern flavor only)",
+        "Guhana Ubute (tag/passing game used for the game option)",
+        "Imigani (folktale tradition with an animal character)"
+      ],
+      "reviewer_notes": "Umuganda is used as a real, well-documented community practice — the structured option mirrors its real sequence (gather, do work, share). Imigongo is referenced only for shape vocabulary, not as a process the child performs. Guhana Ubute is adapted into a classroom-running activity; the token mechanic is from the knowledge base. The Imigani option uses a generic clever tortoise in the folktale-animal tradition described in the knowledge base — no specific existing tale is reproduced. Reviewer should confirm Umuganda framing is appropriate as a P3 learning scaffold."
+    }
+  ]
+}

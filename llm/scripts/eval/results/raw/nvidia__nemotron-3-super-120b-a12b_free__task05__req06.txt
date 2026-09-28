@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P3-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During Umuganda, pupils notice water dripping from leaves after rain and wonder where it goes.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "They draw Imigongo-style spirals to show water moving from ground to clouds to rain."
+        },
+        {
+          "trait": "game",
+          "text": "They play a quick round of Igisoro, using seeds to represent water droplets moving through stages."
+        },
+        {
+          "trait": "structured",
+          "text": "They follow Umuganda steps: first observe, then record, then discuss what happens to water."
+        },
+        {
+          "trait": "story",
+          "text": "They listen to an Imigani folktale about a little river that travels to the sky and returns as rain."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda",
+        "Imigongo",
+        "Igisoro",
+        "Imigani"
+      ],
+      "reviewer_notes": "All options use only cultural elements from the knowledge base; no gender restriction or extra detail added."
+    },
+    {
+      "id": "rwanda-P3-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Children see a puddle forming on the playground after a storm and talk about evaporation.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "They create Agaseke basket patterns with blue and white to mimic water droplets rising."
+        },
+        {
+          "trait": "game",
+          "text": "They play Gusimbuka umugozi (rope jumping) while chanting the water cycle steps."
+        },
+        {
+          "trait": "structured",
+          "text": "They follow Igisoro's rule sequence: count seeds before playing, keep turn order, then share observations."
+        },
+        {
+          "trait": "story",
+          "text": "They hear an Ibisakuzo riddle about water that disappears and returns."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke",
+        "Gusimbuka umugozi",
+        "Igisoro",
+        "Ibisakuzo"
+      ],
+      "reviewer_notes": "Each option draws from a distinct cultural reference; language kept simple for P3 readers."
+    },
+    {
+      "id": "rwanda-P3-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "After a lesson, pupils talk about how water from Lake Kivu goes into clouds and falls as rain elsewhere.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "They paint using natural pigments like in Imigongo to show clouds and lake."
+        },
+        {
+          "trait": "game",
+          "text": "They play Intembe (archery through a moving banana-trunk-ring target) aiming at pictures of water cycle stages."
+        },
+        {
+          "trait": "structured",
+          "text": "They follow the steps of Umuganda: gather, observe lake, record, then discuss."
+        },
+        {
+          "trait": "story",
+          "text": "They share an Imigani story about a brave fish that jumps to become rain."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Intembe",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "All cultural details are present in the supplied knowledge base; options are balanced in appeal."
+    }
+  ]
+}

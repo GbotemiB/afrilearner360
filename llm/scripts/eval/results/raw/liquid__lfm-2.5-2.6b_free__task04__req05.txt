@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P5-counting-and-numbers-01",
+      "topic": "counting and numbers",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "You are learning to play Igisoro, a traditional Rwandan board game. In this game, players move seeds between pits and must count the seeds in each pit to determine who wins.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Seeing the Igisoro board with seeds arranged in 32 pits and counting how many seeds are in each pit"
+        },
+        {
+          "trait": "game",
+          "text": "Playing the Igisoro game with friends and enjoying the counting challenge"
+        },
+        {
+          "trait": "structured",
+          "text": "Following the step-by-step rules of Igisoro to organize and count seeds correctly"
+        },
+        {
+          "trait": "story",
+          "text": "Listening to a story about a young girl who learns to count seeds while playing Igisoro"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro",
+        "seeds",
+        "pits",
+        "counting"
+      ],
+      "reviewer_notes": "Verify that the description of Igisoro matches the cultural knowledge base: 32-pit wooden board with 64 seeds, counting mechanism required for gameplay."
+    },
+    {
+      "id": "rwanda-P5-counting-and-numbers-02",
+      "topic": "counting and numbers",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During Umuganda, your class is part of the community work day. Everyone has a specific task to complete in order, and then there is a meeting to share what was done.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "A picture of children working together during Umuganda, cleaning streets and buildings"
+        },
+        {
+          "trait": "game",
+          "text": "Competing with classmates in a teamwork challenge inspired by Umuganda"
+        },
+        {
+          "trait": "structured",
+          "text": "Understanding the sequence of tasks in Umuganda and completing them one after another"
+        },
+        {
+          "trait": "story",
+          "text": "Hearing a story about how the whole village works together during Umuganda"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda",
+        "community work",
+        "tasks",
+        "meeting"
+      ],
+      "reviewer_notes": "Confirm that Umuganda is described accurately according to the cultural knowledge base: monthly community work day (last Saturday of the month), assigned tasks followed by a community meeting."
+    },
+    {
+      "id": "rwanda-P5-counting-and-numbers-03",
+      "topic": "counting and numbers",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In an Imigoni (Rwandan folktale), a clever rabbit counts all the vegetables in the market to decide which ones to take home. How does he show his counting skills?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "A picture of the Imigoni story with colorful vegetables being counted"
+        },
+        {
+          "trait": "game",
+          "text": "Playing a counting game inspired by the rabbit's method of counting"
+        },
+        {
+          "trait": "structured",
+          "text": "Learning the proper way to count groups and combine them, like the rabbit did"
+        },
+        {
+          "trait": "story",
+          "text": "Reading the Imigani tale about the rabbit who learned to count numbers"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigoni",
+        "folktale",
+        "rabbit",
+        "vegetables",
+        "market"
+      ],
+      "reviewer_notes": "Verify that Imigoni refers to Rwandan folktales with animal characters as described in the cultural knowledge base. Ensure no gender assumptions are made about the rabbit character."
+    }
+  ]
+}

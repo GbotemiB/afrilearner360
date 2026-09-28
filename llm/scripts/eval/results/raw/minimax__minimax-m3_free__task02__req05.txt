@@ -1,0 +1,97 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P2-fractions-01",
+      "language": "english",
+      "point_budget": 10,
+      "curriculum_topic": "fractions",
+      "scenario": "Your teacher asks the class to show what a half and a quarter look like. There are four ways you could try it.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw colorful pictures that show a shape split in half and another split into four parts, using red and blue to show the pieces clearly."
+        },
+        {
+          "trait": "game",
+          "text": "Play a quick class game with your friends where you take turns cutting paper shapes into pieces and racing to name each piece as a half or a quarter."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow your teacher's step-by-step list on the board: first fold the paper in half, then fold it again, then count the equal parts, then write the fraction."
+        },
+        {
+          "trait": "story",
+          "text": "Pretend you are sharing a big round loaf with four of your family members. Tell the story of how you cut it fairly so each person gets the same amount."
+        }
+      ],
+      "cultural_anchors_used": [
+        "family gathering context (oral storytelling framing)",
+        "paper/craft-based visual activity (consistent with classroom resources)"
+      ],
+      "reviewer_notes": "no concerns"
+    },
+    {
+      "id": "rwanda-P2-fractions-02",
+      "language": "english",
+      "point_budget": 10,
+      "curriculum_topic": "fractions",
+      "scenario": "Your class is learning about fractions by sharing things into equal parts. Here are four fun ways to practice.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at a picture of an Agaseke basket with its spiral pattern and color in one half of the spiral, then color one quarter in a different color."
+        },
+        {
+          "trait": "game",
+          "text": "Play a round of Igisoro with a friend and use the seeds on the board to make equal piles, then count what fraction of the seeds each pile is."
+        },
+        {
+          "trait": "structured",
+          "text": "Work through the rules your teacher writes on the board, one step at a time: count all the seeds, share them into equal groups, then write the fraction for each group."
+        },
+        {
+          "trait": "story",
+          "text": "Imagine a small rabbit in an Imigani tale who finds a pile of food and must share it fairly between two friends, then between four friends. Tell what happens."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke basket with spiral pattern (visual arts)",
+        "Igisoro board game with seeds (games & play)",
+        "Imigani folktale with animal character (oral storytelling)"
+      ],
+      "reviewer_notes": "Reviewer should confirm that using Igisoro seeds as a counting/sharing prop is age-appropriate for P2 and that the Agaseke reference is recognizable to local students."
+    },
+    {
+      "id": "rwanda-P2-fractions-03",
+      "language": "english",
+      "point_budget": 10,
+      "curriculum_topic": "fractions",
+      "scenario": "On Umuganda day, your class is helping to sort beans into equal bags. The teacher asks you to show what one half of a bag looks like. Pick how you would like to do it.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw a picture of a bag of beans and shade one half of it, then draw another bag and shade one quarter, using different colors for each part."
+        },
+        {
+          "trait": "game",
+          "text": "Make it a game with your group: pass beans around a circle, split them into two equal piles, and the first team to call out the right fraction wins."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the Umuganda steps on the chart: first count all the beans, then divide them into equal groups, then write the fraction for one group on your paper."
+        },
+        {
+          "trait": "story",
+          "text": "Tell a short story about two children working together on Umuganda who must share beans fairly, and explain how they decided each child's share was one half."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda community work day with assigned tasks and ordered steps (community & structured activity)",
+        "beans as a common Rwandan household/shared food item (general everyday context, no specific cultural claim beyond common knowledge)"
+      ],
+      "reviewer_notes": "Reviewer should confirm the bean reference is neutral and appropriate; Umuganda framing relies on every-child-has-experience claim from the knowledge base."
+    }
+  ]
+}
+```

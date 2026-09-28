@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P3",
+      "id": "rwanda-P3-the-water-cycle-01",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Take part in an Imigongo painting activity.",
+          "trait": "visual"
+        },
+        {
+          "text": "Take part in an Igisoro board game.",
+          "trait": "game"
+        },
+        {
+          "text": "Take part in an Umuganda community day.",
+          "trait": "structured"
+        },
+        {
+          "text": "Take part in an Imigani storytelling session.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "Your class is learning about the water cycle.",
+      "topic": "the water cycle"
+    },
+    {
+      "cultural_anchors_used": [
+        "Agaseke",
+        "Guhana Ubute",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P3",
+      "id": "rwanda-P3-the-water-cycle-02",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Take part in an Agaseke basket weaving activity.",
+          "trait": "visual"
+        },
+        {
+          "text": "Take part in a Guhana Ubute tag game.",
+          "trait": "game"
+        },
+        {
+          "text": "Take part in an Umuganda community day.",
+          "trait": "structured"
+        },
+        {
+          "text": "Take part in an Imigani storytelling session.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "Your class is learning about the water cycle.",
+      "topic": "the water cycle"
+    },
+    {
+      "cultural_anchors_used": [
+        "beadwork",
+        "Gusimbuka umugozi",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P3",
+      "id": "rwanda-P3-the-water-cycle-03",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "Take part in a beadwork pattern making activity.",
+          "trait": "visual"
+        },
+        {
+          "text": "Take part in a Gusimbuka umugozi rope jumping game.",
+          "trait": "game"
+        },
+        {
+          "text": "Take part in an Umuganda community day.",
+          "trait": "structured"
+        },
+        {
+          "text": "Take part in an Imigani storytelling session.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "Your class is learning about the water cycle.",
+      "topic": "the water cycle"
+    }
+  ]
+}

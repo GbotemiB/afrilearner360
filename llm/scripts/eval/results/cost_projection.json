@@ -1,0 +1,22 @@
+{
+  "measured": {
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "items_per_call": 3,
+    "latency_p50_s": 40.705,
+    "latency_p95_s": 112.816,
+    "prompt_tokens": 2011.5,
+    "completion_tokens": 2888.9,
+    "schema_adherence_rate": 1.0
+  },
+  "projection": {
+    "grades": 5,
+    "topics_per_term": 10,
+    "representations": 4,
+    "calls": 200,
+    "wall_clock_hours": 2.26,
+    "days_at_free_tier_cap": 4.0,
+    "free_requests_per_day": 50,
+    "paid_cost_usd": 0.81,
+    "paid_cost_per_call_usd": 0.00407
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P4-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During a science lesson, the teacher talks about how water changes from liquid to vapor and back to rain.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at Imigongo art that uses spirals and lines to show the path of water from the lake to the sky and back to the ground."
+        },
+        {
+          "trait": "game",
+          "text": "Play a version of Igisoro where moving seeds stands for water droplets moving through evaporation, condensation, and precipitation."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the clear steps of Umuganda: first draw the sun, then draw clouds, then draw rain, then check that each step is in the right order."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani folktale about a chameleon who learns why the sky cries when it is hot."
+        }
+      ],
+      "cultural_anchors_used": ["Imigongo", "Igisoro", "Umuganda", "Imigani"],
+      "reviewer_notes": "no concerns"
+    },
+    {
+      "id": "rwanda-P4-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Students are learning how the sun heats water and makes it rise as vapor.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Examine Agaseke baskets and notice how the woven patterns can look like rising vapor lines."
+        },
+        {
+          "trait": "game",
+          "text": "Play Guhana Ubute, passing a token that represents a water droplet as it moves from the ground to the sky."
+        },
+        {
+          "trait": "structured",
+          "text": "Use the rule sequence of Igisoro: count the seeds, then take a turn, then capture, to follow the steps of the water cycle in order."
+        },
+        {
+          "trait": "story",
+          "text": "Hear an Ibisakuzo riddle that asks, 'What goes up without legs and comes down without wings?' and learn the answer is water vapor."
+        }
+      ],
+      "cultural_anchors_used": ["Agaseke", "Guhana Ubute", "Igisoro", "Ibisakuzo"],
+      "reviewer_notes": "no concerns"
+    },
+    {
+      "id": "rwanda-P4-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "The class discusses how water returns to Earth as rain and fills rivers and lakes.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Watch a woodcarving of a fish and see how the carved lines show rivers that collect rainwater."
+        },
+        {
+          "trait": "game",
+          "text": "Play Gusimbuka umugozi (rope jumping) and jump each time you hear a word for a stage of the water cycle."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps of Umuganda: first collect rainwater in a container, then pour it into a model lake, then measure the water level."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani story about a clever hare who finds a hidden spring after a long dry spell."
+        }
+      ],
+      "cultural_anchors_used": ["Woodcarving", "Gusimbuka umugozi", "Umuganda", "Imigani"],
+      "reviewer_notes": "no concerns"
+    }
+  ]
+}

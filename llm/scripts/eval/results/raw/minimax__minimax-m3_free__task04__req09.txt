@@ -1,0 +1,65 @@
+```json
+[
+  {
+    "id": "rwanda-P5-counting-and-numbers-01",
+    "topic": "counting and numbers",
+    "grade_band": "P5",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your class is learning how to count larger groups of objects quickly. The teacher asks everyone to choose how they would like to practice counting by 2s, 5s, and 10s this week. Pick the way you would most enjoy practicing.",
+    "options": {
+      "visual": "Look at the bold spiral and triangle patterns on a sample Imigongo panel. Count the rows of shapes by 2s and notice how the repeating pattern helps you keep track of each count.",
+      "game": "Play Igisoro with a partner and count the seeds in each pit before you make a move. Practice skip-counting by 5s as you decide which seeds to pick up.",
+      "structured": "Follow a step-by-step counting chart: first count a group of 10, then count by 10s, write each number in order in your notebook, and check your list at the end.",
+      "story": "Listen to a short Imigani folktale about a clever tortoise who counts stones to solve a problem. As the story goes on, you count along with the tortoise by 2s, 5s, and 10s."
+    },
+    "cultural_anchors_used": [
+      "Imigongo (bold geometric spirals/triangles in black/white/terracotta-red)",
+      "Igisoro (counting seeds in pits as part of gameplay)",
+      "Imigani (folktales with animal characters and moral themes)"
+    ],
+    "reviewer_notes": "Imigongo reference is described as a wall panel with spirals/triangles; the counting-rows framing is a small extension beyond the KB but stays within the visual-pattern flavor. Confirm with a local reviewer that P5 students in Rwanda typically know what Imigongo looks like from school lessons or family decoration."
+  },
+  {
+    "id": "rwanda-P5-counting-and-numbers-02",
+    "topic": "counting and numbers",
+    "grade_band": "P5",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your math group needs to practice counting and comparing numbers today. The teacher says each learner can pick how the group will work on it. Which way would you choose?",
+    "options": {
+      "visual": "Look closely at the woven spiral patterns on a picture of an Agaseke basket. Count the rings of weaving by 2s, and then compare two baskets to see which has more rings.",
+      "game": "Play Guhana Ubute with your classmates, counting out loud in Kinyarwanda or English as you pass the token. Keep track each round of how many times the token has moved.",
+      "structured": "Work through a clear list of counting tasks in order: first count a set of objects, then sort them into groups of 5, then write the total, then say which group has more.",
+      "story": "Hear a short story about children in a village who gather stones to trade for an Agaseke basket. Follow along and count how many stones each child collects as the story moves forward."
+    },
+    "cultural_anchors_used": [
+      "Agaseke (woven baskets with spiral/geometric patterns)",
+      "Guhana Ubute (tag/chase game with a passed token)",
+      "Kinyarwanda (acknowledged as a working language alongside English)"
+    ],
+    "reviewer_notes": "Counting rings on an Agaseke is an extension of the KB description ('intricate geometric/spiral patterns') and should be confirmed by a local reviewer for age-appropriateness. Guhana Ubute description stays within the KB (tag/chase with a passed token)."
+  },
+  {
+    "id": "rwanda-P5-counting-and-numbers-03",
+    "topic": "counting and numbers",
+    "grade_band": "P5",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your school is preparing for Umuganda, the monthly community work day. The teacher wants the class to practice counting by planning how many people and tools are needed for different jobs. How would you like to work on this?",
+    "options": {
+      "visual": "Look at a colorful chart showing rows of workers and tools in different colors. Count each row by 10s and use the colors to check your totals.",
+      "game": "Play a counting game with your group: each learner picks a tool to 'deliver' and you count how many tools reach the work site, competing to reach exactly 100 items first.",
+      "structured": "Follow the same order as a real Umuganda day: first list the tasks, then count how many people are needed for each task, then add the numbers together, then check that every task is covered.",
+      "story": "Listen to a story about a community that gets ready for Umuganda. As the story goes on, count the people, buckets, and tools that each family brings to help."
+    },
+    "cultural_anchors_used": [
+      "Umuganda (mandatory monthly community work day with assigned tasks and a structured sequence)"
+    ],
+    "reviewer_notes": "The structured option mirrors the KB description of Umuganda ('assigned tasks followed by a community meeting'); the visual and game options are neutral classroom framing. No concerns."
+  }
+]
+```

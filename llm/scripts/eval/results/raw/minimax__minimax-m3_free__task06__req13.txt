@@ -1,0 +1,67 @@
+```json
+[
+  {
+    "id": "rwanda-P4-shapes-and-patterns-01",
+    "topic": "shapes and patterns",
+    "grade_band": "P4",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your teacher asks the class to notice shapes and patterns around them. There are four ways you could explore this. Which sounds most interesting to you?",
+    "options": {
+      "visual": "Look closely at the bold spiral and triangle patterns on an Imigongo wall panel. Try drawing the spirals and curves you see with black, white, and terracotta-red colors.",
+      "game": "Play a shape-finding game with a partner. Take turns spotting circles, triangles, and squares hidden in the classroom. The first to spot five triangles wins!",
+      "structured": "Follow a step-by-step list to sort shapes into groups. First, find all the circles. Second, find all the triangles. Third, count how many of each shape you collected.",
+      "story": "Imagine a little girl in a village who weaves a basket called an Agaseke. As she weaves, she notices the spiral pattern repeats over and over. Can you describe what her basket looks like?"
+    },
+    "cultural_anchors_used": [
+      "Imigongo art (bold spirals, triangles, curves; black/white/terracotta-red palette)",
+      "Agaseke baskets (spiral patterns; sisal weaving)"
+    ],
+    "reviewer_notes": "Imigongo color palette and motifs are directly from the knowledge base. Agaseke spiral pattern reference is accurate. No gender restriction used. Reading level fits P4."
+  },
+  {
+    "id": "rwanda-P4-shapes-and-patterns-02",
+    "topic": "shapes and patterns",
+    "grade_band": "P4",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Your class is learning about patterns made by repeating shapes. The teacher offers four ways to practice. Which one would you like to try most?",
+    "options": {
+      "visual": "Color a picture of beadwork jewelry. The beads are arranged in repeating patterns of circles and triangles. Pick bright colors to finish the symmetric design.",
+      "game": "Play a round of Igisoro with a friend. As you set up the seeds, notice how the pits are arranged in two rows of equal holes. See if you can spot a repeating shape pattern on the board.",
+      "structured": "Use a ruler and pencil to draw a pattern on grid paper. Step 1: draw a triangle. Step 2: draw a circle next to it. Step 3: repeat the same triangle-circle pair across the whole row.",
+      "story": "Listen to a folktale called an Imigani about a clever rabbit who leaves a trail of triangle footprints to trick a hungry lion. After the story, draw the footprint pattern the rabbit made."
+    },
+    "cultural_anchors_used": [
+      "Beadwork (bright symmetric patterns for jewelry)",
+      "Igisoro (two-player board game, 32-pit wooden board, 64 seeds/stones)",
+      "Imigani (folktales/fables with animal characters, moral themes, cunning)"
+    ],
+    "reviewer_notes": "Igisoro pit count is from the knowledge base. Imigani animal-character framing matches the source. Story option does not name a real individual. Reading level fits P4."
+  },
+  {
+    "id": "rwanda-P4-shapes-and-patterns-03",
+    "topic": "shapes and patterns",
+    "grade_band": "P4",
+    "locale": "rwanda",
+    "language": "english",
+    "point_budget": 10,
+    "scenario": "Tomorrow your class will explore shapes and patterns. The teacher asks how you would like to learn. Which way sounds best for you?",
+    "options": {
+      "visual": "Watch a slide of Imigongo house wall art. Look at the big spirals and curves, then copy the same shapes onto your own paper using black, white, and reddish-brown colors.",
+      "game": "Try Sebutimbiri outside on the playground. As you jump over the low bars one after another, notice the bars line up in a straight row — a line is also a shape pattern.",
+      "structured": "Join a clean-up group during Umuganda. Each step is in order: first gather litter, second sort it into piles by shape, third count how many round items and square items you found.",
+      "story": "Hear an Imigani story about a young hero who solves a riddle (Ibisakuzo) by noticing that a pattern of triangles fits together to make a bigger shape. Guess the answer before the hero does."
+    },
+    "cultural_anchors_used": [
+      "Imigongo (spirals and curves; black/white/terracotta-red palette)",
+      "Sebutimbiri (jumping over a sequence of low bars consecutively)",
+      "Umuganda (monthly community work day with assigned tasks done in order)",
+      "Imigani and Ibisakuzo (folktales with riddles)"
+    ],
+    "reviewer_notes": "Sebutimbiri description matches the source. Umuganda step-by-step framing is grounded in the knowledge base. Ibisakuzo is presented as a riddle element within an Imigani-style story, consistent with the source describing them as part of Rwanda's oral tradition. No concerns."
+  }
+]
+```

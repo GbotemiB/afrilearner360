@@ -1,0 +1,101 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-01",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher says it is time to learn about the shapes we see around us. There are four ways the class can do this today. Which way sounds best to you?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at pictures of Imigongo patterns on the wall. The shapes are spirals, triangles, and curves in black, white, and red."
+        },
+        {
+          "trait": "game",
+          "text": "Play a pointing game. Your teacher shows a shape and you point fast to the matching one on your mat."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow step one, two, three. First draw a circle. Then a triangle. Then a square, in that order."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a short story. A little girl walks to school and finds shapes on the road, the door, and the roof."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo geometric patterns (spirals, triangles, curves) in black/white/terracotta-red"
+      ],
+      "reviewer_notes": "Imigongo is grounded in the knowledge base. The shapes referenced match the listed geometric motifs. P1 reading level kept simple with short sentences."
+    },
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-02",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "You want to learn how to count to twenty. Your teacher offers four ways. Which one do you pick?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Watch your teacher show twenty colorful beads on a string. You look at the colors and count them one by one."
+        },
+        {
+          "trait": "game",
+          "text": "Play a counting game with seeds, like in Igisoro. You and a friend move seeds and count as you go."
+        },
+        {
+          "trait": "structured",
+          "text": "Use a chart with rows. You count row by row, top to bottom, in the same order each time."
+        },
+        {
+          "trait": "story",
+          "text": "Hear a short tale about a child who picks twenty small stones by the path and lines them up to count."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro (two-player board game using seeds/stones counted and moved)"
+      ],
+      "reviewer_notes": "Igisoro seed-counting mechanic used in a P1-appropriate way. Phrasing avoids describing the full capture rules so P1 readers can follow."
+    },
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-03",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your class is learning new words today. The teacher gives four choices. Which way do you want to learn?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at a woven Agaseke basket with its pretty spiral shapes. Your teacher points to each shape and says its name."
+        },
+        {
+          "trait": "game",
+          "text": "Play Guhana Ubute. When the music stops, you pass a small card to a friend and say the word on it."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the teacher's list. Word one, then word two, then word three. You say each word after the teacher, in order."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani tale. A clever rabbit meets a turtle, and each animal teaches you a new word."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke baskets with spiral/intricate woven patterns",
+        "Guhana Ubute (passing/token tag game)",
+        "Imigani folktales with animal characters"
+      ],
+      "reviewer_notes": "Three cultural references combined in one item; all are grounded in the knowledge base. Agaseke 'spiral' wording matches the listed pattern description. Guhana Ubute simplified to a music-stop passing version for P1 comprehension."
+    }
+  ]
+}
+```

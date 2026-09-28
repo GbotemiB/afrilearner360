@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P3-everyday-learning-at-school-01",
+      "topic": "everyday learning at school",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In art class, the teacher shows a large piece of wood panel covered in bold geometric patterns made from cow dung and natural pigments - the famous Imigongo art from eastern Rwanda.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Notice how the artist used spirals and triangles to create a pattern that looks like waves on water"
+        },
+        {
+          "trait": "game",
+          "text": "Play a quick memory game where you match colored stones to their numbers"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps to draw your own small Imigongo-inspired picture on paper"
+        },
+        {
+          "trait": "story",
+          "text": "Imagine you are a student who shares your favorite Imigongo drawing with the class"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "cow dung",
+        "natural pigments",
+        "eastern Rwanda"
+      ],
+      "reviewer_notes": "Ensure the description of Imigongo matches the cultural knowledge base - cow dung mixed with natural pigment on wood panels."
+    },
+    {
+      "id": "rwanda-P3-everyday-learning-at-school-02",
+      "topic": "everyday learning at school",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "At lunch time, the teacher organizes a special activity where students help clean the school garden before the weekend. Everyone gets to participate in the weekly community work day called Umuganda.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at photos of the garden beds and identify the different types of vegetables growing there"
+        },
+        {
+          "trait": "game",
+          "text": "Race with classmates to see who can pick the most ripe tomatoes from the garden"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the checklist of tasks (watering, weeding, planting) to complete your part of Umuganda"
+        },
+        {
+          "trait": "story",
+          "text": "Imagine you are a helper in the village who learns how to organize the community work day"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda",
+        "school garden",
+        "vegetables",
+        "community work day"
+      ],
+      "reviewer_notes": "Verify that Umuganda is described accurately as a monthly community work day in the cultural knowledge base."
+    },
+    {
+      "id": "rwanda-P3-everyday-learning-at-school-03",
+      "topic": "everyday learning at school",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "The teacher introduces a new way to learn multiplication tables using a game called \"Igisoro Countdown\" - players take turns solving problems while keeping track of their score.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Watch the teacher demonstrate the Igisoro Countdown game with flashcards showing number problems"
+        },
+        {
+          "trait": "game",
+          "text": "Play the Igisoro Countdown game with your classmates to practice multiplication facts"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the step-by-step scoring system to calculate your final score correctly"
+        },
+        {
+          "trait": "story",
+          "text": "Imagine you are a student who loves winning games because you understand the math behind them"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro",
+        "multiplication tables",
+        "score tracking"
+      ],
+      "reviewer_notes": "Confirm that Igisoro is described as a two-player board strategy game with strict turn rules in the cultural knowledge base."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P3-counting-and-numbers-01",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your class is starting a new topic about counting and numbers. The teacher asks how you would like to begin learning it.",
+      "options": [
+        {
+          "mode": "visual",
+          "text": "Look at a colorful poster with bright Imigongo spiral and triangle patterns, and count the shapes in each row."
+        },
+        {
+          "mode": "game",
+          "text": "Play Igisoro with a friend on the wooden board, and count the seeds in each pit as you take turns."
+        },
+        {
+          "mode": "structured",
+          "text": "Follow a step-by-step list from the teacher: first count by 1s, then by 2s, then by 5s, in order."
+        },
+        {
+          "mode": "story",
+          "text": "Listen to an Imigani folktale about a clever tortoise, and count the characters as they appear in the story."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo (geometric art with spirals and triangles)",
+        "Igisoro (board game with seeds counted in pits)",
+        "Imigani (folktales with animal characters)"
+      ],
+      "reviewer_notes": "Imigongo patterns are spirals and triangles per the knowledge base; counting shapes within the patterns keeps the visual activity grounded. Igisoro seed-counting is a natural fit for a counting topic. Imigani folktales typically feature animal characters with human traits (e.g., tortoise). No concerns."
+    },
+    {
+      "id": "rwanda-P3-counting-and-numbers-02",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher wants to help the class practice counting larger groups of objects. She offers four ways to do this.",
+      "options": [
+        {
+          "mode": "visual",
+          "text": "Look at pictures of woven Agaseke baskets with geometric patterns, and count how many spiral rows you can see on each one."
+        },
+        {
+          "mode": "game",
+          "text": "Join a Sebutimbiri challenge and count how many low bars you jump over in a row without stopping."
+        },
+        {
+          "mode": "structured",
+          "text": "Help count and sort stones into rows of 10, then put them into groups of 100, step by step."
+        },
+        {
+          "mode": "story",
+          "text": "Hear an Imigani story about a village gathering many items for a ceremony, and count each item along with the storyteller."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke (woven baskets with geometric/spiral patterns)",
+        "Sebutimbiri (jumping over a sequence of low bars)",
+        "Imigani (oral folktales)"
+      ],
+      "reviewer_notes": "Agaseke spiral patterns are mentioned in the knowledge base; counting visible rows is a light inference about what a child could observe, not a new cultural claim. Sebutimbiri bars are described as ~50cm and jumped consecutively, which fits a counting context. Imigani is a standard folktale anchor. No concerns."
+    },
+    {
+      "id": "rwanda-P3-counting-and-numbers-03",
+      "topic": "counting and numbers",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "It is Umuganda day and the class is helping to count things that the community has collected. The teacher asks how you would like to help count.",
+      "options": [
+        {
+          "mode": "visual",
+          "text": "Look at a chart with bright Imigongo-style shapes, and count how many of each shape appear on the page."
+        },
+        {
+          "mode": "game",
+          "text": "Play a counting game with classmates where you tag and pass a token, like Guhana Ubute, counting how many times it changes hands."
+        },
+        {
+          "mode": "structured",
+          "text": "Follow the Umuganda steps in order: first line up the items, then count them by 10s, and finally write the totals."
+        },
+        {
+          "mode": "story",
+          "text": "Listen to a short Ibisakuzo riddle about a number, and try to figure out the answer as the storyteller counts the clues."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda (monthly community work day with assigned tasks and ordered steps)",
+        "Imigongo (geometric shapes: spirals, triangles)",
+        "Guhana Ubute (tag game with a passed token)",
+        "Ibisakuzo (riddles posed in group settings)"
+      ],
+      "reviewer_notes": "Guhana Ubute is described as a tag game where a token is passed; reframing it as a counting game (counting passes) keeps it grounded without inventing new rules. Ibisakuzo are traditionally riddles used to spark discussion, so a 'number riddle' fits the form. Umuganda's ordered step structure is explicitly in the knowledge base. No concerns."
+    }
+  ]
+}
+```

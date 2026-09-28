@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P4-shapes-and-patterns-01",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In Rwandan culture, there is a special art called Imigongo that uses geometric shapes like spirals, triangles, and curves drawn on wood panels. One student wants to draw her own Imigongo picture.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Choose the pattern that looks like a spiral (spiral shape)"
+        },
+        {
+          "trait": "game",
+          "text": "Play a shape-matching game where you find spirals, triangles, and curves together"
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps to draw a simple Imigongo design with three shapes"
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a story about a young girl who learned to paint with cow dung and created beautiful wall art"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "cow dung",
+        "wooden panel"
+      ],
+      "reviewer_notes": "Verify that Imigongo description matches the knowledge base exactly (geometric patterns, cow dung, wood panels). Ensure no gender assumptions are added."
+    },
+    {
+      "id": "rwanda-P4-shapes-and-patterns-02",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Igisoro is a traditional Rwandan board game played on a wooden board with 32 pits and 64 seeds. Players take turns counting seeds and moving them according to the rules.",
+      "options": [
+        {
+          "trait": "game",
+          "text": "Compete in a quick round of Igisoro with friends"
+        },
+        {
+          "trait": "visual",
+          "text": "Spot the difference between the seed piles in the game board"
+        },
+        {
+          "trait": "structured",
+          "text": "Remember the rule that you must count seeds before you can move them"
+        },
+        {
+          "trait": "story",
+          "text": "Hear about a boy who won a big prize by winning at Igisoro"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro",
+        "32-pit wooden board",
+        "64 seeds",
+        "turn rules"
+      ],
+      "reviewer_notes": "Confirm Igisoro details match the knowledge base (two-player, 32-pit, 64 seeds, strict turn/count rules). Avoid adding unsupported gender-specific details."
+    },
+    {
+      "id": "rwanda-P4-shapes-and-patterns-03",
+      "topic": "shapes and patterns",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Every last Saturday of the month, Rwandan children participate in Umuganda, a community work day where they clean streets and build small structures together.",
+      "options": [
+        {
+          "trait": "structured",
+          "text": "Complete the sequence of tasks in order (first clean, then build, then share)"
+        },
+        {
+          "trait": "visual",
+          "text": "Match the pictures of Umuganda activities to the correct words"
+        },
+        {
+          "trait": "game",
+          "text": "Work in teams to complete a mini-Umuganda challenge"
+        },
+        {
+          "trait": "story",
+          "text": "Read about a classmate who helped their village during Umuganda"
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda",
+        "last Saturday of the month",
+        "community work day",
+        "clean streets"
+      ],
+      "reviewer_notes": "Ensure Umuganda description aligns with knowledge base (monthly, last Saturday, assigned tasks + community meeting). Verify no gender restrictions are implied."
+    }
+  ]
+}

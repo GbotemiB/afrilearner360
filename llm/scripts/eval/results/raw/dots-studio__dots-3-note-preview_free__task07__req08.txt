@@ -1,0 +1,108 @@
+{
+
+
+  "items": [
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P3",
+      "id": "rwanda-P3-everyday-learning-at-school-01",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to draw a picture with bold shapes like Imigongo.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play a counting game with seeds like Igisoro.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the steps of Umuganda community work.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to listen to a story from Imigani.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "Your teacher says you will learn something new today. How do you like to learn?",
+      "topic": "everyday learning at school"
+    },
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P3",
+      "id": "rwanda-P3-everyday-learning-at-school-02",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to draw a map with bright colors like Imigongo.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play a strategy game like Igisoro with my classmates.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the steps of Umuganda cleaning.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to hear a story about the village from Imigani.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "Your class is working on a project about your village. How do you want to help?",
+      "topic": "everyday learning at school"
+    },
+    {
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P3",
+      "id": "rwanda-P3-everyday-learning-at-school-03",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to make a poster with geometric patterns like Imigongo.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play a group game like Igisoro.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the steps of Umuganda community work.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to listen to a folk tale from Imigani.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "No concerns.",
+      "scenario_text": "Your school is having a special activity day. How do you want to be involved?",
+      "topic": "everyday learning at school"
+    }
+  ]
+}

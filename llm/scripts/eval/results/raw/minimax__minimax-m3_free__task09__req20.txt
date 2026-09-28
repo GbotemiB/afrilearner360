@@ -1,0 +1,70 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P4-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your class is going to learn about the water cycle next week. The teacher says there are four different ways you could explore how rain falls, rivers flow, and clouds form. Which way would you choose?",
+      "options": {
+        "visual": "Look at colourful drawings of the water cycle — see how water rises as vapour, becomes clouds, falls as rain, and flows back to rivers.",
+        "game": "Play a team game where you toss a beanbag between labelled stations for 'cloud', 'rain', 'river', and 'sun', trying to move it through each stage of the cycle.",
+        "structured": "Follow a step-by-step chart on the board: evaporation, condensation, precipitation, collection — tick off each step as the teacher explains it.",
+        "story": "Listen to a folktale about a little raindrop named Urimo who travels from a lake, up into a cloud, down a mountain, and back to the sea."
+      },
+      "cultural_anchors_used": [
+        "folktale (Imigani) tradition of animal/character stories with a clear journey shape",
+        "beanbag/play as a familiar game-mechanic in Rwandan primary classrooms"
+      ],
+      "reviewer_notes": "The named character 'Urimo' is a fabricated Kinyarwanda-style name; reviewer should confirm it is not the name of a real figure and is acceptable for a story. The beanbag mechanic is generic rather than a named Rwandan game; reviewer may prefer swapping it for Sebutimbiri or Guhana Ubute if a stronger cultural anchor is desired."
+    },
+    {
+      "id": "rwanda-P4-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your school wants everyone to understand how water moves around our country — from Lake Kivu to the clouds and back again. The teacher offers four ways to explore this. Which one sounds best to you?",
+      "options": {
+        "visual": "Make a poster with bold patterns like Imigongo art — black, white, and red — to show the stages of the water cycle.",
+        "game": "Play a challenge game like Sebutimbiri, where you jump over bars labelled 'lake', 'sun', 'cloud', and 'rain' in the right order.",
+        "structured": "Take part in a Umuganda-style clean-up beside a stream, then help the teacher list, in order, where the water goes after it rains.",
+        "story": "Hear an Imigani folktale about clever animals who follow a single drop of water from a mountain stream all the way up to the sky and back."
+      },
+      "cultural_anchors_used": [
+        "Imigongo geometric art (black, white, terracotta-red) as visual anchor",
+        "Sebutimbiri (jumping over bars in sequence) as game anchor",
+        "Umuganda (community work with clear ordered tasks) as structured anchor",
+        "Imigani (folktales with animal characters on a journey) as story anchor"
+      ],
+      "reviewer_notes": "Reviewer should confirm that pairing Sebutimbiri with a water-cycle sequence does not distort the original activity's meaning (Sebutimbiri is normally a jumping-over-bars challenge, not a labelled-station game). If concerned, swap Sebutimbiri for a simple tag-style reference like Guhana Ubute or a strategy reference like Igisoro."
+    },
+    {
+      "id": "rwanda-P4-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P4",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Tomorrow your class will start a new unit on the water cycle. Your teacher lets each student pick one way to begin learning about it. Which would you pick?",
+      "options": {
+        "visual": "Study photos of Lake Kivu and the Nyabarongo River, and draw your own picture showing how water moves between them and the sky.",
+        "game": "Play a counting-and-strategy board game like Igisoro, where every seed you capture stands for a drop of water moving to the next stage.",
+        "structured": "Read a short, step-by-step list of the four stages — sun warms water, water rises, clouds form, rain falls — and copy it neatly into your book.",
+        "story": "Listen to an Ibisakuzo riddle about water: 'I fall from the sky, I fill the river, I disappear in the sun — what am I?' and talk through the answer together."
+      },
+      "cultural_anchors_used": [
+        "Lake Kivu and the Nyabarongo River as recognisable Rwandan water features",
+        "Igisoro (board strategy game with counted seeds) as game anchor",
+        "Ibisakuzo (riddles) as story anchor",
+        "structured rote step-listing as a familiar classroom routine"
+      ],
+      "reviewer_notes": "Reviewer should check whether 'Nyabarongo' is appropriate for P4 reading level (it is a real Rwandan river name but longer than Lake Kivu). The Igisoro option stretches the game's purpose a little (seeds-as-water-drops is metaphorical, not literal Igisoro play) — reviewer may prefer a more literal Igisoro framing or a swap to Gukirana / Gusimbuka Urukiramende."
+    }
+  ]
+}
+```

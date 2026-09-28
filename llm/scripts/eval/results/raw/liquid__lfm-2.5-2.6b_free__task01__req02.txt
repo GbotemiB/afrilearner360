@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P2-plants-and-animals-01",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In this task, students explore how plants and animals appear in Rwandan culture through art, games, stories, and daily life.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at the picture of Imigongo art with its spiral and triangle patterns made from cow dung and wood."
+        },
+        {
+          "trait": "game",
+          "text": "Play a quick round of Igisoro where you count seeds and take turns capturing them."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the three-step rule of Igisoro: count seeds first, then take turns, and finally try to capture your opponent's seeds."
+        },
+        {
+          "trait": "story",
+          "text": "Read a short Imigani story about a brave animal who helps his village solve a problem."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Igisoro",
+        "Imigani"
+      ],
+      "reviewer_notes": "Verify that Imigongo's cow-dung-on-wood technique and Igisoro's seed-counting mechanic align with the cultural knowledge base descriptions."
+    },
+    {
+      "id": "rwanda-P2-plants-and-animals-02",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Students investigate how Rwandan traditions connect plants and animals through games, craft techniques, and oral stories.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "See the diagram of Igisoro's 32-pit wooden board showing where seeds are placed."
+        },
+        {
+          "trait": "game",
+          "text": "Compete in a mini-Igisoro match against a classmate to practice counting and taking turns."
+        },
+        {
+          "trait": "structured",
+          "text": "Learn the Igisoro procedure: assign pits, count seeds, move according to rules, and try to win."
+        },
+        {
+          "trait": "story",
+          "text": "Hear a tale about a clever child who wins Igisoro by being very careful with her seeds."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Igisoro"
+      ],
+      "reviewer_notes": "Confirm the number of pits (32) and seed-counting mechanism described in the Igisoro entry."
+    },
+    {
+      "id": "rwanda-P2-plants-and-animals-03",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "Through this item, students connect animal characters from Rwandan folktales to broader themes of cooperation and nature.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "View a picture of an animal character from an Imigani folktale, such as a lion or elephant."
+        },
+        {
+          "trait": "game",
+          "text": "Act out a scene from an Imigani story where animals help each other solve a challenge."
+        },
+        {
+          "trait": "structured",
+          "text": "Remember the sequence of events in the Imigani tale: introduction, problem, solution, and moral."
+        },
+        {
+          "trait": "story",
+          "text": "Continue the story of an animal hero who learned a valuable lesson about teamwork."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigani"
+      ],
+      "reviewer_notes": "Check that the animal characters in Imigani tales are consistent with the folklore tradition described in the knowledge base."
+    }
+  ]
+}

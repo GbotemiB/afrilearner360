@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P5-counting-and-numbers-01",
+      "topic": "counting and numbers",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During a math lesson, the teacher shows a picture of an Agaseke basket and asks students to count how many triangles are in the woven pattern.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at the Agaseke basket and count the triangles you see in the design."
+        },
+        {
+          "trait": "game",
+          "text": "Play a short round of Igisoro, moving seeds and counting how many you capture each turn."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps of Umuganda: first gather tools, then count how many pieces of trash you collect in each area before moving on."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani tale about a clever rabbit who counts his carrots to share fairly with friends."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "reviewer_notes": "Check that Agaseke baskets commonly feature triangular motifs suitable for counting; verify that Umuganda steps align with counting activity for age group."
+    },
+    {
+      "id": "rwanda-P5-counting-and-numbers-02",
+      "topic": "counting and numbers",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In class, students practice adding numbers up to 20 using objects they see around school.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at an Imigongo painting and add together the number of red, black, and white lines you see."
+        },
+        {
+          "trait": "game",
+          "text": "Play Guhana Ubute: each time you are tagged, add one point to your score; see who reaches 20 first."
+        },
+        {
+          "trait": "structured",
+          "text": "Use the Igisoro rule: count the seeds in your pit before each move, then add the number you capture to your running total."
+        },
+        {
+          "trait": "story",
+          "text": "Hear an Ibisakuzo riddle that asks you to add the number of goats and chickens mentioned to find the answer."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo",
+        "Guhana Ubute",
+        "Igisoro",
+        "Ibisakuzo"
+      ],
+      "reviewer_notes": "Confirm that Imigongo paintings typically use lines that can be counted; ensure Guhana Ubute tag rule is understood as adding points."
+    },
+    {
+      "id": "rwanda-P5-counting-and-numbers-03",
+      "topic": "counting and numbers",
+      "grade_band": "P5",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "For a class project, students need to count groups of items they collect.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Examine the beadwork on a traditional necklace and count how many beads of each colour there are."
+        },
+        {
+          "trait": "game",
+          "text": "Play Gusimbuka umugozi (rope jumping) and count how many jumps you can do in one minute."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps to make a wire toy car: first count the wire pieces, then bend them, then assemble them."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani story about a farmer who counts his cows each morning before going to the field."
+        }
+      ],
+      "cultural_anchors_used": [
+        "beadwork",
+        "Gusimbuka umugozi",
+        "wire toy making",
+        "Imigani"
+      ],
+      "reviewer_notes": "Verify that beadwork necklaces are familiar to P5 students; ensure wire toy car making steps are appropriate for counting practice."
+    }
+  ]
+}

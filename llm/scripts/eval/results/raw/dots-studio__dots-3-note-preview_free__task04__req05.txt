@@ -1,0 +1,107 @@
+{
+
+
+  "items": [
+    {
+      "cultural_anchors_used": [
+        "Umuganda",
+        "Igisoro",
+        "Imigongo",
+        "Imigani"
+      ],
+      "grade_band": "P5",
+      "id": "rwanda-P5-counting-and-numbers-01",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to draw Imigongo patterns and count the shapes.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play Igisoro and count the seeds.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the Umuganda steps to count the tools.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to hear an Imigani about a character who counted many items.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "Your class is preparing for Umuganda day. The teacher asks you to count the number of cleaning tools needed.",
+      "topic": "counting and numbers"
+    },
+    {
+      "cultural_anchors_used": [
+        "Igisoro",
+        "Imigongo",
+        "Imigani"
+      ],
+      "grade_band": "P5",
+      "id": "rwanda-P5-counting-and-numbers-02",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to draw Imigongo patterns and count the shapes.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play Igisoro and count the seeds.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the rule steps to count each pit.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to hear an Imigani about a clever animal who counted seeds.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "You are playing Igisoro with your friends at recess. You need to count the seeds before the game starts.",
+      "topic": "counting and numbers"
+    },
+    {
+      "cultural_anchors_used": [
+        "Agaseke",
+        "Igisoro",
+        "Umuganda",
+        "Imigani"
+      ],
+      "grade_band": "P5",
+      "id": "rwanda-P5-counting-and-numbers-03",
+      "language": "english",
+      "locale": "rwanda",
+      "options": [
+        {
+          "text": "I would like to draw the basket patterns and count the shapes.",
+          "trait": "visual"
+        },
+        {
+          "text": "I would like to play Igisoro and count the seeds.",
+          "trait": "game"
+        },
+        {
+          "text": "I would like to follow the Umuganda steps to count the items.",
+          "trait": "structured"
+        },
+        {
+          "text": "I would like to hear an Imigani about a weaver who counted patterns.",
+          "trait": "story"
+        }
+      ],
+      "point_budget": 10,
+      "reviewer_notes": "no concerns",
+      "scenario_text": "You are looking at a beautiful Agaseke basket in your classroom. You want to count the geometric patterns on it.",
+      "topic": "counting and numbers"
+    }
+  ]
+}

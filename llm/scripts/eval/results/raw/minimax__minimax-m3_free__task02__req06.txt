@@ -1,0 +1,103 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P2-fractions-01",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "Rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher is going to show the class how to split a big mango into 2 equal pieces. After that, the class will split 4 bananas into 4 equal pieces. Your teacher wants to know how you like to learn about halves and quarters.",
+      "options": [
+        {
+          "mode": "visual",
+          "text": "Look at colourful pictures of a mango cut into halves and bananas split into 4 equal pieces, with shapes that show each piece in a different colour."
+        },
+        {
+          "mode": "game",
+          "text": "Play a circle game where you take turns rolling a small stone onto a drawn circle, and the picture it lands on shows a fraction for the class to name."
+        },
+        {
+          "mode": "structured",
+          "text": "Follow the steps on the board one by one: first cut the mango, then count the pieces, then do the same for the bananas in the same order."
+        },
+        {
+          "mode": "story",
+          "text": "Hear a short story about a child who shares mango halves with a friend, then shares 4 bananas equally with cousins at home."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Mango as a common fruit in Rwandan diet (general food context, not explicitly named in knowledge base but used as a generic fruit illustration)",
+        "Bananas as a common fruit in Rwandan diet (implied through banana-trunk-ring archery reference; bananas are widely grown in Rwanda)",
+        "Sharing food among family/community members as a familiar context"
+      ],
+      "reviewer_notes": "Mango and bananas are not explicitly listed in the cultural knowledge base. Bananas are referenced via the Intembe banana-trunk-ring, suggesting banana presence, but mango is an assumption. Reviewer should confirm whether these fruits are appropriate for P2 items in Rwanda or whether locally anchored foods (e.g., ibitoke/plantain, isombe ingredients) would be more accurate."
+    },
+    {
+      "id": "rwanda-P2-fractions-02",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "Rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "In your Umuganda day at school, the teacher brings out 8 small baskets for the class. Some baskets get filled half-way and some get filled a quarter full. The class will learn about halves and quarters. How would you like to find out?",
+      "options": [
+        {
+          "mode": "visual",
+          "text": "Look closely at the baskets and see the patterns painted on them, with lines drawn on the side so you can see half full and quarter full."
+        },
+        {
+          "mode": "game",
+          "text": "Play a team game where you race to fill a basket to the right level first, then call out if it is a half or a quarter."
+        },
+        {
+          "mode": "structured",
+          "text": "Follow the teacher's clear steps: look at the line, count the parts, then write if the basket is half full or quarter full, in the same order each time."
+        },
+        {
+          "mode": "story",
+          "text": "Listen to a short tale about children who carry baskets to Umuganda and learn how sharing them into halves and quarters helps everyone get a fair amount."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Umuganda: monthly community work day with assigned tasks and structured order",
+        "Agaseke baskets: woven baskets as familiar Rwandan cultural objects"
+      ],
+      "reviewer_notes": "Combines Umuganda (community structured activity) with Agaseke baskets (visual arts reference). Both are explicitly in the knowledge base. The agaseke baskets are described as tall and conical; reviewer should confirm that describing them as 'small baskets' filled with fractions is age-appropriate and not distorting the cultural object."
+    },
+    {
+      "id": "rwanda-P2-fractions-03",
+      "topic": "fractions",
+      "grade_band": "P2",
+      "locale": "Rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "During play time, a friend shares 6 cookies with you. You want to split them fairly so you each get the same amount. Your teacher says you can choose how the class learns about splitting things into equal parts.",
+      "options": [
+        {
+          "mode": "visual",
+          "text": "See a bright picture of 6 cookies arranged in a circle, with coloured lines showing how 2 cookies make one equal share and 3 cookies make another."
+        },
+        {
+          "mode": "game",
+          "text": "Play a passing game where you pass a small bag of cookies around, and the friend left holding it must share into equal parts for the group."
+        },
+        {
+          "mode": "structured",
+          "text": "Follow the rules step by step: count the cookies, decide how many friends, then divide them in the same order every time."
+        },
+        {
+          "mode": "story",
+          "text": "Hear a short Imigani-style story about a clever rabbit who shares food into equal parts so all the animals at the gathering are happy."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Guhana Ubute: a passing tag/chase game where a token is passed and whoever is left holding it at the end is teased good-naturedly (adapted here to a gentle passing-game mechanic with sharing, not the teasing element)",
+        "Imigani: folktales/fables with animal characters that have human traits, built around moral themes"
+      ],
+      "reviewer_notes": "Uses Guhana Ubute mechanic (passing a token) softened to fit a sharing/fractions context, and references Imigani storytelling form with an animal character. Reviewer should confirm: (1) whether softening Guhana Ubute to omit the 'teasing' element is acceptable, and (2) whether rabbit is an appropriate animal character for an Imigani-style tale at P2 level, since the knowledge base does not specify which animals appear in Imigani."
+    }
+  ]
+}
+```

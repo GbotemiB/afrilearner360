@@ -1,0 +1,39 @@
+model      minimax/minimax-m3:free
+tasks      12 (3 items per call)
+budget     20 requests, 4.0s pause
+
+[ 1/12] FAIL P1  everyday learning at school     13.937s  missing_required_field
+[ 2/12] FAIL P2  plants and animals                9.13s  missing_required_field
+[ 3/12] FAIL P2  fractions                       15.021s  missing_required_field
+[ 4/12] FAIL P3  counting and numbers            14.455s  missing_required_field
+[ 5/12] FAIL P5  counting and numbers            16.205s  wrong_type
+[ 6/12] FAIL P3  the water cycle                 21.448s  missing_required_field
+[ 7/12] FAIL P4  shapes and patterns             20.677s  missing_required_field
+[ 8/12] FAIL P3  everyday learning at school     15.591s  missing_required_field
+[ 9/12] FAIL P5  the water cycle                 20.348s  wrong_type
+[10/12] FAIL P4  the water cycle                   18.8s  missing_required_field
+
+STOPPED EARLY: global request budget of 20 reached
+
+--- summary ---
+model                          minimax/minimax-m3:free
+n_tasks_attempted              10
+n_tasks_succeeded              0
+n_content_requests             20
+n_rate_limited_requests        0
+n_tasks_blocked_upstream       0
+n_total_requests               20
+json_parse_rate                1.0
+schema_adherence_rate          0.0
+first_attempt_success_rate     0.0
+mean_attempts_to_success       None
+latency_p50_s                  15.591
+latency_p95_s                  27.64
+latency_mean_s                 16.98
+mean_prompt_tokens             2065.3
+mean_completion_tokens         1183.4
+failure_taxonomy
+  missing_required_field       15
+  wrong_type                   5
+
+wrote /Users/gbotemi/Documents/code/CMU AFRICA/SIP Bootcamp/SIP/llm/scripts/eval/results/exp1_minimax__minimax-m3_free.json

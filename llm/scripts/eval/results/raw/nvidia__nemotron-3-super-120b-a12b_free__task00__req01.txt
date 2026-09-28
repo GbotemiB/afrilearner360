@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-01",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "At school, the class is getting ready for a short activity before lunch.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at pictures of Imigongo designs and try to copy the black, white, and red shapes on your paper."
+        },
+        {
+          "trait": "game",
+          "text": "Play a quick round of Igisoro with a partner, moving seeds and following the turn rules."
+        },
+        {
+          "trait": "structured",
+          "text": "Help set up the classroom for Umuganda by cleaning desks in order: first wipe, then sweep, then put chairs back."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to a short Imigani folktale about a clever rabbit and answer what happened first."
+        }
+      ],
+      "cultural_anchors_used": ["Imigongo", "Igisoro", "Umuganda", "Imigani"],
+      "reviewer_notes": "Umuganda is described as a community work day; the classroom cleaning mirrors its step‑by‑step nature."
+    },
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-02",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During break time, the teacher suggests a quiet thing to do while waiting for the next lesson.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw colorful patterns inspired by Agaseke baskets, using lines and shapes you see."
+        },
+        {
+          "trait": "game",
+          "text": "Join a game of Gusimbuka Urukiramende, taking turns jumping over a low bar."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the steps to make a simple wire toy car: find wire, bend it into a shape, add wheels."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Ibisakuzo riddle and try to guess the answer before anyone else."
+        }
+      ],
+      "cultural_anchors_used": ["Agaseke", "Gusimbuka Urukiramende", "wire toy cars", "Ibisakuzo"],
+      "reviewer_notes": "Wire toy cars are mentioned as a common rural children's activity; kept gender‑neutral."
+    },
+    {
+      "id": "rwanda-P1-everyday-learning-at-school-03",
+      "topic": "everyday learning at school",
+      "grade_band": "P1",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "At the end of the day, the class has a few minutes before going home.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Watch a short video showing how Imigongo art is made from cow dung and paint."
+        },
+        {
+          "trait": "game",
+          "text": "Play a quick match of Guhana Ubute, passing a token and laughing when someone holds it."
+        },
+        {
+          "trait": "structured",
+          "text": "Put away your books by following the shelf order: math first, then language, then art."
+        },
+        {
+          "trait": "story",
+          "text": "Hear a short Imigani story about a brave goat and talk about what you liked."
+        }
+      ],
+      "cultural_anchors_used": ["Imigongo", "Guhana Ubute", "Imigani"],
+      "reviewer_notes": "All options are phrased as simple, positive actions suitable for P1 readers."
+    }
+  ]
+}

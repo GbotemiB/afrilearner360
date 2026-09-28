@@ -1,0 +1,104 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P2-plants-and-animals-01",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your class is going to learn about the animals and plants that live near your school. How would you like to find out about them?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at big colorful pictures of the animals and plants, with shapes and colors marked so you can see which parts are different."
+        },
+        {
+          "trait": "game",
+          "text": "Play a tag game like Guhana Ubute in the schoolyard, where you touch someone when you learn their animal or plant name."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow a step-by-step list: first draw the animal, then write its name, then tick a box when you are finished."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani tale about a clever animal in the Rwandan countryside and the plants it meets along the way."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Guhana Ubute (tag game described in the cultural knowledge base)",
+        "Imigani (folktales with animal characters described in the cultural knowledge base)"
+      ],
+      "reviewer_notes": "Imigani are described in the knowledge base as featuring animal characters with human traits, so using one as a framing for a plants-and-animals topic is appropriate. Guhana Ubute is a tag game and is used here only for its chase mechanic, not for its 'passing laziness' social element."
+    },
+    {
+      "id": "rwanda-P2-plants-and-animals-02",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "You want to learn about a plant that grows in Rwanda and an animal that lives in a forest. How would you like to learn?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Make a poster with bright drawings, like an Imigongo pattern, showing the plant and the animal in their home."
+        },
+        {
+          "trait": "game",
+          "text": "Play a board game like Igisoro, where each seed you count shows you a fact about the plant or animal."
+        },
+        {
+          "trait": "structured",
+          "text": "Use a simple rule sheet: write the name, draw one line for where it lives, and one line for what it eats."
+        },
+        {
+          "trait": "story",
+          "text": "Hear a short story about a child who walks through the forest and meets the animal next to the plant."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Imigongo (bold geometric art described in the cultural knowledge base)",
+        "Igisoro (32-pit board game described in the cultural knowledge base)"
+      ],
+      "reviewer_notes": "Imigongo is referenced here only for its visual style of bold geometric patterns, which fits the visual option. Igisoro is used loosely as a counting board game mechanic; reviewer should confirm that adapting Igisoro into a fact-recall context feels appropriate for a P2 learner."
+    },
+    {
+      "id": "rwanda-P2-plants-and-animals-03",
+      "topic": "plants and animals",
+      "grade_band": "P2",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher wants the class to learn about one helpful plant and one helpful animal. How would you like to do the activity?",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Color in a picture of the plant and the animal, and match each one to its shape, like the patterns on an Agaseke basket."
+        },
+        {
+          "trait": "game",
+          "text": "Play a jumping game like Sebutimbiri, jumping over small bars each time you name one thing the plant or animal gives us."
+        },
+        {
+          "trait": "structured",
+          "text": "Work through a short plan like Umuganda: first draw, then write, then share with a partner in order."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani story where an animal and a plant work together, and tell your class what happens."
+        }
+      ],
+      "cultural_anchors_used": [
+        "Agaseke baskets (geometric/spiral patterns described in the cultural knowledge base)",
+        "Sebutimbiri (low-bar jumping game described in the cultural knowledge base)",
+        "Umuganda (structured community work day described in the cultural knowledge base)",
+        "Imigani (folktales described in the cultural knowledge base)"
+      ],
+      "reviewer_notes": "Sebutimbiri is used here as a counting or naming activity tied to jumping, which is age-appropriate. Umuganda framing is light: the three steps (draw, write, share) loosely echo the 'assigned tasks then community discussion' structure noted in the knowledge base. Reviewer should confirm that this Umuganda analogy is not overstretched for a P2 learner."
+    }
+  ]
+}
+```

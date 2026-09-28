@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "rwanda-P3-everyday-learning-at-school-01",
+      "topic": "everyday learning at school",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In class, the teacher wants to learn about patterns and designs that are common in Rwanda.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Look at pictures of Imigongo art on wood panels and notice the spirals and triangles."
+        },
+        {
+          "trait": "game",
+          "text": "Play a round of Igisoro, moving seeds around the board to see the patterns they make."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the step‑by‑step instructions to weave a small Agaseke basket using sisal fibers."
+        },
+        {
+          "trait": "story",
+          "text": "Listen to an Imigani folktale about a clever rabbit who uses patterns to outwit a hyena."
+        }
+      ],
+      "cultural_anchors_used": ["Imigongo", "Igisoro", "Agaseke", "Imigani"],
+      "reviewer_notes": "no concerns"
+    },
+    {
+      "id": "rwanda-P3-everyday-learning-at-school-02",
+      "topic": "everyday learning at school",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "During break time, students can choose an activity that helps them practice teamwork.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Draw a colorful Agaseke basket pattern on paper using black, brown, and white crayons."
+        },
+        {
+          "trait": "game",
+          "text": "Play Gusimbuka umugozi (rope jumping) together, taking turns jumping in sync."
+        },
+        {
+          "trait": "structured",
+          "text": "Join the class Umuganda crew to sweep the schoolyard, following the assigned tasks in order."
+        },
+        {
+          "trait": "story",
+          "text": "Share an Ibisakuzo riddle with a partner and try to solve it together."
+        }
+      ],
+      "cultural_anchors_used": ["Agaseke", "Gusimbuka umugozi", "Umuganda", "Ibisakuzo"],
+      "reviewer_notes": "no concerns"
+    },
+    {
+      "id": "rwanda-P3-everyday-learning-at-school-03",
+      "topic": "everyday learning at school",
+      "grade_band": "P3",
+      "locale": "rwanda",
+      "language": "english",
+      "point_budget": 10,
+      "scenario_text": "In mathematics class, the teacher wants to show how counting and strategy work in everyday life.",
+      "options": [
+        {
+          "trait": "visual",
+          "text": "Examine the wooden Igisoro board and count the 32 pits and 64 seeds."
+        },
+        {
+          "trait": "game",
+          "text": "Play a quick match of Guhana Ubute, passing a token and avoiding being the one left holding it."
+        },
+        {
+          "trait": "structured",
+          "text": "Follow the rule sequence of Igisoro: count the seeds in your hand before each move, then take your turn."
+        },
+        {
+          "trait": "story",
+          "text": "Hear a proverb (Imigani Migufi) about patience and discuss what it means for solving problems."
+        }
+      ],
+      "cultural_anchors_used": ["Igisoro", "Guhana Ubute", "Imigani Migufi"],
+      "reviewer_notes": "no concerns"
+    }
+  ]
+}

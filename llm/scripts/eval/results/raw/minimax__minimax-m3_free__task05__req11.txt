@@ -1,0 +1,64 @@
+```json
+{
+  "items": [
+    {
+      "id": "rwanda-P3-the-water-cycle-01",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your class is learning about where rain comes from and where it goes after it hits the ground. After the lesson, your teacher lets you choose how you want to explore the water cycle next.",
+      "options": {
+        "visual": "Make a colorful poster showing each step of the water cycle with bright drawings of clouds, rain, rivers, and the sun, decorated with patterns like the spirals on an Agaseke basket.",
+        "game": "Play a group game where you move like water drops through different stations — climb to be evaporation, slide to be rain, and pool up to be a lake — and race to finish the full cycle.",
+        "structured": "Follow a clear list of steps your teacher writes on the board: draw a diagram, label evaporation, condensation, precipitation, and collection, then check each label one by one.",
+        "story": "Listen to a folktale about a little raindrop named Umera who travels from a lake up into the sky, falls down on a hill, and flows into a river, meeting different people and animals on the way."
+      },
+      "cultural_anchors_used": [
+        "Agaseke (peace baskets) — referenced for spiral pattern decoration",
+        "Imigani folktale tradition — adapted as a story about a named raindrop character traveling through stages, in the style of a moral/narrative tale with a journey structure"
+      ],
+      "reviewer_notes": "The named raindrop 'Umera' is a common Kinyarwanda name meaning 'life/good news,' but using it as a raindrop is invented; reviewer should confirm naming a water cycle character this way feels natural for P3 readers. Agaseke pattern reference is generic enough to match the knowledge base description."
+    },
+    {
+      "id": "rwanda-P3-the-water-cycle-02",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Your teacher says it's time to show what you know about the water cycle. You can pick one way to show what you have learned.",
+      "options": {
+        "visual": "Look at a big painted picture of the water cycle with arrows showing where water moves, point to each part, and tell the class what is happening at each step.",
+        "game": "Play a quick Igisoro-style counting game where seeds stand for water drops, and each pit you move through is a different stage of the water cycle.",
+        "structured": "Write down the four steps of the water cycle in the right order on your paper, numbering them 1, 2, 3, 4 the way your teacher showed you.",
+        "story": "Make up a short story where a small frog sits by a pond and watches the same drop of water go up, become a cloud, fall as rain, and come back to the pond again."
+      },
+      "cultural_anchors_used": [
+        "Igisoro — referenced as a counting/strategy game mechanic repurposed for water cycle steps",
+        "Imigani storytelling tradition — loosely referenced through the animal-character-in-a-setting narrative framing"
+      ],
+      "reviewer_notes": "Using Igisoro mechanics to represent a non-strategy concept is an adaptation; reviewer should confirm this feels respectful and not reductive of the game. The frog-and-pond framing is generic and not drawn from any specific Rwandan folktale."
+    },
+    {
+      "id": "rwanda-P3-the-water-cycle-03",
+      "topic": "the water cycle",
+      "grade_band": "P3",
+      "language": "english",
+      "point_budget": 10,
+      "scenario": "Tomorrow your class will share what they have learned about the water cycle. Each student will pick one way to present. Which way would you like to try?",
+      "options": {
+        "visual": "Create a picture chart using bold black, white, and red shapes like Imigongo art, with each shape standing for a part of the water cycle.",
+        "game": "Run a class challenge where teams answer questions about evaporation, condensation, and rain, and the first team to finish gets a small prize.",
+        "structured": "Stand at the front and explain the water cycle in order, one step at a time, the way your teacher explained it during Umuganda-style class work.",
+        "story": "Tell the class a short tale about a thirsty cow who waits for the rain to come back, and how the rain learned to travel around and visit everyone."
+      },
+      "cultural_anchors_used": [
+        "Imigongo — referenced for bold black/white/terracotta-red geometric visual style",
+        "Umuganda — referenced for the structured, step-by-step community-task framing, adapted to a classroom presentation context",
+        "Imigani — referenced for the animal-character-with-a-moral-lesson narrative framing"
+      ],
+      "reviewer_notes": "The Imigongo reference uses the color palette (black/white/red) directly from the knowledge base. The Umuganda reference is adapted — Umuganda itself is community work, not a classroom presentation, but the 'everyone has a role, steps happen in order' framing from the knowledge base is what is being borrowed. Reviewer should check that mentioning a thirsty cow waiting for rain does not unintentionally echo religious narratives in a way that could distract from the water cycle lesson."
+    }
+  ]
+}
+```
