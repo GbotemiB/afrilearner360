@@ -14,6 +14,10 @@ node_modules/
 dist/
 build/
 
+# Archives. Two 21 MB node_modules zips were committed early on and still sit in history;
+# this stops any more being added. Ship sources, not archives of sources.
+*.zip
+
 # OS
 .DS_Store
 # Resource-fork junk created when macOS extracts a zip. 81 files / 11 MB in this repo alone.
